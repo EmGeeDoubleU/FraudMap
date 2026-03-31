@@ -1,7 +1,10 @@
+import { useContext } from 'react';
 import PageContainer from '../components/Layout/PageContainer';
 import ScrollReveal from '../components/common/ScrollReveal';
+import { DownloadContext } from '../App';
 
 export default function Methodology() {
+  const download = useContext(DownloadContext);
   return (
     <PageContainer>
       <div className="page-section methodology-section">
@@ -137,6 +140,18 @@ export default function Methodology() {
             </dl>
           </ScrollReveal>
         </div>
+
+        <ScrollReveal>
+          <div className="download-cta">
+            <h3 className="download-cta-title">Download the full report</h3>
+            <p className="download-cta-text">
+              Save a PDF copy of all sections for offline reading or sharing with your team.
+            </p>
+            <button type="button" className="download-cta-button" onClick={() => download?.trigger()}>
+              Download PDF
+            </button>
+          </div>
+        </ScrollReveal>
       </div>
     </PageContainer>
   );

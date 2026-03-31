@@ -1512,3 +1512,260 @@ main > section:nth-child(even) .stat-card {
 .recharts-tooltip-cursor {
   fill: var(--neutral-100);
 }
+
+/* ── Download Nav Pill (always blue) ───────────────────────────────── */
+
+.pill-nav-download {
+  background: var(--color-primary) !important;
+  color: #fff !important;
+  font-weight: var(--font-weight-semibold) !important;
+  border: none;
+  cursor: pointer;
+}
+
+.pill-nav-download:hover {
+  background: var(--primary-500) !important;
+  color: #fff !important;
+}
+
+.mobile-nav-download {
+  color: var(--color-primary) !important;
+  font-weight: var(--font-weight-semibold) !important;
+}
+
+/* ── Download CTA (bottom of Methodology) ──────────────────────────── */
+
+.download-cta {
+  margin-top: 64px;
+  padding: 40px;
+  background: var(--primary-50);
+  border: 1px solid var(--primary-200);
+  border-radius: var(--radius-lg);
+  text-align: center;
+}
+
+.download-cta-title {
+  font-size: var(--text-2xl);
+  font-weight: var(--font-weight-bold);
+  margin-bottom: 8px;
+}
+
+.download-cta-text {
+  font-size: var(--text-base);
+  color: var(--color-muted-foreground);
+  margin-bottom: 24px;
+}
+
+.download-cta-button {
+  display: inline-block;
+  padding: 12px 32px;
+  background: var(--color-primary);
+  color: #fff;
+  font-family: var(--font-sans);
+  font-size: var(--text-base);
+  font-weight: var(--font-weight-semibold);
+  border: none;
+  border-radius: 24px;
+  cursor: pointer;
+  transition: background var(--transition-fast);
+}
+
+.download-cta-button:hover {
+  background: var(--primary-500);
+}
+
+/* ══════════════════════════════════════════════════════════════════════
+   PDF Generation — Offscreen rendering + Download overlay
+   ══════════════════════════════════════════════════════════════════════ */
+
+.pdf-offscreen {
+  position: fixed;
+  left: -9999px;
+  top: 0;
+  width: 900px;
+  z-index: -1;
+  background: #fff;
+}
+
+.pdf-render-container {
+  width: 900px;
+  padding: 0 60px;
+  background: #fff;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--color-foreground);
+}
+
+.pdf-cover {
+  height: 1120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.pdf-cover-logo {
+  height: 32px;
+  width: auto;
+  margin-bottom: 48px;
+  opacity: 0.7;
+}
+
+.pdf-cover-title {
+  font-size: 42px;
+  font-weight: var(--font-weight-bold);
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+  margin-bottom: 20px;
+}
+
+.pdf-cover-subtitle {
+  font-size: 15px;
+  color: var(--color-muted-foreground);
+  line-height: 1.6;
+}
+
+.pdf-header-logo {
+  height: 18px;
+  width: auto;
+  margin-bottom: 24px;
+  opacity: 0.5;
+}
+
+.pdf-section {
+  padding: 12px 0 24px;
+}
+
+.pdf-section .iceberg-block {
+  max-width: 100%;
+}
+
+.pdf-section .iceberg-value {
+  font-size: 28px;
+}
+
+.pdf-stat-cards {
+  margin-top: 24px;
+  grid-template-columns: repeat(5, 1fr) !important;
+  gap: 8px !important;
+}
+
+.pdf-stat-cards .stat-card {
+  padding: 14px 10px;
+}
+
+.pdf-stat-cards .stat-card-value {
+  font-size: 18px;
+}
+
+.pdf-stat-cards .stat-card-label {
+  font-size: 10px;
+}
+
+.pdf-section .insight-headline-primary {
+  font-size: 22px;
+}
+
+.pdf-section .insight-headline-secondary {
+  font-size: 14px;
+}
+
+.pdf-section .chart-section {
+  margin: 24px 0;
+}
+
+.pdf-section .supporting-context {
+  font-size: 13px;
+  margin: 16px 0;
+}
+
+.pdf-section .callout {
+  margin: 20px 0;
+  padding: 16px 20px;
+}
+
+.pdf-section .expert-commentary {
+  padding: 20px 24px;
+  margin: 20px 0;
+}
+
+.pdf-section .geo-card {
+  padding: 20px 24px;
+}
+
+.pdf-section .stat-pair {
+  margin: 20px 0;
+}
+
+.pdf-section .comparison-table {
+  font-size: 11px;
+  margin: 16px 0;
+}
+
+.pdf-section .comparison-table th,
+.pdf-section .comparison-table td {
+  padding: 6px 10px;
+}
+
+.pdf-section .map-container {
+  height: 280px !important;
+}
+
+.pdf-section .dual-map {
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.pdf-final-footer {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid var(--color-border);
+  font-size: 11px;
+  color: var(--color-muted-foreground);
+  text-align: center;
+}
+
+.print-avoid-break {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+/* ── Download Overlay ──────────────────────────────────────────────── */
+
+.download-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.download-overlay-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  font-size: var(--text-lg);
+  color: var(--color-foreground);
+  font-weight: var(--font-weight-medium);
+}
+
+.download-overlay-content .page-loading-spinner {
+  width: 32px;
+  height: 32px;
+  margin-right: 0;
+}
+
+/* ── Hide PDF elements from print (the actual @media print) ────── */
+
+@media print {
+  .download-overlay,
+  .pdf-offscreen {
+    display: none !important;
+  }
+}

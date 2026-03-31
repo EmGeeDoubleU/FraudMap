@@ -1,5 +1,6 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useContext } from 'react';
 import { NavLink, useNavigate, useLocation } from 'react-router-dom';
+import { DownloadContext } from '../../App';
 
 function pathMatches(current, path) {
   if (path === '/') return current === '/';
@@ -11,6 +12,7 @@ export default function Header({ sections = [] }) {
   const [mobileOpen, setMobileOpen] = useState(false);
   const navigate = useNavigate();
   const location = useLocation();
+  const download = useContext(DownloadContext);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 20);
@@ -44,6 +46,13 @@ export default function Header({ sections = [] }) {
               {s.label}
             </NavLink>
           ))}
+          <button
+            type="button"
+            className="pill-nav-item pill-nav-download"
+            onClick={() => download?.trigger()}
+          >
+            Download
+          </button>
         </nav>
 
         <button
@@ -66,6 +75,13 @@ export default function Header({ sections = [] }) {
             {s.label}
           </button>
         ))}
+        <button
+          type="button"
+          className="mobile-nav-link mobile-nav-download"
+          onClick={() => { setMobileOpen(false); download?.trigger(); }}
+        >
+          Download PDF
+        </button>
       </nav>
     </>
   );
