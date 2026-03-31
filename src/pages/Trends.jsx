@@ -35,8 +35,8 @@ export default function Trends() {
               />
               <div className="supporting-context">
                 <p>
-                  {cagr ? `${cagr}% annual growth` : '...'} vs ~2.5% population growth vs ~3.2% GDP growth.
-                  From 326,000 reports in 2001 to 6.5 million in 2024, consumer fraud complaints have
+                  {cagr ? `${cagr}% annual growth for 24 years.` : '...'}
+                  {' '}From 326,000 reports in 2001 to 6.5 million in 2024, consumer fraud complaints have
                   compounded relentlessly, a 20x increase in 23 years.
                 </p>
                 <p style={{ marginTop: 12 }}>

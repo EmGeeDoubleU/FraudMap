@@ -18,7 +18,7 @@ export default function ExecutiveSummary() {
   const email = contact?.methods?.find((m) => m.contact_method === 'Email');
 
   const reported = headlines?.total_loss;
-  const estimated = unreported?.insight?.estimated_actual_low;
+  const estimated = unreported?.insight?.estimated_actual_high;
   const barRatio = reported && estimated ? Math.round((reported / estimated) * 100) : 0;
 
   return (
@@ -70,9 +70,9 @@ export default function ExecutiveSummary() {
             <div className="supporting-context" style={{ maxWidth: 760 }}>
               <p>
                 In 2024, the FTC Consumer Sentinel Network recorded its highest-ever annual total: 6.5 million
-                consumer reports encompassing fraud, identity theft, and other complaints.               Only 38% of fraud
+                consumer reports encompassing fraud, identity theft, and other complaints. Only 38% of fraud
                 reports included a dollar loss, meaning the $12.5 billion figure almost certainly understates
-                the true cost. The median loss was $497, but the average was $4,920, a 10x gap that reveals
+                the true cost. The median loss was $427, but the average was $4,920, an 11.5x gap that reveals
                 how a small number of catastrophic incidents drive aggregate losses while most victims lose
                 relatively modest amounts.
               </p>

@@ -3,15 +3,11 @@
   "section": "executive_summary",
   "type": "context_callout",
   "priority": 1,
-  "headline": "$12.5B Reported. Actual Losses May Exceed $100B.",
+  "headline": "$12.5B Reported. Actual Losses May Reach $195.9B.",
   "insight": {
     "reported_total_2024": 12500000000,
-    "estimated_actual_low": 100000000000,
     "estimated_actual_high": 195900000000,
-    "multiplier_range": {
-      "low": 8,
-      "high": 15.7
-    },
+    "multiplier_high": 15.7,
     "seniors": {
       "reported": 2400000000,
       "estimated_actual": 81500000000,
@@ -20,13 +16,15 @@
   },
   "copy": {
     "short": "FTC Sentinel captures reported fraud only. Most fraud is never reported.",
-    "body": "The FTC estimates actual fraud losses in 2024 could be as high as $195.9 billion, roughly 15x the reported figure. For seniors, the gap is even wider: $2.4B reported versus an estimated $81.5B actual, a 34x multiplier. Every number in this report represents the visible fraction of a much larger problem.",
+    "body": "The FTC estimates actual fraud losses in 2024 could be as high as $195.9 billion, roughly 15.7x the reported figure. For seniors, the gap is even wider: $2.4B reported versus an estimated $81.5B actual, a 34x multiplier. Every number in this report represents the visible fraction of a much larger problem.",
     "methodology_note": "Estimates based on FTC survey data comparing self-reported victimization rates to formal complaint filing rates."
   },
   "source": {
-    "name": "FTC Report to Congress on Protecting Older Consumers, 2024",
-    "url": "https://www.ftc.gov/reports/protecting-older-consumers-2023-2024",
-    "accessed": "2024-03"
+    "name": "FTC Protecting Older Consumers 2024-2025 Report",
+    "url": "https://www.ftc.gov/system/files/ftc_gov/pdf/P144400-OlderAdultsReportDec2025.pdf",
+    "secondary": "CNBC coverage, December 13, 2025",
+    "secondary_url": "https://www.cnbc.com/2025/12/13/financial-fraud-seniors-ftc.html",
+    "accessed": "2026-03"
   },
   "display_hints": {
     "style": "warning_callout",

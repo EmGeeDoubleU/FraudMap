@@ -4,29 +4,25 @@
   "type": "projection",
   "priority": 1,
   "headline": "What's Coming",
-  "subhead": "Two projections based on current trajectory",
+  "subhead": "A structural shift already underway, and what to watch next",
   "projections": [
     {
       "id": "credit_bureau_crossover",
-      "headline": "Credit Bureaus Will Be #1 by Late 2025",
+      "headline": "Credit Bureaus Overtook Identity Theft as the #1 Complaint Category in 2024",
       "confidence": "high",
-      "basis": "mathematical_projection",
+      "basis": "observed_data",
       "analysis": {
         "credit_bureaus_2022": 590872,
         "credit_bureaus_2024": 1353175,
         "credit_bureaus_growth_pct": 129.01,
-        "credit_bureaus_cagr": 51.3,
         "identity_theft_2022": 1107004,
         "identity_theft_2024": 1135291,
         "identity_theft_growth_pct": 2.56,
-        "identity_theft_cagr": 1.27,
-        "current_gap": -218116,
-        "crossover_projection": "Q3-Q4 2025"
+        "gap_2024": 217884
       },
-      "projection_methodology": "Linear extrapolation of 2022-2024 growth rates. Credit Bureaus growing at 51.3% CAGR, Identity Theft at 1.27% CAGR. At current rates, Credit Bureaus overtakes Identity Theft in late 2025.",
       "copy": {
-        "short": "At current growth rates, Credit Bureau complaints will surpass Identity Theft as the #1 category by late 2025.",
-        "body": "Credit Bureau complaints have grown from 590,872 (2022) to 1,353,175 (2024), a 129% increase. Identity Theft has grown just 2.56% over the same period. If these trends continue, Credit Bureaus will become the dominant complaint category within 12-18 months. This signals a structural shift: fraud's aftermath, not fraud itself, is becoming the dominant consumer complaint."
+        "short": "Credit Bureau complaints surpassed Identity Theft as the #1 category in 2024.",
+        "body": "Credit Bureau complaints grew from 590,872 (2022) to 1,353,175 (2024), a 129% increase. Identity Theft grew just 2.56% over the same period. Credit Bureaus now lead by over 217,000 reports. This is a structural shift: fraud's aftermath, not fraud itself, is now the dominant consumer complaint."
       },
       "what_it_means": "The fraud has already happened. Consumers are now fighting to clean up the damage. This is a lagging indicator of identity theft that occurred months or years earlier."
     },
@@ -48,16 +44,16 @@
         ]
       },
       "copy": {
-        "short": "Social media's 7x higher conversion rate will attract regulatory attention.",
+        "short": "Social media's 6.4x higher conversion rate will attract regulatory attention.",
         "body": "With $1.86B in losses and a 70% conversion rate, social media has become the preferred channel for sophisticated scammers. Regulatory bodies are taking notice. The FCC is considering stricter caller ID authentication, and the SCAM Act in Congress would require social media companies to combat fraud more aggressively. If social media-initiated fraud continues growing, expect platform liability to become a major policy battleground."
       },
       "what_it_means": "Fraud teams should monitor regulatory developments. New platform requirements could shift fraud patterns to other contact channels."
     }
   ],
   "caveats": [
-    "Projections assume continuation of 2022-2024 trends. Regulatory action, economic changes, or platform policy shifts could alter trajectory.",
     "Credit Bureau complaint growth may plateau as identity theft cleanup backlogs clear.",
-    "Social media platform changes (e.g., account verification requirements) could reduce fraud conversion rates."
+    "Social media platform changes (e.g., account verification requirements) could reduce fraud conversion rates.",
+    "Regulatory action or economic changes could alter fraud patterns."
   ],
   "sources": [
     {

@@ -8,7 +8,7 @@
   "key_insight": "California leads in total reports because it's the largest state. Adjusted for population, DC, Nevada, Delaware, and Arizona have the highest fraud rates.",
   "surprises": [
     {
-      "finding": "DC has 2x California's fraud rate",
+      "finding": "DC has nearly 2x California's fraud rate",
       "detail": "District of Columbia: 1,054 reports per 100K vs California: 608 per 100K",
       "dc_reports_per_100k": 1053.9,
       "california_reports_per_100k": 608.15,

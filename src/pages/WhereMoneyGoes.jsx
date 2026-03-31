@@ -112,7 +112,7 @@ export default function WhereMoneyGoes() {
                   />
                   <p className="chart-context">
                     63% of loss reports fall under $1,000. Most victims lose a few hundred dollars and move on.
-                    But the 12.6% of reports exceeding $10,000 account for an estimated 73% of all dollar losses.
+                    But the 12.6% of reports exceeding $10,000 drive the majority of all dollar losses.
                     This is the core tension in fraud prevention: high-frequency, low-value scams affect the most
                     people, but low-frequency, high-value scams cause the most damage. Effective fraud programs
                     need strategies for both.
