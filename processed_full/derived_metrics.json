@@ -1,0 +1,63 @@
+{
+  "concentration": {
+    "msa_top_10_share": 38.32,
+    "msa_top_5_share": 23.9,
+    "category_top_10_share": 84.93,
+    "category_top_3_share": 57.86,
+    "state_top_5_share": 37.99,
+    "state_top_10_share": 54.27,
+    "payment_top_3_loss_share": 71.7
+  },
+  "inequality": {
+    "top_metro_reports": 309066,
+    "bottom_metro_reports": 373,
+    "top_to_bottom_metro_ratio": 828.6,
+    "top_category_reports": 1353175,
+    "bottom_category_reports": 1233,
+    "top_to_bottom_category_ratio": 1097.47
+  },
+  "severity": {
+    "loss_per_report_global": 4919.94,
+    "highest_loss_per_report_age_group": {
+      "age_group": "80 and Over",
+      "loss_per_report": 6168.66
+    },
+    "highest_loss_per_report_state": {
+      "state": "California",
+      "loss_per_report": 7032.54
+    },
+    "highest_avg_loss_payment_method": {
+      "method": "Bank Transfer or Payment",
+      "avg_loss": 44131.32
+    }
+  },
+  "headlines": {
+    "top_metro": {
+      "name": "New York-Newark-Jersey City, NY-NJ Metropolitan Statistical Area",
+      "reports": 309066,
+      "pct": 7.39
+    },
+    "top_category": {
+      "name": "Credit Bureaus and Information Furnishers",
+      "reports": 1353175,
+      "pct": 20.91
+    },
+    "top_payment_method": {
+      "name": "Bank Transfer or Payment",
+      "total_loss": 2089000000.0,
+      "pct_of_loss": 38.44
+    },
+    "most_vulnerable_age": {
+      "age_group": "80 and Over",
+      "loss_per_report": 6168.66,
+      "median_loss": 1650.0
+    },
+    "most_targeted_age": {
+      "age_group": "60 - 69",
+      "reports": 208896
+    },
+    "total_reports": 2600678,
+    "total_loss": 12537194708,
+    "cagr": 13.88
+  }
+}

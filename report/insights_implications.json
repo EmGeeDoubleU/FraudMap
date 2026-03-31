@@ -1,0 +1,40 @@
+{
+  "section": "Implications",
+  "implications": [
+    {
+      "id": "concentrate_controls",
+      "title": "Concentrate fraud controls on the top 3 categories",
+      "statement": "With 58% of all reports concentrated in just 3 categories — Credit Bureaus, Identity Theft, and Imposter Scams — institutions should prioritize detection and prevention resources in these areas. Broad, unfocused fraud programs will miss the majority of activity."
+    },
+    {
+      "id": "monitor_bank_transfers_crypto",
+      "title": "Bank transfers and cryptocurrency demand enhanced monitoring",
+      "statement": "These two payment methods account for 64.5% of all dollar losses despite representing only 20% of payment-identified reports. Transaction monitoring, velocity checks, and confirmation-of-payee controls should be prioritized for these rails."
+    },
+    {
+      "id": "social_media_intervention",
+      "title": "Social media is the critical intervention point for scam prevention",
+      "statement": "With a 70% loss conversion rate and $1.86B in total losses, social media is the most effective scam delivery channel. Platform-level detection, in-feed warnings, and consumer education targeted at social media users could have outsized impact."
+    },
+    {
+      "id": "protect_elderly",
+      "title": "Elderly consumers need targeted protection — they lose the most",
+      "statement": "The 80+ age group loses 3.4x more per incident than teens and has the highest median loss ($1,650). Proactive outreach, caregiver alerts, and financial institution safeguards specifically designed for older adults would address the most vulnerable population."
+    },
+    {
+      "id": "watch_emerging_categories",
+      "title": "Watch Debt Collection and Cyber Threats — they're accelerating",
+      "statement": "These categories grew 72pp and 35pp above market rate respectively. Traditional fraud categories are declining while digital-native categories surge. Risk models and monitoring frameworks should be reweighted to reflect the shifting landscape."
+    },
+    {
+      "id": "per_capita_resource_allocation",
+      "title": "Allocate enforcement resources by per-capita rate, not raw volume",
+      "statement": "States like DC, Nevada, and Delaware have far higher fraud rates per capita than large states. Enforcement and consumer protection budgets based solely on raw complaint volume will underserve the most fraud-dense jurisdictions."
+    },
+    {
+      "id": "high_value_tail",
+      "title": "A small tail of high-value fraud drives the majority of financial damage",
+      "statement": "12.6% of loss reports (those over $10K) account for ~73% of total dollar losses. Prevention strategies must address both the high-frequency/low-loss and the low-frequency/high-loss segments — they require different interventions."
+    }
+  ]
+}

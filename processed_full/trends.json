@@ -1,0 +1,459 @@
+{
+  "yearly_totals": [
+    {
+      "year": 2001,
+      "reports": 325519
+    },
+    {
+      "year": 2002,
+      "reports": 551622
+    },
+    {
+      "year": 2003,
+      "reports": 713657
+    },
+    {
+      "year": 2004,
+      "reports": 860383
+    },
+    {
+      "year": 2005,
+      "reports": 909314
+    },
+    {
+      "year": 2006,
+      "reports": 906129
+    },
+    {
+      "year": 2007,
+      "reports": 1070447
+    },
+    {
+      "year": 2008,
+      "reports": 1261124
+    },
+    {
+      "year": 2009,
+      "reports": 1428977
+    },
+    {
+      "year": 2010,
+      "reports": 1470306
+    },
+    {
+      "year": 2011,
+      "reports": 1898543
+    },
+    {
+      "year": 2012,
+      "reports": 2115079
+    },
+    {
+      "year": 2013,
+      "reports": 2134565
+    },
+    {
+      "year": 2014,
+      "reports": 2620931
+    },
+    {
+      "year": 2015,
+      "reports": 3080378
+    },
+    {
+      "year": 2016,
+      "reports": 3060824
+    },
+    {
+      "year": 2017,
+      "reports": 2926167
+    },
+    {
+      "year": 2018,
+      "reports": 3161213
+    },
+    {
+      "year": 2019,
+      "reports": 3485938
+    },
+    {
+      "year": 2020,
+      "reports": 5165295
+    },
+    {
+      "year": 2021,
+      "reports": 6136404
+    },
+    {
+      "year": 2022,
+      "reports": 5317751
+    },
+    {
+      "year": 2023,
+      "reports": 5548815
+    },
+    {
+      "year": 2024,
+      "reports": 6471708
+    }
+  ],
+  "yoy_growth": [
+    {
+      "year": 2002,
+      "reports": 551622,
+      "yoy_growth_pct": 69.46,
+      "acceleration_pp": 69.46
+    },
+    {
+      "year": 2003,
+      "reports": 713657,
+      "yoy_growth_pct": 29.37,
+      "acceleration_pp": -40.09
+    },
+    {
+      "year": 2004,
+      "reports": 860383,
+      "yoy_growth_pct": 20.56,
+      "acceleration_pp": -8.81
+    },
+    {
+      "year": 2005,
+      "reports": 909314,
+      "yoy_growth_pct": 5.69,
+      "acceleration_pp": -14.87
+    },
+    {
+      "year": 2006,
+      "reports": 906129,
+      "yoy_growth_pct": -0.35,
+      "acceleration_pp": -6.04
+    },
+    {
+      "year": 2007,
+      "reports": 1070447,
+      "yoy_growth_pct": 18.13,
+      "acceleration_pp": 18.48
+    },
+    {
+      "year": 2008,
+      "reports": 1261124,
+      "yoy_growth_pct": 17.81,
+      "acceleration_pp": -0.32
+    },
+    {
+      "year": 2009,
+      "reports": 1428977,
+      "yoy_growth_pct": 13.31,
+      "acceleration_pp": -4.5
+    },
+    {
+      "year": 2010,
+      "reports": 1470306,
+      "yoy_growth_pct": 2.89,
+      "acceleration_pp": -10.42
+    },
+    {
+      "year": 2011,
+      "reports": 1898543,
+      "yoy_growth_pct": 29.13,
+      "acceleration_pp": 26.24
+    },
+    {
+      "year": 2012,
+      "reports": 2115079,
+      "yoy_growth_pct": 11.41,
+      "acceleration_pp": -17.72
+    },
+    {
+      "year": 2013,
+      "reports": 2134565,
+      "yoy_growth_pct": 0.92,
+      "acceleration_pp": -10.49
+    },
+    {
+      "year": 2014,
+      "reports": 2620931,
+      "yoy_growth_pct": 22.79,
+      "acceleration_pp": 21.87
+    },
+    {
+      "year": 2015,
+      "reports": 3080378,
+      "yoy_growth_pct": 17.53,
+      "acceleration_pp": -5.26
+    },
+    {
+      "year": 2016,
+      "reports": 3060824,
+      "yoy_growth_pct": -0.63,
+      "acceleration_pp": -18.16
+    },
+    {
+      "year": 2017,
+      "reports": 2926167,
+      "yoy_growth_pct": -4.4,
+      "acceleration_pp": -3.77
+    },
+    {
+      "year": 2018,
+      "reports": 3161213,
+      "yoy_growth_pct": 8.03,
+      "acceleration_pp": 12.43
+    },
+    {
+      "year": 2019,
+      "reports": 3485938,
+      "yoy_growth_pct": 10.27,
+      "acceleration_pp": 2.24
+    },
+    {
+      "year": 2020,
+      "reports": 5165295,
+      "yoy_growth_pct": 48.18,
+      "acceleration_pp": 37.91
+    },
+    {
+      "year": 2021,
+      "reports": 6136404,
+      "yoy_growth_pct": 18.8,
+      "acceleration_pp": -29.38
+    },
+    {
+      "year": 2022,
+      "reports": 5317751,
+      "yoy_growth_pct": -13.34,
+      "acceleration_pp": -32.14
+    },
+    {
+      "year": 2023,
+      "reports": 5548815,
+      "yoy_growth_pct": 4.35,
+      "acceleration_pp": 17.69
+    },
+    {
+      "year": 2024,
+      "reports": 6471708,
+      "yoy_growth_pct": 16.63,
+      "acceleration_pp": 12.28
+    }
+  ],
+  "cagr_2001_2024_pct": 13.88,
+  "by_type": [
+    {
+      "year": 2001,
+      "fraud": 137306,
+      "identity_theft": 86250,
+      "other": 101963,
+      "fraud_share": 42.18,
+      "id_theft_share": 26.5,
+      "other_share": 31.32
+    },
+    {
+      "year": 2002,
+      "fraud": 242783,
+      "identity_theft": 161977,
+      "other": 146862,
+      "fraud_share": 44.01,
+      "id_theft_share": 29.36,
+      "other_share": 26.62
+    },
+    {
+      "year": 2003,
+      "fraud": 331366,
+      "identity_theft": 215240,
+      "other": 167051,
+      "fraud_share": 46.43,
+      "id_theft_share": 30.16,
+      "other_share": 23.41
+    },
+    {
+      "year": 2004,
+      "fraud": 410298,
+      "identity_theft": 246909,
+      "other": 203176,
+      "fraud_share": 47.69,
+      "id_theft_share": 28.7,
+      "other_share": 23.61
+    },
+    {
+      "year": 2005,
+      "fraud": 437585,
+      "identity_theft": 255687,
+      "other": 216042,
+      "fraud_share": 48.12,
+      "id_theft_share": 28.12,
+      "other_share": 23.76
+    },
+    {
+      "year": 2006,
+      "fraud": 423672,
+      "identity_theft": 246214,
+      "other": 236243,
+      "fraud_share": 46.76,
+      "id_theft_share": 27.17,
+      "other_share": 26.07
+    },
+    {
+      "year": 2007,
+      "fraud": 505563,
+      "identity_theft": 259314,
+      "other": 305570,
+      "fraud_share": 47.23,
+      "id_theft_share": 24.22,
+      "other_share": 28.55
+    },
+    {
+      "year": 2008,
+      "fraud": 620832,
+      "identity_theft": 314587,
+      "other": 325705,
+      "fraud_share": 49.23,
+      "id_theft_share": 24.94,
+      "other_share": 25.83
+    },
+    {
+      "year": 2009,
+      "fraud": 708781,
+      "identity_theft": 278360,
+      "other": 441836,
+      "fraud_share": 49.6,
+      "id_theft_share": 19.48,
+      "other_share": 30.92
+    },
+    {
+      "year": 2010,
+      "fraud": 820072,
+      "identity_theft": 251074,
+      "other": 399160,
+      "fraud_share": 55.78,
+      "id_theft_share": 17.08,
+      "other_share": 27.15
+    },
+    {
+      "year": 2011,
+      "fraud": 1041517,
+      "identity_theft": 279191,
+      "other": 577835,
+      "fraud_share": 54.86,
+      "id_theft_share": 14.71,
+      "other_share": 30.44
+    },
+    {
+      "year": 2012,
+      "fraud": 1112693,
+      "identity_theft": 369958,
+      "other": 632428,
+      "fraud_share": 52.61,
+      "id_theft_share": 17.49,
+      "other_share": 29.9
+    },
+    {
+      "year": 2013,
+      "fraud": 1159115,
+      "identity_theft": 290098,
+      "other": 685352,
+      "fraud_share": 54.3,
+      "id_theft_share": 13.59,
+      "other_share": 32.11
+    },
+    {
+      "year": 2014,
+      "fraud": 1526365,
+      "identity_theft": 332545,
+      "other": 762021,
+      "fraud_share": 58.24,
+      "id_theft_share": 12.69,
+      "other_share": 29.07
+    },
+    {
+      "year": 2015,
+      "fraud": 1165393,
+      "identity_theft": 490085,
+      "other": 1429676,
+      "fraud_share": 37.77,
+      "id_theft_share": 15.89,
+      "other_share": 46.34
+    },
+    {
+      "year": 2016,
+      "fraud": 1228865,
+      "identity_theft": 398356,
+      "other": 1435874,
+      "fraud_share": 40.12,
+      "id_theft_share": 13.01,
+      "other_share": 46.88
+    },
+    {
+      "year": 2017,
+      "fraud": 1310003,
+      "identity_theft": 370915,
+      "other": 1247309,
+      "fraud_share": 44.74,
+      "id_theft_share": 12.67,
+      "other_share": 42.6
+    },
+    {
+      "year": 2018,
+      "fraud": 1523295,
+      "identity_theft": 444338,
+      "other": 1203425,
+      "fraud_share": 48.04,
+      "id_theft_share": 14.01,
+      "other_share": 37.95
+    },
+    {
+      "year": 2019,
+      "fraud": 1897238,
+      "identity_theft": 649390,
+      "other": 980572,
+      "fraud_share": 53.79,
+      "id_theft_share": 18.41,
+      "other_share": 27.8
+    },
+    {
+      "year": 2020,
+      "fraud": 2467103,
+      "identity_theft": 1388532,
+      "other": 1361628,
+      "fraud_share": 47.29,
+      "id_theft_share": 26.61,
+      "other_share": 26.1
+    },
+    {
+      "year": 2021,
+      "fraud": 3041971,
+      "identity_theft": 1434477,
+      "other": 1686786,
+      "fraud_share": 49.36,
+      "id_theft_share": 23.27,
+      "other_share": 27.37
+    },
+    {
+      "year": 2022,
+      "fraud": 2572424,
+      "identity_theft": 1107004,
+      "other": 1661691,
+      "fraud_share": 48.16,
+      "id_theft_share": 20.73,
+      "other_share": 31.11
+    },
+    {
+      "year": 2023,
+      "fraud": 2621649,
+      "identity_theft": 1036855,
+      "other": 1914555,
+      "fraud_share": 47.04,
+      "id_theft_share": 18.6,
+      "other_share": 34.35
+    },
+    {
+      "year": 2024,
+      "fraud": 2600678,
+      "identity_theft": 1135291,
+      "other": 2759963,
+      "fraud_share": 40.04,
+      "id_theft_share": 17.48,
+      "other_share": 42.49
+    }
+  ]
+}

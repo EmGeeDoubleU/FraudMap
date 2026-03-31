@@ -1,0 +1,36 @@
+{
+  "section": "Demographics",
+  "insights": [
+    {
+      "title": "Age 60–69: Most Targeted Group by Report Volume",
+      "statement": "Consumers aged 60–69 filed the most fraud reports (208,896 — 18% of total), surpassing even the 30–39 group. However, their per-incident losses ($5,649) rank only 4th among age groups.",
+      "metric": "208,896 reports (18% of total)",
+      "supporting_data": {
+        "reports": 208896,
+        "pct": 18,
+        "loss_per_report": 5648.74
+      }
+    },
+    {
+      "title": "80+ Consumers: Fewest Reports, Highest Losses Per Incident",
+      "statement": "The 80+ age group files only 4% of fraud reports but loses $6,169 per report — the highest of any age group and 3.4x more than the under-19 group. Their median loss of $1,650 is 8.7x the teen median of $189.",
+      "metric": "$6,169 loss per report (80+)",
+      "supporting_data": {
+        "reports": 51713,
+        "lpr": 6168.66,
+        "median": 1650,
+        "gap_ratio": 3.4
+      }
+    },
+    {
+      "title": "Younger Consumers Report More Often But Lose Less",
+      "statement": "The 20–39 age range generates 30% of fraud reports but only 22% of total losses. Their reporting rate is high but severity is lower — median losses of $417–$450 versus $691–$1,650 for those over 60.",
+      "metric": "30% of reports, 22% of losses (ages 20–39)",
+      "supporting_data": {
+        "pct_reports_20_39": 30,
+        "median_20s": 417,
+        "median_30s": 450
+      }
+    }
+  ]
+}

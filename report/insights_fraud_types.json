@@ -1,0 +1,53 @@
+{
+  "section": "Fraud Types",
+  "insights": [
+    {
+      "title": "Credit Bureau Complaints Now Dominate",
+      "statement": "Credit Bureaus and Information Furnishers surpassed Identity Theft as the #1 category in 2024 at 20.9% of all reports (1.35M). This category grew 129% in two years, nearly doubling its market share from 11.1% to 20.9%.",
+      "metric": "20.9% share, +129% growth",
+      "supporting_data": {
+        "reports": 1353175,
+        "growth": 129.01,
+        "share_from": 11.11,
+        "share_to": 20.91
+      }
+    },
+    {
+      "title": "Imposter Scams Remain the Top Fraud-Classified Category",
+      "statement": "With 845,806 reports, Imposter Scams are the most reported pure-fraud category, led by Business Imposters (450K) and Government Imposters (266K). 22% of imposter scam reports involve financial loss.",
+      "metric": "845,806 imposter scam reports",
+      "supporting_data": {
+        "reports": 845806,
+        "pct": 13.07
+      }
+    },
+    {
+      "title": "Fastest Risers: Debt Collection and Cyber Threats",
+      "statement": "Debt Collection (+72pp above market) and Privacy/Cyber Threats (+35pp) are the fastest-rising categories relative to overall market growth. Both are emerging risk vectors that doubled their growth rate year-over-year.",
+      "metric": "+72pp and +35pp above market",
+      "supporting_data": {
+        "debt_collection_relative": 71.79,
+        "cyber_relative": 34.91
+      }
+    },
+    {
+      "title": "Fake Check Scams and Sweepstakes Are Declining",
+      "statement": "Foreign Money/Fake Check Scams (-55%) and Prizes/Sweepstakes (-34%) are the fastest-declining categories. Traditional \"Nigerian prince\" style scams are fading while digital-native fraud categories surge.",
+      "metric": "-55% decline in fake check scams",
+      "supporting_data": {
+        "fake_check": -54.84,
+        "sweepstakes": -34.48
+      }
+    },
+    {
+      "title": "Growth Is Concentrated in 8 of 29 Categories",
+      "statement": "Only 8 of 29 tracked categories outpaced the 21.7% overall market growth from 2022–2024. The remaining 21 categories are either growing slower than the market or actively declining — the fraud landscape is consolidating.",
+      "metric": "8 outperforming, 21 underperforming",
+      "supporting_data": {
+        "outperforming": 8,
+        "underperforming": 21,
+        "market_growth": 21.7
+      }
+    }
+  ]
+}

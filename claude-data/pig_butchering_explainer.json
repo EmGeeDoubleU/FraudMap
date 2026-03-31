@@ -1,0 +1,84 @@
+{
+  "id": "pig_butchering_explainer",
+  "section": "fraud_types",
+  "type": "technique_callout",
+  "priority": 1,
+  "headline": "What Is Pig Butchering?",
+  "subhead": "The dominant scam technique hiding inside 'Investment Related' and 'Imposter Scams'",
+  "definition": {
+    "short": "A long-con scam where fraudsters build romantic or investment relationships over weeks, then convince victims to invest in fake crypto platforms.",
+    "etymology": "Named for the practice of 'fattening the pig before slaughter' - scammers cultivate trust and extract small wins before the final theft.",
+    "origin": "Originated in China around 2016, scaled globally during COVID via Southeast Asian fraud compounds."
+  },
+  "statistics": {
+    "global_losses_2020_2024": 75000000000,
+    "yoy_revenue_growth_2024": 40,
+    "yoy_deposit_growth_2024": 210,
+    "crypto_losses_2024": 5500000000,
+    "average_loss_per_victim": 50000,
+    "grooming_period_typical_days": {
+      "under_2_weeks_pct": 35,
+      "up_to_3_months_pct": 10
+    },
+    "victim_profile": {
+      "most_affected_gender": "male",
+      "most_affected_age_range": "30-49",
+      "pct_losing_over_half_net_worth": 75
+    }
+  },
+  "how_it_works": {
+    "step_1": {
+      "name": "Initial Contact",
+      "description": "Wrong-number text, dating app match, or LinkedIn connection. Scammer uses fake identity, often attractive photos."
+    },
+    "step_2": {
+      "name": "Relationship Building",
+      "description": "Weeks of daily messaging. Scammer shares personal details, builds emotional connection or professional rapport."
+    },
+    "step_3": {
+      "name": "Investment Introduction",
+      "description": "Scammer casually mentions crypto trading success. Shows fake platform with impressive returns."
+    },
+    "step_4": {
+      "name": "Small Wins",
+      "description": "Victim invests small amount, sees gains, successfully withdraws. Builds trust and confidence."
+    },
+    "step_5": {
+      "name": "The Butchering",
+      "description": "Victim invests large sum. Platform freezes account, demands 'taxes' or 'fees.' Scammer disappears."
+    }
+  },
+  "ftc_category_mapping": [
+    "Investment Related",
+    "Imposter Scams",
+    "Business and Job Opportunities"
+  ],
+  "why_it_works": {
+    "psychological": "Exploits loneliness, greed, and trust. Victims often too embarrassed to report.",
+    "technical": "Fake platforms look legitimate. Small initial withdrawals build false confidence.",
+    "scale": "Fraud compounds in Southeast Asia use trafficked workers to run thousands of simultaneous scams."
+  },
+  "sources": [
+    {
+      "name": "Chainalysis 2024 Crypto Crime Report",
+      "url": "https://www.chainalysis.com/blog/2024-pig-butchering-scam-revenue-grows-yoy/",
+      "date": "2025-02"
+    },
+    {
+      "name": "University of Texas Study (Griffin & Mei)",
+      "finding": "$75B moved through pig butchering networks 2020-2024",
+      "date": "2024-03"
+    },
+    {
+      "name": "Cyvers Web3 Security Report",
+      "finding": "$5.5B in Ethereum losses across 200,000 cases in 2024",
+      "date": "2025-02"
+    }
+  ],
+  "display_hints": {
+    "style": "explainer_box",
+    "expandable": true,
+    "icon": "warning",
+    "position": "within_fraud_types_section"
+  }
+}

@@ -1,0 +1,3615 @@
+{
+  "total_msa_reports": 4181896,
+  "metro_count": 401,
+  "metros": [
+    {
+      "metro": "Miami-Fort Lauderdale-West Palm Beach, FL Metropolitan Statistical Area",
+      "reports": 171462,
+      "population": 6138990,
+      "per_100k": 2793.0,
+      "pct_of_total": 4.1,
+      "rank_by_per_100k": 1,
+      "rank_by_reports": 3
+    },
+    {
+      "metro": "Atlanta-Sandy Springs-Roswell, GA Metropolitan Statistical Area",
+      "reports": 167515,
+      "population": 6176807,
+      "per_100k": 2712.0,
+      "pct_of_total": 4.01,
+      "rank_by_per_100k": 2,
+      "rank_by_reports": 4
+    },
+    {
+      "metro": "Sebastian-Vero Beach-West Vero Corridor, FL Metropolitan Statistical Area",
+      "reports": 4280,
+      "population": 163859,
+      "per_100k": 2612.0,
+      "pct_of_total": 0.1,
+      "rank_by_per_100k": 3,
+      "rank_by_reports": 147
+    },
+    {
+      "metro": "Orlando-Kissimmee-Sanford, FL Metropolitan Statistical Area",
+      "reports": 63405,
+      "population": 2721245,
+      "per_100k": 2330.0,
+      "pct_of_total": 1.52,
+      "rank_by_per_100k": 4,
+      "rank_by_reports": 13
+    },
+    {
+      "metro": "North Port-Bradenton-Sarasota, FL Metropolitan Statistical Area",
+      "reports": 19410,
+      "population": 864973,
+      "per_100k": 2244.0,
+      "pct_of_total": 0.46,
+      "rank_by_per_100k": 5,
+      "rank_by_reports": 43
+    },
+    {
+      "metro": "Charleston-North Charleston, SC Metropolitan Statistical Area",
+      "reports": 17509,
+      "population": 817795,
+      "per_100k": 2141.0,
+      "pct_of_total": 0.42,
+      "rank_by_per_100k": 6,
+      "rank_by_reports": 45
+    },
+    {
+      "metro": "Lakeland-Winter Haven, FL Metropolitan Statistical Area",
+      "reports": 16226,
+      "population": 761069,
+      "per_100k": 2132.0,
+      "pct_of_total": 0.39,
+      "rank_by_per_100k": 7,
+      "rank_by_reports": 48
+    },
+    {
+      "metro": "Las Vegas-Henderson-North Las Vegas, NV Metropolitan Statistical Area",
+      "reports": 48682,
+      "population": 2294156,
+      "per_100k": 2122.0,
+      "pct_of_total": 1.16,
+      "rank_by_per_100k": 8,
+      "rank_by_reports": 19
+    },
+    {
+      "metro": "Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area",
+      "reports": 66454,
+      "population": 3240078,
+      "per_100k": 2051.0,
+      "pct_of_total": 1.59,
+      "rank_by_per_100k": 9,
+      "rank_by_reports": 11
+    },
+    {
+      "metro": "Dallas-Fort Worth-Arlington, TX Metropolitan Statistical Area",
+      "reports": 159709,
+      "population": 7805914,
+      "per_100k": 2046.0,
+      "pct_of_total": 3.82,
+      "rank_by_per_100k": 10,
+      "rank_by_reports": 5
+    },
+    {
+      "metro": "Palm Bay-Melbourne-Titusville, FL Metropolitan Statistical Area",
+      "reports": 12534,
+      "population": 620495,
+      "per_100k": 2020.0,
+      "pct_of_total": 0.3,
+      "rank_by_per_100k": 11,
+      "rank_by_reports": 58
+    },
+    {
+      "metro": "East Stroudsburg, PA Micropolitan Statistical Area",
+      "reports": 3332,
+      "population": 167774,
+      "per_100k": 1986.0,
+      "pct_of_total": 0.08,
+      "rank_by_per_100k": 12,
+      "rank_by_reports": 168
+    },
+    {
+      "metro": "Tuscaloosa, AL Metropolitan Statistical Area",
+      "reports": 5391,
+      "population": 275191,
+      "per_100k": 1959.0,
+      "pct_of_total": 0.13,
+      "rank_by_per_100k": 13,
+      "rank_by_reports": 121
+    },
+    {
+      "metro": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metropolitan Statistical Area",
+      "reports": 121966,
+      "population": 6241863,
+      "per_100k": 1954.0,
+      "pct_of_total": 2.92,
+      "rank_by_per_100k": 14,
+      "rank_by_reports": 8
+    },
+    {
+      "metro": "Jacksonville, FL Metropolitan Statistical Area",
+      "reports": 31560,
+      "population": 1645464,
+      "per_100k": 1918.0,
+      "pct_of_total": 0.75,
+      "rank_by_per_100k": 15,
+      "rank_by_reports": 28
+    },
+    {
+      "metro": "Port St. Lucie, FL Metropolitan Statistical Area",
+      "reports": 9665,
+      "population": 506817,
+      "per_100k": 1907.0,
+      "pct_of_total": 0.23,
+      "rank_by_per_100k": 16,
+      "rank_by_reports": 76
+    },
+    {
+      "metro": "Odessa, TX Metropolitan Statistical Area",
+      "reports": 3103,
+      "population": 163230,
+      "per_100k": 1901.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 17,
+      "rank_by_reports": 175
+    },
+    {
+      "metro": "Houston-Pasadena-The Woodlands, TX Metropolitan Statistical Area",
+      "reports": 136239,
+      "population": 7273839,
+      "per_100k": 1873.0,
+      "pct_of_total": 3.26,
+      "rank_by_per_100k": 18,
+      "rank_by_reports": 7
+    },
+    {
+      "metro": "Memphis, TN-MS-AR Metropolitan Statistical Area",
+      "reports": 25046,
+      "population": 1341510,
+      "per_100k": 1867.0,
+      "pct_of_total": 0.6,
+      "rank_by_per_100k": 19,
+      "rank_by_reports": 36
+    },
+    {
+      "metro": "Baltimore-Columbia-Towson, MD Metropolitan Statistical Area",
+      "reports": 52648,
+      "population": 2839698,
+      "per_100k": 1854.0,
+      "pct_of_total": 1.26,
+      "rank_by_per_100k": 20,
+      "rank_by_reports": 17
+    },
+    {
+      "metro": "Savannah, GA Metropolitan Statistical Area",
+      "reports": 7635,
+      "population": 412035,
+      "per_100k": 1853.0,
+      "pct_of_total": 0.18,
+      "rank_by_per_100k": 21,
+      "rank_by_reports": 90
+    },
+    {
+      "metro": "Warner Robins, GA Metropolitan Statistical Area",
+      "reports": 3587,
+      "population": 195158,
+      "per_100k": 1838.0,
+      "pct_of_total": 0.09,
+      "rank_by_per_100k": 22,
+      "rank_by_reports": 161
+    },
+    {
+      "metro": "Baton Rouge, LA Metropolitan Statistical Area",
+      "reports": 15942,
+      "population": 871148,
+      "per_100k": 1830.0,
+      "pct_of_total": 0.38,
+      "rank_by_per_100k": 23,
+      "rank_by_reports": 49
+    },
+    {
+      "metro": "Lubbock, TX Metropolitan Statistical Area",
+      "reports": 6424,
+      "population": 354721,
+      "per_100k": 1811.0,
+      "pct_of_total": 0.15,
+      "rank_by_per_100k": 24,
+      "rank_by_reports": 106
+    },
+    {
+      "metro": "Charlotte-Concord-Gastonia, NC-SC Metropolitan Statistical Area",
+      "reports": 48136,
+      "population": 2713416,
+      "per_100k": 1774.0,
+      "pct_of_total": 1.15,
+      "rank_by_per_100k": 25,
+      "rank_by_reports": 20
+    },
+    {
+      "metro": "Shreveport-Bossier City, LA Metropolitan Statistical Area",
+      "reports": 6883,
+      "population": 389090,
+      "per_100k": 1769.0,
+      "pct_of_total": 0.16,
+      "rank_by_per_100k": 26,
+      "rank_by_reports": 97
+    },
+    {
+      "metro": "Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Statistical Area",
+      "reports": 109978,
+      "population": 6262984,
+      "per_100k": 1756.0,
+      "pct_of_total": 2.63,
+      "rank_by_per_100k": 27,
+      "rank_by_reports": 9
+    },
+    {
+      "metro": "New Orleans-Metairie, LA Metropolitan Statistical Area",
+      "reports": 17332,
+      "population": 988705,
+      "per_100k": 1753.0,
+      "pct_of_total": 0.41,
+      "rank_by_per_100k": 28,
+      "rank_by_reports": 47
+    },
+    {
+      "metro": "Montgomery, AL Metropolitan Statistical Area",
+      "reports": 6748,
+      "population": 385160,
+      "per_100k": 1752.0,
+      "pct_of_total": 0.16,
+      "rank_by_per_100k": 29,
+      "rank_by_reports": 99
+    },
+    {
+      "metro": "Birmingham, AL Metropolitan Statistical Area",
+      "reports": 20649,
+      "population": 1181293,
+      "per_100k": 1748.0,
+      "pct_of_total": 0.49,
+      "rank_by_per_100k": 30,
+      "rank_by_reports": 41
+    },
+    {
+      "metro": "Deltona-Daytona Beach-Ormond Beach, FL Metropolitan Statistical Area",
+      "reports": 11988,
+      "population": 689758,
+      "per_100k": 1738.0,
+      "pct_of_total": 0.29,
+      "rank_by_per_100k": 31,
+      "rank_by_reports": 60
+    },
+    {
+      "metro": "Killeen-Temple, TX Metropolitan Statistical Area",
+      "reports": 8395,
+      "population": 485822,
+      "per_100k": 1728.0,
+      "pct_of_total": 0.2,
+      "rank_by_per_100k": 32,
+      "rank_by_reports": 86
+    },
+    {
+      "metro": "Columbus, GA-AL Metropolitan Statistical Area",
+      "reports": 5541,
+      "population": 326133,
+      "per_100k": 1699.0,
+      "pct_of_total": 0.13,
+      "rank_by_per_100k": 33,
+      "rank_by_reports": 117
+    },
+    {
+      "metro": "Dover, DE Metropolitan Statistical Area",
+      "reports": 3124,
+      "population": 185071,
+      "per_100k": 1688.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 34,
+      "rank_by_reports": 174
+    },
+    {
+      "metro": "Chicago-Naperville-Elgin, IL-IN Metropolitan Statistical Area",
+      "reports": 158000,
+      "population": 9360190,
+      "per_100k": 1688.0,
+      "pct_of_total": 3.78,
+      "rank_by_per_100k": 35,
+      "rank_by_reports": 6
+    },
+    {
+      "metro": "Punta Gorda, FL Metropolitan Statistical Area",
+      "reports": 3281,
+      "population": 195065,
+      "per_100k": 1682.0,
+      "pct_of_total": 0.08,
+      "rank_by_per_100k": 36,
+      "rank_by_reports": 171
+    },
+    {
+      "metro": "Fayetteville, NC Metropolitan Statistical Area",
+      "reports": 6492,
+      "population": 389910,
+      "per_100k": 1665.0,
+      "pct_of_total": 0.16,
+      "rank_by_per_100k": 37,
+      "rank_by_reports": 104
+    },
+    {
+      "metro": "Macon-Bibb County, GA Metropolitan Statistical Area",
+      "reports": 3860,
+      "population": 234081,
+      "per_100k": 1649.0,
+      "pct_of_total": 0.09,
+      "rank_by_per_100k": 38,
+      "rank_by_reports": 154
+    },
+    {
+      "metro": "Tallahassee, FL Metropolitan Statistical Area",
+      "reports": 6363,
+      "population": 388225,
+      "per_100k": 1639.0,
+      "pct_of_total": 0.15,
+      "rank_by_per_100k": 39,
+      "rank_by_reports": 109
+    },
+    {
+      "metro": "Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area",
+      "reports": 14070,
+      "population": 866913,
+      "per_100k": 1623.0,
+      "pct_of_total": 0.34,
+      "rank_by_per_100k": 40,
+      "rank_by_reports": 53
+    },
+    {
+      "metro": "Ocala, FL Metropolitan Statistical Area",
+      "reports": 6266,
+      "population": 387748,
+      "per_100k": 1616.0,
+      "pct_of_total": 0.15,
+      "rank_by_per_100k": 41,
+      "rank_by_reports": 111
+    },
+    {
+      "metro": "Columbia, SC Metropolitan Statistical Area",
+      "reports": 13548,
+      "population": 839926,
+      "per_100k": 1613.0,
+      "pct_of_total": 0.32,
+      "rank_by_per_100k": 42,
+      "rank_by_reports": 55
+    },
+    {
+      "metro": "Lafayette, LA Metropolitan Statistical Area",
+      "reports": 6545,
+      "population": 410860,
+      "per_100k": 1593.0,
+      "pct_of_total": 0.16,
+      "rank_by_per_100k": 43,
+      "rank_by_reports": 103
+    },
+    {
+      "metro": "Alexandria, LA Metropolitan Statistical Area",
+      "reports": 2398,
+      "population": 150628,
+      "per_100k": 1592.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 44,
+      "rank_by_reports": 205
+    },
+    {
+      "metro": "Augusta-Richmond County, GA-SC Metropolitan Statistical Area",
+      "reports": 9834,
+      "population": 618102,
+      "per_100k": 1591.0,
+      "pct_of_total": 0.24,
+      "rank_by_per_100k": 45,
+      "rank_by_reports": 74
+    },
+    {
+      "metro": "Huntsville, AL Metropolitan Statistical Area",
+      "reports": 7978,
+      "population": 504617,
+      "per_100k": 1581.0,
+      "pct_of_total": 0.19,
+      "rank_by_per_100k": 46,
+      "rank_by_reports": 88
+    },
+    {
+      "metro": "Cape Coral-Fort Myers, FL Metropolitan Statistical Area",
+      "reports": 12512,
+      "population": 792902,
+      "per_100k": 1578.0,
+      "pct_of_total": 0.3,
+      "rank_by_per_100k": 47,
+      "rank_by_reports": 59
+    },
+    {
+      "metro": "Virginia Beach-Chesapeake-Norfolk, VA-NC Metropolitan Statistical Area",
+      "reports": 28077,
+      "population": 1782667,
+      "per_100k": 1575.0,
+      "pct_of_total": 0.67,
+      "rank_by_per_100k": 48,
+      "rank_by_reports": 34
+    },
+    {
+      "metro": "New York-Newark-Jersey City, NY-NJ Metropolitan Statistical Area",
+      "reports": 309066,
+      "population": 19761253,
+      "per_100k": 1564.0,
+      "pct_of_total": 7.39,
+      "rank_by_per_100k": 49,
+      "rank_by_reports": 1
+    },
+    {
+      "metro": "Phoenix-Mesa-Chandler, AZ Metropolitan Statistical Area",
+      "reports": 76729,
+      "population": 4940695,
+      "per_100k": 1553.0,
+      "pct_of_total": 1.83,
+      "rank_by_per_100k": 50,
+      "rank_by_reports": 10
+    },
+    {
+      "metro": "Mobile, AL Metropolitan Statistical Area",
+      "reports": 6371,
+      "population": 413165,
+      "per_100k": 1542.0,
+      "pct_of_total": 0.15,
+      "rank_by_per_100k": 51,
+      "rank_by_reports": 108
+    },
+    {
+      "metro": "Detroit-Warren-Dearborn, MI Metropolitan Statistical Area",
+      "reports": 66361,
+      "population": 4368729,
+      "per_100k": 1519.0,
+      "pct_of_total": 1.59,
+      "rank_by_per_100k": 52,
+      "rank_by_reports": 12
+    },
+    {
+      "metro": "Richmond, VA Metropolitan Statistical Area",
+      "reports": 20145,
+      "population": 1327075,
+      "per_100k": 1518.0,
+      "pct_of_total": 0.48,
+      "rank_by_per_100k": 53,
+      "rank_by_reports": 42
+    },
+    {
+      "metro": "Gainesville, FL Metropolitan Statistical Area",
+      "reports": 5211,
+      "population": 344415,
+      "per_100k": 1513.0,
+      "pct_of_total": 0.12,
+      "rank_by_per_100k": 54,
+      "rank_by_reports": 127
+    },
+    {
+      "metro": "Myrtle Beach-Conway-North Myrtle Beach, SC Metropolitan Statistical Area",
+      "reports": 5559,
+      "population": 368879,
+      "per_100k": 1507.0,
+      "pct_of_total": 0.13,
+      "rank_by_per_100k": 55,
+      "rank_by_reports": 116
+    },
+    {
+      "metro": "Lumberton, NC Micropolitan Statistical Area",
+      "reports": 1760,
+      "population": 116866,
+      "per_100k": 1506.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 56,
+      "rank_by_reports": 250
+    },
+    {
+      "metro": "Austin-Round Rock-San Marcos, TX Metropolitan Statistical Area",
+      "reports": 35466,
+      "population": 2358112,
+      "per_100k": 1504.0,
+      "pct_of_total": 0.85,
+      "rank_by_per_100k": 57,
+      "rank_by_reports": 26
+    },
+    {
+      "metro": "St. Louis, MO-IL Metropolitan Statistical Area",
+      "reports": 42059,
+      "population": 2809552,
+      "per_100k": 1497.0,
+      "pct_of_total": 1.01,
+      "rank_by_per_100k": 58,
+      "rank_by_reports": 22
+    },
+    {
+      "metro": "Raleigh-Cary, NC Metropolitan Statistical Area",
+      "reports": 21651,
+      "population": 1449197,
+      "per_100k": 1494.0,
+      "pct_of_total": 0.52,
+      "rank_by_per_100k": 59,
+      "rank_by_reports": 40
+    },
+    {
+      "metro": "Kankakee, IL Metropolitan Statistical Area",
+      "reports": 1595,
+      "population": 106832,
+      "per_100k": 1493.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 60,
+      "rank_by_reports": 264
+    },
+    {
+      "metro": "Indianapolis-Carmel-Greenwood, IN Metropolitan Statistical Area",
+      "reports": 31318,
+      "population": 2106120,
+      "per_100k": 1487.0,
+      "pct_of_total": 0.75,
+      "rank_by_per_100k": 61,
+      "rank_by_reports": 30
+    },
+    {
+      "metro": "Elizabethtown, KY Metropolitan Statistical Area",
+      "reports": 1880,
+      "population": 126514,
+      "per_100k": 1486.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 62,
+      "rank_by_reports": 241
+    },
+    {
+      "metro": "Fort Collins-Loveland, CO Metropolitan Statistical Area",
+      "reports": 5396,
+      "population": 363612,
+      "per_100k": 1484.0,
+      "pct_of_total": 0.13,
+      "rank_by_per_100k": 63,
+      "rank_by_reports": 120
+    },
+    {
+      "metro": "Los Angeles-Long Beach-Anaheim, CA Metropolitan Statistical Area",
+      "reports": 191725,
+      "population": 13015954,
+      "per_100k": 1473.0,
+      "pct_of_total": 4.58,
+      "rank_by_per_100k": 64,
+      "rank_by_reports": 2
+    },
+    {
+      "metro": "Prescott Valley-Prescott, AZ Metropolitan Statistical Area",
+      "reports": 3500,
+      "population": 241713,
+      "per_100k": 1448.0,
+      "pct_of_total": 0.08,
+      "rank_by_per_100k": 65,
+      "rank_by_reports": 163
+    },
+    {
+      "metro": "Homosassa Springs, FL Metropolitan Statistical Area",
+      "reports": 2298,
+      "population": 158702,
+      "per_100k": 1448.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 66,
+      "rank_by_reports": 212
+    },
+    {
+      "metro": "Cleveland, OH Metropolitan Statistical Area",
+      "reports": 31336,
+      "population": 2171587,
+      "per_100k": 1443.0,
+      "pct_of_total": 0.75,
+      "rank_by_per_100k": 67,
+      "rank_by_reports": 29
+    },
+    {
+      "metro": "Vallejo, CA Metropolitan Statistical Area",
+      "reports": 6477,
+      "population": 450731,
+      "per_100k": 1437.0,
+      "pct_of_total": 0.15,
+      "rank_by_per_100k": 68,
+      "rank_by_reports": 105
+    },
+    {
+      "metro": "Trenton-Princeton, NJ Metropolitan Statistical Area",
+      "reports": 5497,
+      "population": 383333,
+      "per_100k": 1434.0,
+      "pct_of_total": 0.13,
+      "rank_by_per_100k": 69,
+      "rank_by_reports": 118
+    },
+    {
+      "metro": "Greenville-Anderson-Greer, SC Metropolitan Statistical Area",
+      "reports": 13480,
+      "population": 945302,
+      "per_100k": 1426.0,
+      "pct_of_total": 0.32,
+      "rank_by_per_100k": 70,
+      "rank_by_reports": 56
+    },
+    {
+      "metro": "Greensboro-High Point, NC Metropolitan Statistical Area",
+      "reports": 11078,
+      "population": 780141,
+      "per_100k": 1420.0,
+      "pct_of_total": 0.26,
+      "rank_by_per_100k": 71,
+      "rank_by_reports": 66
+    },
+    {
+      "metro": "Naples-Marco Island, FL Metropolitan Statistical Area",
+      "reports": 5479,
+      "population": 387757,
+      "per_100k": 1413.0,
+      "pct_of_total": 0.13,
+      "rank_by_per_100k": 72,
+      "rank_by_reports": 119
+    },
+    {
+      "metro": "Panama City-Panama City Beach, FL Metropolitan Statistical Area",
+      "reports": 2920,
+      "population": 206653,
+      "per_100k": 1413.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 73,
+      "rank_by_reports": 183
+    },
+    {
+      "metro": "San Antonio-New Braunfels, TX Metropolitan Statistical Area",
+      "reports": 36765,
+      "population": 2613006,
+      "per_100k": 1407.0,
+      "pct_of_total": 0.88,
+      "rank_by_per_100k": 74,
+      "rank_by_reports": 25
+    },
+    {
+      "metro": "Pensacola-Ferry Pass-Brent, FL Metropolitan Statistical Area",
+      "reports": 7267,
+      "population": 516856,
+      "per_100k": 1406.0,
+      "pct_of_total": 0.17,
+      "rank_by_per_100k": 75,
+      "rank_by_reports": 95
+    },
+    {
+      "metro": "Florence, SC Metropolitan Statistical Area",
+      "reports": 2797,
+      "population": 199643,
+      "per_100k": 1401.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 76,
+      "rank_by_reports": 186
+    },
+    {
+      "metro": "LaGrange, GA-AL Micropolitan Statistical Area",
+      "reports": 1453,
+      "population": 104307,
+      "per_100k": 1393.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 77,
+      "rank_by_reports": 280
+    },
+    {
+      "metro": "Sumter, SC Metropolitan Statistical Area",
+      "reports": 1451,
+      "population": 104841,
+      "per_100k": 1384.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 78,
+      "rank_by_reports": 281
+    },
+    {
+      "metro": "Sebring, FL Metropolitan Statistical Area",
+      "reports": 1430,
+      "population": 103774,
+      "per_100k": 1378.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 79,
+      "rank_by_reports": 285
+    },
+    {
+      "metro": "Sacramento-Roseville-Folsom, CA Metropolitan Statistical Area",
+      "reports": 33026,
+      "population": 2407143,
+      "per_100k": 1372.0,
+      "pct_of_total": 0.79,
+      "rank_by_per_100k": 80,
+      "rank_by_reports": 27
+    },
+    {
+      "metro": "Greenville, NC Metropolitan Statistical Area",
+      "reports": 2360,
+      "population": 172263,
+      "per_100k": 1370.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 81,
+      "rank_by_reports": 207
+    },
+    {
+      "metro": "Tucson, AZ Metropolitan Statistical Area",
+      "reports": 14321,
+      "population": 1049927,
+      "per_100k": 1364.0,
+      "pct_of_total": 0.34,
+      "rank_by_per_100k": 82,
+      "rank_by_reports": 52
+    },
+    {
+      "metro": "Boulder, CO Metropolitan Statistical Area",
+      "reports": 4462,
+      "population": 328330,
+      "per_100k": 1359.0,
+      "pct_of_total": 0.11,
+      "rank_by_per_100k": 83,
+      "rank_by_reports": 142
+    },
+    {
+      "metro": "Little Rock-North Little Rock-Conway, AR Metropolitan Statistical Area",
+      "reports": 10233,
+      "population": 753535,
+      "per_100k": 1358.0,
+      "pct_of_total": 0.24,
+      "rank_by_per_100k": 84,
+      "rank_by_reports": 73
+    },
+    {
+      "metro": "Colorado Springs, CO Metropolitan Statistical Area",
+      "reports": 10275,
+      "population": 760548,
+      "per_100k": 1351.0,
+      "pct_of_total": 0.25,
+      "rank_by_per_100k": 85,
+      "rank_by_reports": 72
+    },
+    {
+      "metro": "Columbus, OH Metropolitan Statistical Area",
+      "reports": 28999,
+      "population": 2151261,
+      "per_100k": 1348.0,
+      "pct_of_total": 0.69,
+      "rank_by_per_100k": 86,
+      "rank_by_reports": 33
+    },
+    {
+      "metro": "Durham-Chapel Hill, NC Metropolitan Statistical Area",
+      "reports": 7936,
+      "population": 594457,
+      "per_100k": 1335.0,
+      "pct_of_total": 0.19,
+      "rank_by_per_100k": 87,
+      "rank_by_reports": 89
+    },
+    {
+      "metro": "Seaford, DE Micropolitan Statistical Area",
+      "reports": 3303,
+      "population": 247787,
+      "per_100k": 1333.0,
+      "pct_of_total": 0.08,
+      "rank_by_per_100k": 88,
+      "rank_by_reports": 169
+    },
+    {
+      "metro": "San Diego-Chula Vista-Carlsbad, CA Metropolitan Statistical Area",
+      "reports": 43651,
+      "population": 3282030,
+      "per_100k": 1330.0,
+      "pct_of_total": 1.04,
+      "rank_by_per_100k": 89,
+      "rank_by_reports": 21
+    },
+    {
+      "metro": "Rocky Mount, NC Metropolitan Statistical Area",
+      "reports": 1912,
+      "population": 144193,
+      "per_100k": 1326.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 90,
+      "rank_by_reports": 237
+    },
+    {
+      "metro": "Denver-Aurora-Centennial, CO Metropolitan Statistical Area",
+      "reports": 39443,
+      "population": 2976830,
+      "per_100k": 1325.0,
+      "pct_of_total": 0.94,
+      "rank_by_per_100k": 91,
+      "rank_by_reports": 23
+    },
+    {
+      "metro": "Wildwood-The Villages, FL Metropolitan Statistical Area",
+      "reports": 1822,
+      "population": 137509,
+      "per_100k": 1325.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 92,
+      "rank_by_reports": 245
+    },
+    {
+      "metro": "Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area",
+      "reports": 61410,
+      "population": 4638218,
+      "per_100k": 1324.0,
+      "pct_of_total": 1.47,
+      "rank_by_per_100k": 93,
+      "rank_by_reports": 14
+    },
+    {
+      "metro": "Jackson, MS Metropolitan Statistical Area",
+      "reports": 8141,
+      "population": 615809,
+      "per_100k": 1322.0,
+      "pct_of_total": 0.19,
+      "rank_by_per_100k": 94,
+      "rank_by_reports": 87
+    },
+    {
+      "metro": "Albany, GA Metropolitan Statistical Area",
+      "reports": 1939,
+      "population": 146783,
+      "per_100k": 1321.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 95,
+      "rank_by_reports": 234
+    },
+    {
+      "metro": "New Haven, CT Metropolitan Statistical Area",
+      "reports": 7428,
+      "population": 566590,
+      "per_100k": 1311.0,
+      "pct_of_total": 0.18,
+      "rank_by_per_100k": 96,
+      "rank_by_reports": 92
+    },
+    {
+      "metro": "Lake Havasu City-Kingman, AZ Metropolitan Statistical Area",
+      "reports": 2845,
+      "population": 217341,
+      "per_100k": 1309.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 97,
+      "rank_by_reports": 185
+    },
+    {
+      "metro": "Sierra Vista-Douglas, AZ Metropolitan Statistical Area",
+      "reports": 1622,
+      "population": 125445,
+      "per_100k": 1293.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 98,
+      "rank_by_reports": 259
+    },
+    {
+      "metro": "San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",
+      "reports": 60059,
+      "population": 4652130,
+      "per_100k": 1291.0,
+      "pct_of_total": 1.44,
+      "rank_by_per_100k": 99,
+      "rank_by_reports": 15
+    },
+    {
+      "metro": "Akron, OH Metropolitan Statistical Area",
+      "reports": 8993,
+      "population": 699300,
+      "per_100k": 1286.0,
+      "pct_of_total": 0.22,
+      "rank_by_per_100k": 100,
+      "rank_by_reports": 80
+    },
+    {
+      "metro": "Asheville, NC Metropolitan Statistical Area",
+      "reports": 5270,
+      "population": 410756,
+      "per_100k": 1283.0,
+      "pct_of_total": 0.13,
+      "rank_by_per_100k": 101,
+      "rank_by_reports": 125
+    },
+    {
+      "metro": "Atlantic City-Hammonton, NJ Metropolitan Statistical Area",
+      "reports": 4730,
+      "population": 369820,
+      "per_100k": 1279.0,
+      "pct_of_total": 0.11,
+      "rank_by_per_100k": 102,
+      "rank_by_reports": 136
+    },
+    {
+      "metro": "Clarksville, TN-KY Metropolitan Statistical Area",
+      "reports": 4186,
+      "population": 328571,
+      "per_100k": 1274.0,
+      "pct_of_total": 0.1,
+      "rank_by_per_100k": 103,
+      "rank_by_reports": 148
+    },
+    {
+      "metro": "Midland, TX Metropolitan Statistical Area",
+      "reports": 2247,
+      "population": 176790,
+      "per_100k": 1271.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 104,
+      "rank_by_reports": 215
+    },
+    {
+      "metro": "Truckee-Grass Valley, CA Micropolitan Statistical Area",
+      "reports": 1299,
+      "population": 102445,
+      "per_100k": 1268.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 105,
+      "rank_by_reports": 298
+    },
+    {
+      "metro": "Spartanburg, SC Metropolitan Statistical Area",
+      "reports": 4616,
+      "population": 365190,
+      "per_100k": 1264.0,
+      "pct_of_total": 0.11,
+      "rank_by_per_100k": 106,
+      "rank_by_reports": 140
+    },
+    {
+      "metro": "Kiryas Joel-Poughkeepsie-Newburgh, NY Metropolitan Statistical Area",
+      "reports": 8844,
+      "population": 700792,
+      "per_100k": 1262.0,
+      "pct_of_total": 0.21,
+      "rank_by_per_100k": 107,
+      "rank_by_reports": 82
+    },
+    {
+      "metro": "Scranton--Wilkes-Barre, PA Metropolitan Statistical Area",
+      "reports": 7162,
+      "population": 567962,
+      "per_100k": 1261.0,
+      "pct_of_total": 0.17,
+      "rank_by_per_100k": 108,
+      "rank_by_reports": 96
+    },
+    {
+      "metro": "Winchester, VA-WV Metropolitan Statistical Area",
+      "reports": 1823,
+      "population": 144683,
+      "per_100k": 1260.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 109,
+      "rank_by_reports": 244
+    },
+    {
+      "metro": "Seattle-Tacoma-Bellevue, WA Metropolitan Statistical Area",
+      "reports": 50609,
+      "population": 4022973,
+      "per_100k": 1258.0,
+      "pct_of_total": 1.21,
+      "rank_by_per_100k": 110,
+      "rank_by_reports": 18
+    },
+    {
+      "metro": "Bridgeport-Stamford-Danbury, CT Metropolitan Statistical Area",
+      "reports": 11861,
+      "population": 947364,
+      "per_100k": 1252.0,
+      "pct_of_total": 0.28,
+      "rank_by_per_100k": 111,
+      "rank_by_reports": 62
+    },
+    {
+      "metro": "Slidell-Mandeville-Covington, LA Metropolitan Statistical Area",
+      "reports": 3356,
+      "population": 269342,
+      "per_100k": 1246.0,
+      "pct_of_total": 0.08,
+      "rank_by_per_100k": 112,
+      "rank_by_reports": 167
+    },
+    {
+      "metro": "Nashville-Davidson--Murfreesboro--Franklin, TN Metropolitan Statistical Area",
+      "reports": 25458,
+      "population": 2043178,
+      "per_100k": 1246.0,
+      "pct_of_total": 0.61,
+      "rank_by_per_100k": 113,
+      "rank_by_reports": 35
+    },
+    {
+      "metro": "Santa Fe, NM Metropolitan Statistical Area",
+      "reports": 1927,
+      "population": 155153,
+      "per_100k": 1242.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 114,
+      "rank_by_reports": 235
+    },
+    {
+      "metro": "Vineland, NJ Metropolitan Statistical Area",
+      "reports": 1897,
+      "population": 152861,
+      "per_100k": 1241.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 115,
+      "rank_by_reports": 240
+    },
+    {
+      "metro": "Pittsburgh, PA Metropolitan Statistical Area",
+      "reports": 30335,
+      "population": 2444400,
+      "per_100k": 1241.0,
+      "pct_of_total": 0.73,
+      "rank_by_per_100k": 116,
+      "rank_by_reports": 31
+    },
+    {
+      "metro": "Milwaukee-Waukesha, WI Metropolitan Statistical Area",
+      "reports": 19316,
+      "population": 1566586,
+      "per_100k": 1233.0,
+      "pct_of_total": 0.46,
+      "rank_by_per_100k": 117,
+      "rank_by_reports": 44
+    },
+    {
+      "metro": "Flint, MI Metropolitan Statistical Area",
+      "reports": 4978,
+      "population": 404058,
+      "per_100k": 1232.0,
+      "pct_of_total": 0.12,
+      "rank_by_per_100k": 118,
+      "rank_by_reports": 131
+    },
+    {
+      "metro": "Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area",
+      "reports": 3665,
+      "population": 298453,
+      "per_100k": 1228.0,
+      "pct_of_total": 0.09,
+      "rank_by_per_100k": 119,
+      "rank_by_reports": 158
+    },
+    {
+      "metro": "Harrisburg-Carlisle, PA Metropolitan Statistical Area",
+      "reports": 7336,
+      "population": 597881,
+      "per_100k": 1227.0,
+      "pct_of_total": 0.18,
+      "rank_by_per_100k": 120,
+      "rank_by_reports": 94
+    },
+    {
+      "metro": "Tyler, TX Metropolitan Statistical Area",
+      "reports": 2909,
+      "population": 238052,
+      "per_100k": 1222.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 121,
+      "rank_by_reports": 184
+    },
+    {
+      "metro": "Olympia-Lacey-Tumwater, WA Metropolitan Statistical Area",
+      "reports": 3621,
+      "population": 296560,
+      "per_100k": 1221.0,
+      "pct_of_total": 0.09,
+      "rank_by_per_100k": 122,
+      "rank_by_reports": 159
+    },
+    {
+      "metro": "Boston-Cambridge-Newton, MA-NH Metropolitan Statistical Area",
+      "reports": 59918,
+      "population": 4919376,
+      "per_100k": 1218.0,
+      "pct_of_total": 1.43,
+      "rank_by_per_100k": 123,
+      "rank_by_reports": 16
+    },
+    {
+      "metro": "Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area",
+      "reports": 13836,
+      "population": 1144417,
+      "per_100k": 1209.0,
+      "pct_of_total": 0.33,
+      "rank_by_per_100k": 124,
+      "rank_by_reports": 54
+    },
+    {
+      "metro": "El Paso, TX Metropolitan Statistical Area",
+      "reports": 10479,
+      "population": 869627,
+      "per_100k": 1205.0,
+      "pct_of_total": 0.25,
+      "rank_by_per_100k": 125,
+      "rank_by_reports": 68
+    },
+    {
+      "metro": "Wilmington, NC Metropolitan Statistical Area",
+      "reports": 5300,
+      "population": 440565,
+      "per_100k": 1203.0,
+      "pct_of_total": 0.13,
+      "rank_by_per_100k": 126,
+      "rank_by_reports": 124
+    },
+    {
+      "metro": "Reno, NV Metropolitan Statistical Area",
+      "reports": 6697,
+      "population": 556692,
+      "per_100k": 1203.0,
+      "pct_of_total": 0.16,
+      "rank_by_per_100k": 127,
+      "rank_by_reports": 101
+    },
+    {
+      "metro": "Anderson Creek, NC Micropolitan Statistical Area",
+      "reports": 1635,
+      "population": 136477,
+      "per_100k": 1198.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 128,
+      "rank_by_reports": 256
+    },
+    {
+      "metro": "Portland-Vancouver-Hillsboro, OR-WA Metropolitan Statistical Area",
+      "reports": 29934,
+      "population": 2511242,
+      "per_100k": 1192.0,
+      "pct_of_total": 0.72,
+      "rank_by_per_100k": 129,
+      "rank_by_reports": 32
+    },
+    {
+      "metro": "Waterbury-Shelton, CT Metropolitan Statistical Area",
+      "reports": 5378,
+      "population": 452313,
+      "per_100k": 1189.0,
+      "pct_of_total": 0.13,
+      "rank_by_per_100k": 130,
+      "rank_by_reports": 122
+    },
+    {
+      "metro": "Lexington Park, MD Metropolitan Statistical Area",
+      "reports": 2473,
+      "population": 208165,
+      "per_100k": 1188.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 131,
+      "rank_by_reports": 199
+    },
+    {
+      "metro": "Valdosta, GA Metropolitan Statistical Area",
+      "reports": 1769,
+      "population": 149157,
+      "per_100k": 1186.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 132,
+      "rank_by_reports": 249
+    },
+    {
+      "metro": "Chattanooga, TN-GA Metropolitan Statistical Area",
+      "reports": 6737,
+      "population": 569484,
+      "per_100k": 1183.0,
+      "pct_of_total": 0.16,
+      "rank_by_per_100k": 133,
+      "rank_by_reports": 100
+    },
+    {
+      "metro": "Bremerton-Silverdale-Port Orchard, WA Metropolitan Statistical Area",
+      "reports": 3269,
+      "population": 276565,
+      "per_100k": 1182.0,
+      "pct_of_total": 0.08,
+      "rank_by_per_100k": 134,
+      "rank_by_reports": 172
+    },
+    {
+      "metro": "Rockford, IL Metropolitan Statistical Area",
+      "reports": 3959,
+      "population": 336650,
+      "per_100k": 1176.0,
+      "pct_of_total": 0.09,
+      "rank_by_per_100k": 135,
+      "rank_by_reports": 153
+    },
+    {
+      "metro": "Ann Arbor, MI Metropolitan Statistical Area",
+      "reports": 4321,
+      "population": 368372,
+      "per_100k": 1173.0,
+      "pct_of_total": 0.1,
+      "rank_by_per_100k": 136,
+      "rank_by_reports": 145
+    },
+    {
+      "metro": "Reading, PA Metropolitan Statistical Area",
+      "reports": 5043,
+      "population": 429923,
+      "per_100k": 1173.0,
+      "pct_of_total": 0.12,
+      "rank_by_per_100k": 137,
+      "rank_by_reports": 129
+    },
+    {
+      "metro": "Hilton Head Island-Bluffton-Port Royal, SC Metropolitan Statistical Area",
+      "reports": 2611,
+      "population": 222782,
+      "per_100k": 1172.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 138,
+      "rank_by_reports": 193
+    },
+    {
+      "metro": "Roanoke, VA Metropolitan Statistical Area",
+      "reports": 3674,
+      "population": 314555,
+      "per_100k": 1168.0,
+      "pct_of_total": 0.09,
+      "rank_by_per_100k": 139,
+      "rank_by_reports": 157
+    },
+    {
+      "metro": "Crestview-Fort Walton Beach-Destin, FL Metropolitan Statistical Area",
+      "reports": 3429,
+      "population": 294082,
+      "per_100k": 1166.0,
+      "pct_of_total": 0.08,
+      "rank_by_per_100k": 140,
+      "rank_by_reports": 165
+    },
+    {
+      "metro": "Manchester-Nashua, NH Metropolitan Statistical Area",
+      "reports": 4951,
+      "population": 424614,
+      "per_100k": 1166.0,
+      "pct_of_total": 0.12,
+      "rank_by_per_100k": 141,
+      "rank_by_reports": 132
+    },
+    {
+      "metro": "Brunswick-St. Simons, GA Metropolitan Statistical Area",
+      "reports": 1330,
+      "population": 114359,
+      "per_100k": 1163.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 142,
+      "rank_by_reports": 294
+    },
+    {
+      "metro": "Kingston, NY Metropolitan Statistical Area",
+      "reports": 2114,
+      "population": 182084,
+      "per_100k": 1161.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 143,
+      "rank_by_reports": 226
+    },
+    {
+      "metro": "Omaha, NE-IA Metropolitan Statistical Area",
+      "reports": 11283,
+      "population": 972672,
+      "per_100k": 1160.0,
+      "pct_of_total": 0.27,
+      "rank_by_per_100k": 144,
+      "rank_by_reports": 65
+    },
+    {
+      "metro": "Albany-Schenectady-Troy, NY Metropolitan Statistical Area",
+      "reports": 10455,
+      "population": 902071,
+      "per_100k": 1159.0,
+      "pct_of_total": 0.25,
+      "rank_by_per_100k": 145,
+      "rank_by_reports": 69
+    },
+    {
+      "metro": "Albuquerque, NM Metropolitan Statistical Area",
+      "reports": 10534,
+      "population": 918396,
+      "per_100k": 1147.0,
+      "pct_of_total": 0.25,
+      "rank_by_per_100k": 146,
+      "rank_by_reports": 67
+    },
+    {
+      "metro": "Gulfport-Biloxi, MS Metropolitan Statistical Area",
+      "reports": 4784,
+      "population": 418548,
+      "per_100k": 1143.0,
+      "pct_of_total": 0.11,
+      "rank_by_per_100k": 147,
+      "rank_by_reports": 135
+    },
+    {
+      "metro": "San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area",
+      "reports": 22452,
+      "population": 1969474,
+      "per_100k": 1140.0,
+      "pct_of_total": 0.54,
+      "rank_by_per_100k": 148,
+      "rank_by_reports": 39
+    },
+    {
+      "metro": "Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area",
+      "reports": 9522,
+      "population": 838204,
+      "per_100k": 1136.0,
+      "pct_of_total": 0.23,
+      "rank_by_per_100k": 149,
+      "rank_by_reports": 78
+    },
+    {
+      "metro": "Lexington-Fayette, KY Metropolitan Statistical Area",
+      "reports": 5868,
+      "population": 517460,
+      "per_100k": 1134.0,
+      "pct_of_total": 0.14,
+      "rank_by_per_100k": 150,
+      "rank_by_reports": 113
+    },
+    {
+      "metro": "New Bern, NC Micropolitan Statistical Area",
+      "reports": 1390,
+      "population": 122683,
+      "per_100k": 1133.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 151,
+      "rank_by_reports": 289
+    },
+    {
+      "metro": "Kalamazoo-Portage, MI Metropolitan Statistical Area",
+      "reports": 2954,
+      "population": 261416,
+      "per_100k": 1130.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 152,
+      "rank_by_reports": 181
+    },
+    {
+      "metro": "Longview, TX Metropolitan Statistical Area",
+      "reports": 3254,
+      "population": 288988,
+      "per_100k": 1126.0,
+      "pct_of_total": 0.08,
+      "rank_by_per_100k": 153,
+      "rank_by_reports": 173
+    },
+    {
+      "metro": "Cheyenne, WY Metropolitan Statistical Area",
+      "reports": 1131,
+      "population": 100623,
+      "per_100k": 1124.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 154,
+      "rank_by_reports": 327
+    },
+    {
+      "metro": "Monroe, LA Metropolitan Statistical Area",
+      "reports": 2522,
+      "population": 224777,
+      "per_100k": 1122.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 155,
+      "rank_by_reports": 197
+    },
+    {
+      "metro": "Anniston-Oxford, AL Metropolitan Statistical Area",
+      "reports": 1299,
+      "population": 116190,
+      "per_100k": 1118.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 156,
+      "rank_by_reports": 298
+    },
+    {
+      "metro": "Burlington, NC Metropolitan Statistical Area",
+      "reports": 1945,
+      "population": 174283,
+      "per_100k": 1116.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 157,
+      "rank_by_reports": 233
+    },
+    {
+      "metro": "Kansas City, MO-KS Metropolitan Statistical Area",
+      "reports": 24559,
+      "population": 2202601,
+      "per_100k": 1115.0,
+      "pct_of_total": 0.59,
+      "rank_by_per_100k": 158,
+      "rank_by_reports": 37
+    },
+    {
+      "metro": "Champaign-Urbana, IL Metropolitan Statistical Area",
+      "reports": 2631,
+      "population": 236176,
+      "per_100k": 1114.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 159,
+      "rank_by_reports": 192
+    },
+    {
+      "metro": "Torrington, CT Micropolitan Statistical Area",
+      "reports": 1252,
+      "population": 112894,
+      "per_100k": 1109.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 160,
+      "rank_by_reports": 309
+    },
+    {
+      "metro": "Daphne-Fairhope-Foley, AL Metropolitan Statistical Area",
+      "reports": 2652,
+      "population": 240000,
+      "per_100k": 1105.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 161,
+      "rank_by_reports": 191
+    },
+    {
+      "metro": "Hammond, LA Metropolitan Statistical Area",
+      "reports": 1488,
+      "population": 135273,
+      "per_100k": 1100.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 162,
+      "rank_by_reports": 275
+    },
+    {
+      "metro": "Hattiesburg, MS Metropolitan Statistical Area",
+      "reports": 1695,
+      "population": 154512,
+      "per_100k": 1097.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 163,
+      "rank_by_reports": 254
+    },
+    {
+      "metro": "Beaumont-Port Arthur, TX Metropolitan Statistical Area",
+      "reports": 4317,
+      "population": 396055,
+      "per_100k": 1090.0,
+      "pct_of_total": 0.1,
+      "rank_by_per_100k": 164,
+      "rank_by_reports": 146
+    },
+    {
+      "metro": "Auburn-Opelika, AL Metropolitan Statistical Area",
+      "reports": 2141,
+      "population": 196602,
+      "per_100k": 1089.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 165,
+      "rank_by_reports": 225
+    },
+    {
+      "metro": "Eugene-Springfield, OR Metropolitan Statistical Area",
+      "reports": 4165,
+      "population": 382461,
+      "per_100k": 1089.0,
+      "pct_of_total": 0.1,
+      "rank_by_per_100k": 166,
+      "rank_by_reports": 149
+    },
+    {
+      "metro": "Spokane-Spokane Valley, WA Metropolitan Statistical Area",
+      "reports": 6424,
+      "population": 591529,
+      "per_100k": 1086.0,
+      "pct_of_total": 0.15,
+      "rank_by_per_100k": 167,
+      "rank_by_reports": 106
+    },
+    {
+      "metro": "Winston-Salem, NC Metropolitan Statistical Area",
+      "reports": 7415,
+      "population": 683410,
+      "per_100k": 1085.0,
+      "pct_of_total": 0.18,
+      "rank_by_per_100k": 168,
+      "rank_by_reports": 93
+    },
+    {
+      "metro": "Dayton-Kettering-Beavercreek, OH Metropolitan Statistical Area",
+      "reports": 8820,
+      "population": 813653,
+      "per_100k": 1084.0,
+      "pct_of_total": 0.21,
+      "rank_by_per_100k": 169,
+      "rank_by_reports": 83
+    },
+    {
+      "metro": "Springfield, MA Metropolitan Statistical Area",
+      "reports": 4994,
+      "population": 462836,
+      "per_100k": 1079.0,
+      "pct_of_total": 0.12,
+      "rank_by_per_100k": 170,
+      "rank_by_reports": 130
+    },
+    {
+      "metro": "Bellingham, WA Metropolitan Statistical Area",
+      "reports": 2461,
+      "population": 228505,
+      "per_100k": 1077.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 171,
+      "rank_by_reports": 202
+    },
+    {
+      "metro": "Bend, OR Metropolitan Statistical Area",
+      "reports": 2732,
+      "population": 253668,
+      "per_100k": 1077.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 172,
+      "rank_by_reports": 189
+    },
+    {
+      "metro": "San Luis Obispo-Paso Robles, CA Metropolitan Statistical Area",
+      "reports": 3028,
+      "population": 281413,
+      "per_100k": 1076.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 173,
+      "rank_by_reports": 177
+    },
+    {
+      "metro": "Stockton-Lodi, CA Metropolitan Statistical Area",
+      "reports": 8456,
+      "population": 787337,
+      "per_100k": 1074.0,
+      "pct_of_total": 0.2,
+      "rank_by_per_100k": 174,
+      "rank_by_reports": 85
+    },
+    {
+      "metro": "Jacksonville, NC Metropolitan Statistical Area",
+      "reports": 2239,
+      "population": 208473,
+      "per_100k": 1074.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 175,
+      "rank_by_reports": 217
+    },
+    {
+      "metro": "Rochester, NY Metropolitan Statistical Area",
+      "reports": 11364,
+      "population": 1059087,
+      "per_100k": 1073.0,
+      "pct_of_total": 0.27,
+      "rank_by_per_100k": 176,
+      "rank_by_reports": 64
+    },
+    {
+      "metro": "Pueblo, CO Metropolitan Statistical Area",
+      "reports": 1807,
+      "population": 168721,
+      "per_100k": 1071.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 177,
+      "rank_by_reports": 247
+    },
+    {
+      "metro": "Cincinnati, OH-KY-IN Metropolitan Statistical Area",
+      "reports": 24149,
+      "population": 2254809,
+      "per_100k": 1071.0,
+      "pct_of_total": 0.58,
+      "rank_by_per_100k": 178,
+      "rank_by_reports": 38
+    },
+    {
+      "metro": "Norwich-New London-Willimantic, CT Metropolitan Statistical Area",
+      "reports": 2978,
+      "population": 279100,
+      "per_100k": 1067.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 179,
+      "rank_by_reports": 179
+    },
+    {
+      "metro": "Louisville/Jefferson County, KY-IN Metropolitan Statistical Area",
+      "reports": 14501,
+      "population": 1361596,
+      "per_100k": 1065.0,
+      "pct_of_total": 0.35,
+      "rank_by_per_100k": 180,
+      "rank_by_reports": 51
+    },
+    {
+      "metro": "Oklahoma City, OK Metropolitan Statistical Area",
+      "reports": 15385,
+      "population": 1444601,
+      "per_100k": 1065.0,
+      "pct_of_total": 0.37,
+      "rank_by_per_100k": 181,
+      "rank_by_reports": 50
+    },
+    {
+      "metro": "Hot Springs, AR Metropolitan Statistical Area",
+      "reports": 1065,
+      "population": 100094,
+      "per_100k": 1064.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 182,
+      "rank_by_reports": 340
+    },
+    {
+      "metro": "Charlottesville, VA Metropolitan Statistical Area",
+      "reports": 2371,
+      "population": 222838,
+      "per_100k": 1064.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 183,
+      "rank_by_reports": 206
+    },
+    {
+      "metro": "Shelby-Kings Mountain, NC Micropolitan Statistical Area",
+      "reports": 1059,
+      "population": 100189,
+      "per_100k": 1057.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 184,
+      "rank_by_reports": 342
+    },
+    {
+      "metro": "Bakersfield-Delano, CA Metropolitan Statistical Area",
+      "reports": 9625,
+      "population": 910596,
+      "per_100k": 1057.0,
+      "pct_of_total": 0.23,
+      "rank_by_per_100k": 185,
+      "rank_by_reports": 77
+    },
+    {
+      "metro": "Toledo, OH Metropolitan Statistical Area",
+      "reports": 6344,
+      "population": 603042,
+      "per_100k": 1052.0,
+      "pct_of_total": 0.15,
+      "rank_by_per_100k": 186,
+      "rank_by_reports": 110
+    },
+    {
+      "metro": "Salt Lake City-Murray, UT Metropolitan Statistical Area",
+      "reports": 13144,
+      "population": 1261420,
+      "per_100k": 1042.0,
+      "pct_of_total": 0.31,
+      "rank_by_per_100k": 187,
+      "rank_by_reports": 57
+    },
+    {
+      "metro": "Providence-Warwick, RI-MA Metropolitan Statistical Area",
+      "reports": 17440,
+      "population": 1673704,
+      "per_100k": 1042.0,
+      "pct_of_total": 0.42,
+      "rank_by_per_100k": 188,
+      "rank_by_reports": 46
+    },
+    {
+      "metro": "Springfield, IL Metropolitan Statistical Area",
+      "reports": 2159,
+      "population": 207397,
+      "per_100k": 1041.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 189,
+      "rank_by_reports": 223
+    },
+    {
+      "metro": "Anchorage, AK Metropolitan Statistical Area",
+      "reports": 4138,
+      "population": 399807,
+      "per_100k": 1035.0,
+      "pct_of_total": 0.1,
+      "rank_by_per_100k": 190,
+      "rank_by_reports": 150
+    },
+    {
+      "metro": "Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",
+      "reports": 38139,
+      "population": 3692062,
+      "per_100k": 1033.0,
+      "pct_of_total": 0.91,
+      "rank_by_per_100k": 191,
+      "rank_by_reports": 24
+    },
+    {
+      "metro": "Missoula, MT Metropolitan Statistical Area",
+      "reports": 1274,
+      "population": 124414,
+      "per_100k": 1024.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 192,
+      "rank_by_reports": 303
+    },
+    {
+      "metro": "Fresno, CA Metropolitan Statistical Area",
+      "reports": 11969,
+      "population": 1171135,
+      "per_100k": 1022.0,
+      "pct_of_total": 0.29,
+      "rank_by_per_100k": 193,
+      "rank_by_reports": 61
+    },
+    {
+      "metro": "Amarillo, TX Metropolitan Statistical Area",
+      "reports": 2756,
+      "population": 270196,
+      "per_100k": 1020.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 194,
+      "rank_by_reports": 187
+    },
+    {
+      "metro": "Santa Rosa-Petaluma, CA Metropolitan Statistical Area",
+      "reports": 4928,
+      "population": 485517,
+      "per_100k": 1015.0,
+      "pct_of_total": 0.12,
+      "rank_by_per_100k": 195,
+      "rank_by_reports": 133
+    },
+    {
+      "metro": "Santa Cruz-Watsonville, CA Metropolitan Statistical Area",
+      "reports": 2699,
+      "population": 265911,
+      "per_100k": 1015.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 196,
+      "rank_by_reports": 190
+    },
+    {
+      "metro": "Gadsden, AL Metropolitan Statistical Area",
+      "reports": 1047,
+      "population": 103254,
+      "per_100k": 1014.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 197,
+      "rank_by_reports": 343
+    },
+    {
+      "metro": "Lebanon, PA Metropolitan Statistical Area",
+      "reports": 1455,
+      "population": 143633,
+      "per_100k": 1013.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 198,
+      "rank_by_reports": 279
+    },
+    {
+      "metro": "Lawton, OK Metropolitan Statistical Area",
+      "reports": 1284,
+      "population": 127129,
+      "per_100k": 1010.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 199,
+      "rank_by_reports": 301
+    },
+    {
+      "metro": "Wichita Falls, TX Metropolitan Statistical Area",
+      "reports": 1504,
+      "population": 148911,
+      "per_100k": 1010.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 200,
+      "rank_by_reports": 272
+    },
+    {
+      "metro": "Barnstable Town, MA Metropolitan Statistical Area",
+      "reports": 2322,
+      "population": 230129,
+      "per_100k": 1009.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 201,
+      "rank_by_reports": 210
+    },
+    {
+      "metro": "Syracuse, NY Metropolitan Statistical Area",
+      "reports": 6626,
+      "population": 657341,
+      "per_100k": 1008.0,
+      "pct_of_total": 0.16,
+      "rank_by_per_100k": 202,
+      "rank_by_reports": 102
+    },
+    {
+      "metro": "Tulsa, OK Metropolitan Statistical Area",
+      "reports": 10338,
+      "population": 1026614,
+      "per_100k": 1007.0,
+      "pct_of_total": 0.25,
+      "rank_by_per_100k": 203,
+      "rank_by_reports": 71
+    },
+    {
+      "metro": "York-Hanover, PA Metropolitan Statistical Area",
+      "reports": 4617,
+      "population": 459403,
+      "per_100k": 1005.0,
+      "pct_of_total": 0.11,
+      "rank_by_per_100k": 204,
+      "rank_by_reports": 139
+    },
+    {
+      "metro": "Goldsboro, NC Metropolitan Statistical Area",
+      "reports": 1182,
+      "population": 117612,
+      "per_100k": 1005.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 205,
+      "rank_by_reports": 315
+    },
+    {
+      "metro": "Worcester, MA Metropolitan Statistical Area",
+      "reports": 8660,
+      "population": 861692,
+      "per_100k": 1005.0,
+      "pct_of_total": 0.21,
+      "rank_by_per_100k": 206,
+      "rank_by_reports": 84
+    },
+    {
+      "metro": "Madison, WI Metropolitan Statistical Area",
+      "reports": 6855,
+      "population": 684132,
+      "per_100k": 1002.0,
+      "pct_of_total": 0.16,
+      "rank_by_per_100k": 207,
+      "rank_by_reports": 98
+    },
+    {
+      "metro": "Buffalo-Cheektowaga, NY Metropolitan Statistical Area",
+      "reports": 11637,
+      "population": 1161377,
+      "per_100k": 1002.0,
+      "pct_of_total": 0.28,
+      "rank_by_per_100k": 208,
+      "rank_by_reports": 63
+    },
+    {
+      "metro": "Gainesville, GA Metropolitan Statistical Area",
+      "reports": 2087,
+      "population": 208492,
+      "per_100k": 1001.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 209,
+      "rank_by_reports": 229
+    },
+    {
+      "metro": "Danville, VA Micropolitan Statistical Area",
+      "reports": 1025,
+      "population": 102398,
+      "per_100k": 1001.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 210,
+      "rank_by_reports": 346
+    },
+    {
+      "metro": "Hilo-Kailua, HI Micropolitan Statistical Area",
+      "reports": 2036,
+      "population": 203600,
+      "per_100k": 1000.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 211,
+      "rank_by_reports": 231
+    },
+    {
+      "metro": "Salisbury, MD Metropolitan Statistical Area",
+      "reports": 1287,
+      "population": 128829,
+      "per_100k": 999.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 212,
+      "rank_by_reports": 300
+    },
+    {
+      "metro": "Chico, CA Metropolitan Statistical Area",
+      "reports": 2088,
+      "population": 209428,
+      "per_100k": 997.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 213,
+      "rank_by_reports": 228
+    },
+    {
+      "metro": "Amherst Town-Northampton, MA Metropolitan Statistical Area",
+      "reports": 1560,
+      "population": 156627,
+      "per_100k": 996.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 214,
+      "rank_by_reports": 266
+    },
+    {
+      "metro": "Kalispell, MT Micropolitan Statistical Area",
+      "reports": 1079,
+      "population": 108442,
+      "per_100k": 995.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 215,
+      "rank_by_reports": 335
+    },
+    {
+      "metro": "Lynchburg, VA Metropolitan Statistical Area",
+      "reports": 2607,
+      "population": 262802,
+      "per_100k": 992.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 216,
+      "rank_by_reports": 194
+    },
+    {
+      "metro": "Medford, OR Metropolitan Statistical Area",
+      "reports": 2207,
+      "population": 222480,
+      "per_100k": 992.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 217,
+      "rank_by_reports": 220
+    },
+    {
+      "metro": "Sherman-Denison, TX Metropolitan Statistical Area",
+      "reports": 1383,
+      "population": 139980,
+      "per_100k": 988.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 218,
+      "rank_by_reports": 290
+    },
+    {
+      "metro": "Decatur, IL Metropolitan Statistical Area",
+      "reports": 1011,
+      "population": 102640,
+      "per_100k": 985.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 219,
+      "rank_by_reports": 350
+    },
+    {
+      "metro": "Coeur d'Alene, ID Metropolitan Statistical Area",
+      "reports": 1748,
+      "population": 177823,
+      "per_100k": 983.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 220,
+      "rank_by_reports": 252
+    },
+    {
+      "metro": "Pottsville, PA Micropolitan Statistical Area",
+      "reports": 1407,
+      "population": 143279,
+      "per_100k": 982.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 221,
+      "rank_by_reports": 287
+    },
+    {
+      "metro": "Waco, TX Metropolitan Statistical Area",
+      "reports": 2938,
+      "population": 299185,
+      "per_100k": 982.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 222,
+      "rank_by_reports": 182
+    },
+    {
+      "metro": "Fort Wayne, IN Metropolitan Statistical Area",
+      "reports": 4431,
+      "population": 451222,
+      "per_100k": 982.0,
+      "pct_of_total": 0.11,
+      "rank_by_per_100k": 223,
+      "rank_by_reports": 143
+    },
+    {
+      "metro": "Pittsfield, MA Metropolitan Statistical Area",
+      "reports": 1255,
+      "population": 128061,
+      "per_100k": 980.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 224,
+      "rank_by_reports": 307
+    },
+    {
+      "metro": "Urban Honolulu, HI Metropolitan Statistical Area",
+      "reports": 9823,
+      "population": 1003371,
+      "per_100k": 979.0,
+      "pct_of_total": 0.23,
+      "rank_by_per_100k": 225,
+      "rank_by_reports": 75
+    },
+    {
+      "metro": "Lansing-East Lansing, MI Metropolitan Statistical Area",
+      "reports": 4598,
+      "population": 470624,
+      "per_100k": 977.0,
+      "pct_of_total": 0.11,
+      "rank_by_per_100k": 226,
+      "rank_by_reports": 141
+    },
+    {
+      "metro": "Pinehurst-Southern Pines, NC Metropolitan Statistical Area",
+      "reports": 1004,
+      "population": 102869,
+      "per_100k": 976.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 227,
+      "rank_by_reports": 353
+    },
+    {
+      "metro": "Las Cruces, NM Metropolitan Statistical Area",
+      "reports": 2158,
+      "population": 221561,
+      "per_100k": 974.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 228,
+      "rank_by_reports": 224
+    },
+    {
+      "metro": "Hickory-Lenoir-Morganton, NC Metropolitan Statistical Area",
+      "reports": 3563,
+      "population": 366941,
+      "per_100k": 971.0,
+      "pct_of_total": 0.09,
+      "rank_by_per_100k": 229,
+      "rank_by_reports": 162
+    },
+    {
+      "metro": "Racine-Mount Pleasant, WI Metropolitan Statistical Area",
+      "reports": 1911,
+      "population": 196807,
+      "per_100k": 971.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 230,
+      "rank_by_reports": 239
+    },
+    {
+      "metro": "Jackson, TN Metropolitan Statistical Area",
+      "reports": 1754,
+      "population": 180825,
+      "per_100k": 970.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 231,
+      "rank_by_reports": 251
+    },
+    {
+      "metro": "Dothan, AL Metropolitan Statistical Area",
+      "reports": 1471,
+      "population": 151806,
+      "per_100k": 969.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 232,
+      "rank_by_reports": 277
+    },
+    {
+      "metro": "Concord, NH Micropolitan Statistical Area",
+      "reports": 1494,
+      "population": 154979,
+      "per_100k": 964.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 233,
+      "rank_by_reports": 274
+    },
+    {
+      "metro": "Knoxville, TN Metropolitan Statistical Area",
+      "reports": 8856,
+      "population": 919626,
+      "per_100k": 963.0,
+      "pct_of_total": 0.21,
+      "rank_by_per_100k": 234,
+      "rank_by_reports": 81
+    },
+    {
+      "metro": "Redding, CA Metropolitan Statistical Area",
+      "reports": 1747,
+      "population": 181601,
+      "per_100k": 962.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 235,
+      "rank_by_reports": 253
+    },
+    {
+      "metro": "Youngstown-Warren, OH Metropolitan Statistical Area",
+      "reports": 4105,
+      "population": 428497,
+      "per_100k": 958.0,
+      "pct_of_total": 0.1,
+      "rank_by_per_100k": 236,
+      "rank_by_reports": 151
+    },
+    {
+      "metro": "Boise City, ID Metropolitan Statistical Area",
+      "reports": 7571,
+      "population": 790292,
+      "per_100k": 958.0,
+      "pct_of_total": 0.18,
+      "rank_by_per_100k": 237,
+      "rank_by_reports": 91
+    },
+    {
+      "metro": "Michigan City-La Porte, IN Metropolitan Statistical Area",
+      "reports": 1073,
+      "population": 112121,
+      "per_100k": 957.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 238,
+      "rank_by_reports": 336
+    },
+    {
+      "metro": "Burlington-South Burlington, VT Metropolitan Statistical Area",
+      "reports": 2164,
+      "population": 226597,
+      "per_100k": 955.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 239,
+      "rank_by_reports": 222
+    },
+    {
+      "metro": "Tupelo, MS Micropolitan Statistical Area",
+      "reports": 1262,
+      "population": 132147,
+      "per_100k": 955.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 240,
+      "rank_by_reports": 305
+    },
+    {
+      "metro": "Bloomington, IL Metropolitan Statistical Area",
+      "reports": 1624,
+      "population": 170947,
+      "per_100k": 950.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 241,
+      "rank_by_reports": 258
+    },
+    {
+      "metro": "Grand Junction, CO Metropolitan Statistical Area",
+      "reports": 1483,
+      "population": 157264,
+      "per_100k": 943.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 242,
+      "rank_by_reports": 276
+    },
+    {
+      "metro": "Ithaca, NY Metropolitan Statistical Area",
+      "reports": 967,
+      "population": 102872,
+      "per_100k": 940.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 243,
+      "rank_by_reports": 359
+    },
+    {
+      "metro": "Lake Charles, LA Metropolitan Statistical Area",
+      "reports": 2309,
+      "population": 245900,
+      "per_100k": 939.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 244,
+      "rank_by_reports": 211
+    },
+    {
+      "metro": "Portland-South Portland, ME Metropolitan Statistical Area",
+      "reports": 5215,
+      "population": 557754,
+      "per_100k": 935.0,
+      "pct_of_total": 0.12,
+      "rank_by_per_100k": 245,
+      "rank_by_reports": 126
+    },
+    {
+      "metro": "Binghamton, NY Metropolitan Statistical Area",
+      "reports": 2296,
+      "population": 245824,
+      "per_100k": 934.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 246,
+      "rank_by_reports": 213
+    },
+    {
+      "metro": "Sunbury, PA Micropolitan Statistical Area",
+      "reports": 1016,
+      "population": 109013,
+      "per_100k": 932.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 247,
+      "rank_by_reports": 349
+    },
+    {
+      "metro": "Lebanon-Claremont, NH-VT Micropolitan Statistical Area",
+      "reports": 2075,
+      "population": 222879,
+      "per_100k": 931.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 248,
+      "rank_by_reports": 230
+    },
+    {
+      "metro": "Kahului-Wailuku, HI Metropolitan Statistical Area",
+      "reports": 1532,
+      "population": 164731,
+      "per_100k": 930.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 249,
+      "rank_by_reports": 267
+    },
+    {
+      "metro": "Eureka-Arcata, CA Micropolitan Statistical Area",
+      "reports": 1255,
+      "population": 135383,
+      "per_100k": 927.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 250,
+      "rank_by_reports": 307
+    },
+    {
+      "metro": "Canton-Massillon, OH Metropolitan Statistical Area",
+      "reports": 3711,
+      "population": 400324,
+      "per_100k": 927.0,
+      "pct_of_total": 0.09,
+      "rank_by_per_100k": 251,
+      "rank_by_reports": 155
+    },
+    {
+      "metro": "South Bend-Mishawaka, IN-MI Metropolitan Statistical Area",
+      "reports": 3006,
+      "population": 324272,
+      "per_100k": 927.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 252,
+      "rank_by_reports": 178
+    },
+    {
+      "metro": "Springfield, MO Metropolitan Statistical Area",
+      "reports": 4427,
+      "population": 481719,
+      "per_100k": 919.0,
+      "pct_of_total": 0.11,
+      "rank_by_per_100k": 253,
+      "rank_by_reports": 144
+    },
+    {
+      "metro": "Evansville, IN Metropolitan Statistical Area",
+      "reports": 2472,
+      "population": 269575,
+      "per_100k": 917.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 254,
+      "rank_by_reports": 200
+    },
+    {
+      "metro": "Salem, OR Metropolitan Statistical Area",
+      "reports": 3979,
+      "population": 434863,
+      "per_100k": 915.0,
+      "pct_of_total": 0.1,
+      "rank_by_per_100k": 255,
+      "rank_by_reports": 152
+    },
+    {
+      "metro": "Johnson City, TN Metropolitan Statistical Area",
+      "reports": 1912,
+      "population": 208962,
+      "per_100k": 915.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 256,
+      "rank_by_reports": 237
+    },
+    {
+      "metro": "Lewiston-Auburn, ME Metropolitan Statistical Area",
+      "reports": 1025,
+      "population": 112267,
+      "per_100k": 913.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 257,
+      "rank_by_reports": 346
+    },
+    {
+      "metro": "Kenosha, WI Metropolitan Statistical Area",
+      "reports": 1532,
+      "population": 168352,
+      "per_100k": 910.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 258,
+      "rank_by_reports": 267
+    },
+    {
+      "metro": "Morgantown, WV Metropolitan Statistical Area",
+      "reports": 1280,
+      "population": 140659,
+      "per_100k": 910.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 259,
+      "rank_by_reports": 302
+    },
+    {
+      "metro": "Topeka, KS Metropolitan Statistical Area",
+      "reports": 2110,
+      "population": 232635,
+      "per_100k": 907.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 260,
+      "rank_by_reports": 227
+    },
+    {
+      "metro": "College Station-Bryan, TX Metropolitan Statistical Area",
+      "reports": 2472,
+      "population": 273149,
+      "per_100k": 905.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 261,
+      "rank_by_reports": 200
+    },
+    {
+      "metro": "Columbia, MO Metropolitan Statistical Area",
+      "reports": 1921,
+      "population": 212735,
+      "per_100k": 903.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 262,
+      "rank_by_reports": 236
+    },
+    {
+      "metro": "Grand Rapids-Wyoming-Kentwood, MI Metropolitan Statistical Area",
+      "reports": 10409,
+      "population": 1153991,
+      "per_100k": 902.0,
+      "pct_of_total": 0.25,
+      "rank_by_per_100k": 263,
+      "rank_by_reports": 70
+    },
+    {
+      "metro": "Peoria, IL Metropolitan Statistical Area",
+      "reports": 3296,
+      "population": 365816,
+      "per_100k": 901.0,
+      "pct_of_total": 0.08,
+      "rank_by_per_100k": 264,
+      "rank_by_reports": 170
+    },
+    {
+      "metro": "Bozeman, MT Metropolitan Statistical Area",
+      "reports": 1101,
+      "population": 122198,
+      "per_100k": 901.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 265,
+      "rank_by_reports": 333
+    },
+    {
+      "metro": "Yuma, AZ Metropolitan Statistical Area",
+      "reports": 1872,
+      "population": 207769,
+      "per_100k": 901.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 266,
+      "rank_by_reports": 242
+    },
+    {
+      "metro": "Texarkana, TX-AR Metropolitan Statistical Area",
+      "reports": 1324,
+      "population": 146948,
+      "per_100k": 901.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 267,
+      "rank_by_reports": 296
+    },
+    {
+      "metro": "Napa, CA Metropolitan Statistical Area",
+      "reports": 1225,
+      "population": 136111,
+      "per_100k": 900.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 268,
+      "rank_by_reports": 312
+    },
+    {
+      "metro": "Erie, PA Metropolitan Statistical Area",
+      "reports": 2425,
+      "population": 269444,
+      "per_100k": 900.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 269,
+      "rank_by_reports": 204
+    },
+    {
+      "metro": "Jackson, MI Metropolitan Statistical Area",
+      "reports": 1437,
+      "population": 160201,
+      "per_100k": 897.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 270,
+      "rank_by_reports": 283
+    },
+    {
+      "metro": "Niles, MI Metropolitan Statistical Area",
+      "reports": 1376,
+      "population": 153400,
+      "per_100k": 897.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 271,
+      "rank_by_reports": 292
+    },
+    {
+      "metro": "Albany, OR Metropolitan Statistical Area",
+      "reports": 1163,
+      "population": 129799,
+      "per_100k": 896.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 272,
+      "rank_by_reports": 319
+    },
+    {
+      "metro": "Wichita, KS Metropolitan Statistical Area",
+      "reports": 5811,
+      "population": 649274,
+      "per_100k": 895.0,
+      "pct_of_total": 0.14,
+      "rank_by_per_100k": 273,
+      "rank_by_reports": 114
+    },
+    {
+      "metro": "Lawrence, KS Metropolitan Statistical Area",
+      "reports": 1070,
+      "population": 119553,
+      "per_100k": 895.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 274,
+      "rank_by_reports": 337
+    },
+    {
+      "metro": "Athens-Clarke County, GA Metropolitan Statistical Area",
+      "reports": 1948,
+      "population": 218141,
+      "per_100k": 893.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 275,
+      "rank_by_reports": 232
+    },
+    {
+      "metro": "Mount Vernon-Anacortes, WA Metropolitan Statistical Area",
+      "reports": 1164,
+      "population": 130347,
+      "per_100k": 893.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 276,
+      "rank_by_reports": 318
+    },
+    {
+      "metro": "Greeley, CO Metropolitan Statistical Area",
+      "reports": 3042,
+      "population": 340649,
+      "per_100k": 893.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 277,
+      "rank_by_reports": 176
+    },
+    {
+      "metro": "Yuba City, CA Metropolitan Statistical Area",
+      "reports": 1611,
+      "population": 182034,
+      "per_100k": 885.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 278,
+      "rank_by_reports": 261
+    },
+    {
+      "metro": "Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area",
+      "reports": 3376,
+      "population": 381900,
+      "per_100k": 884.0,
+      "pct_of_total": 0.08,
+      "rank_by_per_100k": 279,
+      "rank_by_reports": 166
+    },
+    {
+      "metro": "Charleston, WV Metropolitan Statistical Area",
+      "reports": 1831,
+      "population": 207361,
+      "per_100k": 883.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 280,
+      "rank_by_reports": 243
+    },
+    {
+      "metro": "Springfield, OH Metropolitan Statistical Area",
+      "reports": 1194,
+      "population": 135374,
+      "per_100k": 882.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 281,
+      "rank_by_reports": 314
+    },
+    {
+      "metro": "Rapid City, SD Metropolitan Statistical Area",
+      "reports": 1329,
+      "population": 151023,
+      "per_100k": 880.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 282,
+      "rank_by_reports": 295
+    },
+    {
+      "metro": "Flagstaff, AZ Metropolitan Statistical Area",
+      "reports": 1270,
+      "population": 144647,
+      "per_100k": 878.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 283,
+      "rank_by_reports": 304
+    },
+    {
+      "metro": "Jonesboro, AR Metropolitan Statistical Area",
+      "reports": 1180,
+      "population": 134857,
+      "per_100k": 875.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 284,
+      "rank_by_reports": 316
+    },
+    {
+      "metro": "Sandusky, OH Metropolitan Statistical Area",
+      "reports": 1007,
+      "population": 115086,
+      "per_100k": 875.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 285,
+      "rank_by_reports": 352
+    },
+    {
+      "metro": "Modesto, CA Metropolitan Statistical Area",
+      "reports": 4819,
+      "population": 552005,
+      "per_100k": 873.0,
+      "pct_of_total": 0.12,
+      "rank_by_per_100k": 286,
+      "rank_by_reports": 134
+    },
+    {
+      "metro": "Roseburg, OR Micropolitan Statistical Area",
+      "reports": 973,
+      "population": 111839,
+      "per_100k": 870.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 287,
+      "rank_by_reports": 358
+    },
+    {
+      "metro": "Watertown-Fort Drum, NY Metropolitan Statistical Area",
+      "reports": 1009,
+      "population": 116110,
+      "per_100k": 869.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 288,
+      "rank_by_reports": 351
+    },
+    {
+      "metro": "Manhattan, KS Metropolitan Statistical Area",
+      "reports": 1155,
+      "population": 133372,
+      "per_100k": 866.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 289,
+      "rank_by_reports": 321
+    },
+    {
+      "metro": "Janesville-Beloit, WI Metropolitan Statistical Area",
+      "reports": 1415,
+      "population": 163963,
+      "per_100k": 863.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 290,
+      "rank_by_reports": 286
+    },
+    {
+      "metro": "Billings, MT Metropolitan Statistical Area",
+      "reports": 1608,
+      "population": 187194,
+      "per_100k": 859.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 291,
+      "rank_by_reports": 262
+    },
+    {
+      "metro": "Altoona, PA Metropolitan Statistical Area",
+      "reports": 1046,
+      "population": 121911,
+      "per_100k": 858.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 292,
+      "rank_by_reports": 344
+    },
+    {
+      "metro": "Bloomington, IN Metropolitan Statistical Area",
+      "reports": 1382,
+      "population": 161260,
+      "per_100k": 857.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 293,
+      "rank_by_reports": 291
+    },
+    {
+      "metro": "Fargo, ND-MN Metropolitan Statistical Area",
+      "reports": 2183,
+      "population": 255023,
+      "per_100k": 856.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 294,
+      "rank_by_reports": 221
+    },
+    {
+      "metro": "St. George, UT Metropolitan Statistical Area",
+      "reports": 1625,
+      "population": 189836,
+      "per_100k": 856.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 295,
+      "rank_by_reports": 257
+    },
+    {
+      "metro": "Battle Creek, MI Metropolitan Statistical Area",
+      "reports": 1143,
+      "population": 133841,
+      "per_100k": 854.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 296,
+      "rank_by_reports": 323
+    },
+    {
+      "metro": "Augusta-Waterville, ME Micropolitan Statistical Area",
+      "reports": 1070,
+      "population": 125587,
+      "per_100k": 852.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 297,
+      "rank_by_reports": 337
+    },
+    {
+      "metro": "Beckley, WV Metropolitan Statistical Area",
+      "reports": 967,
+      "population": 113631,
+      "per_100k": 851.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 298,
+      "rank_by_reports": 359
+    },
+    {
+      "metro": "Longview-Kelso, WA Metropolitan Statistical Area",
+      "reports": 947,
+      "population": 111543,
+      "per_100k": 849.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 299,
+      "rank_by_reports": 363
+    },
+    {
+      "metro": "Massena-Ogdensburg, NY Micropolitan Statistical Area",
+      "reports": 915,
+      "population": 107774,
+      "per_100k": 849.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 300,
+      "rank_by_reports": 367
+    },
+    {
+      "metro": "Utica-Rome, NY Metropolitan Statistical Area",
+      "reports": 2444,
+      "population": 289573,
+      "per_100k": 844.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 301,
+      "rank_by_reports": 203
+    },
+    {
+      "metro": "Lancaster, PA Metropolitan Statistical Area",
+      "reports": 4675,
+      "population": 555226,
+      "per_100k": 842.0,
+      "pct_of_total": 0.11,
+      "rank_by_per_100k": 302,
+      "rank_by_reports": 137
+    },
+    {
+      "metro": "Johnstown, PA Metropolitan Statistical Area",
+      "reports": 1112,
+      "population": 132381,
+      "per_100k": 840.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 303,
+      "rank_by_reports": 331
+    },
+    {
+      "metro": "Kingsport-Bristol, TN-VA Metropolitan Statistical Area",
+      "reports": 2598,
+      "population": 309654,
+      "per_100k": 839.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 304,
+      "rank_by_reports": 195
+    },
+    {
+      "metro": "Blacksburg-Christiansburg-Radford, VA Metropolitan Statistical Area",
+      "reports": 1518,
+      "population": 181579,
+      "per_100k": 836.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 305,
+      "rank_by_reports": 270
+    },
+    {
+      "metro": "Des Moines-West Des Moines, IA Metropolitan Statistical Area",
+      "reports": 6021,
+      "population": 720215,
+      "per_100k": 836.0,
+      "pct_of_total": 0.14,
+      "rank_by_per_100k": 306,
+      "rank_by_reports": 112
+    },
+    {
+      "metro": "Fayetteville-Springdale-Rogers, AR Metropolitan Statistical Area",
+      "reports": 4668,
+      "population": 563768,
+      "per_100k": 828.0,
+      "pct_of_total": 0.11,
+      "rank_by_per_100k": 307,
+      "rank_by_reports": 138
+    },
+    {
+      "metro": "Ogden, UT Metropolitan Statistical Area",
+      "reports": 5324,
+      "population": 645333,
+      "per_100k": 825.0,
+      "pct_of_total": 0.13,
+      "rank_by_per_100k": 308,
+      "rank_by_reports": 123
+    },
+    {
+      "metro": "Corpus Christi, TX Metropolitan Statistical Area",
+      "reports": 3675,
+      "population": 446537,
+      "per_100k": 823.0,
+      "pct_of_total": 0.09,
+      "rank_by_per_100k": 309,
+      "rank_by_reports": 156
+    },
+    {
+      "metro": "Cleveland, TN Metropolitan Statistical Area",
+      "reports": 1046,
+      "population": 127406,
+      "per_100k": 821.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 310,
+      "rank_by_reports": 344
+    },
+    {
+      "metro": "Houma-Bayou Cane-Thibodaux, LA Metropolitan Statistical Area",
+      "reports": 1674,
+      "population": 204146,
+      "per_100k": 820.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 311,
+      "rank_by_reports": 255
+    },
+    {
+      "metro": "Abilene, TX Metropolitan Statistical Area",
+      "reports": 1462,
+      "population": 178293,
+      "per_100k": 820.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 312,
+      "rank_by_reports": 278
+    },
+    {
+      "metro": "Muskegon-Norton Shores, MI Metropolitan Statistical Area",
+      "reports": 1437,
+      "population": 175458,
+      "per_100k": 819.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 313,
+      "rank_by_reports": 283
+    },
+    {
+      "metro": "Provo-Orem-Lehi, UT Metropolitan Statistical Area",
+      "reports": 5697,
+      "population": 695604,
+      "per_100k": 819.0,
+      "pct_of_total": 0.14,
+      "rank_by_per_100k": 314,
+      "rank_by_reports": 115
+    },
+    {
+      "metro": "Show Low, AZ Micropolitan Statistical Area",
+      "reports": 878,
+      "population": 107730,
+      "per_100k": 815.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 315,
+      "rank_by_reports": 371
+    },
+    {
+      "metro": "Santa Maria-Santa Barbara, CA Metropolitan Statistical Area",
+      "reports": 3619,
+      "population": 444049,
+      "per_100k": 815.0,
+      "pct_of_total": 0.09,
+      "rank_by_per_100k": 316,
+      "rank_by_reports": 160
+    },
+    {
+      "metro": "Iowa City, IA Metropolitan Statistical Area",
+      "reports": 1443,
+      "population": 177491,
+      "per_100k": 813.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 317,
+      "rank_by_reports": 282
+    },
+    {
+      "metro": "Jamestown-Dunkirk, NY Micropolitan Statistical Area",
+      "reports": 1025,
+      "population": 126387,
+      "per_100k": 811.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 318,
+      "rank_by_reports": 346
+    },
+    {
+      "metro": "Lincoln, NE Metropolitan Statistical Area",
+      "reports": 2743,
+      "population": 341169,
+      "per_100k": 804.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 319,
+      "rank_by_reports": 188
+    },
+    {
+      "metro": "Cedar Rapids, IA Metropolitan Statistical Area",
+      "reports": 2209,
+      "population": 276125,
+      "per_100k": 800.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 320,
+      "rank_by_reports": 219
+    },
+    {
+      "metro": "Rochester, MN Metropolitan Statistical Area",
+      "reports": 1818,
+      "population": 227250,
+      "per_100k": 800.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 321,
+      "rank_by_reports": 246
+    },
+    {
+      "metro": "Richmond-Berea, KY Micropolitan Statistical Area",
+      "reports": 992,
+      "population": 124311,
+      "per_100k": 798.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 322,
+      "rank_by_reports": 355
+    },
+    {
+      "metro": "San Angelo, TX Metropolitan Statistical Area",
+      "reports": 964,
+      "population": 120802,
+      "per_100k": 798.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 323,
+      "rank_by_reports": 361
+    },
+    {
+      "metro": "Bangor, ME Metropolitan Statistical Area",
+      "reports": 1222,
+      "population": 153518,
+      "per_100k": 796.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 324,
+      "rank_by_reports": 313
+    },
+    {
+      "metro": "Decatur, AL Metropolitan Statistical Area",
+      "reports": 1248,
+      "population": 156981,
+      "per_100k": 795.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 325,
+      "rank_by_reports": 310
+    },
+    {
+      "metro": "Williamsport, PA Metropolitan Statistical Area",
+      "reports": 902,
+      "population": 113602,
+      "per_100k": 794.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 326,
+      "rank_by_reports": 368
+    },
+    {
+      "metro": "Saginaw, MI Metropolitan Statistical Area",
+      "reports": 1500,
+      "population": 189155,
+      "per_100k": 793.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 327,
+      "rank_by_reports": 273
+    },
+    {
+      "metro": "Duluth, MN-WI Metropolitan Statistical Area",
+      "reports": 2226,
+      "population": 280706,
+      "per_100k": 793.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 328,
+      "rank_by_reports": 218
+    },
+    {
+      "metro": "Joplin, MO-KS Metropolitan Statistical Area",
+      "reports": 1596,
+      "population": 202281,
+      "per_100k": 789.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 329,
+      "rank_by_reports": 263
+    },
+    {
+      "metro": "Cookeville, TN Micropolitan Statistical Area",
+      "reports": 1134,
+      "population": 143909,
+      "per_100k": 788.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 330,
+      "rank_by_reports": 326
+    },
+    {
+      "metro": "State College, PA Metropolitan Statistical Area",
+      "reports": 1244,
+      "population": 158069,
+      "per_100k": 787.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 331,
+      "rank_by_reports": 311
+    },
+    {
+      "metro": "Merced, CA Metropolitan Statistical Area",
+      "reports": 2244,
+      "population": 285496,
+      "per_100k": 786.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 332,
+      "rank_by_reports": 216
+    },
+    {
+      "metro": "Staunton-Stuarts Draft, VA Metropolitan Statistical Area",
+      "reports": 979,
+      "population": 125997,
+      "per_100k": 777.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 333,
+      "rank_by_reports": 357
+    },
+    {
+      "metro": "Wheeling, WV-OH Metropolitan Statistical Area",
+      "reports": 1069,
+      "population": 137935,
+      "per_100k": 775.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 334,
+      "rank_by_reports": 339
+    },
+    {
+      "metro": "Fond du Lac, WI Metropolitan Statistical Area",
+      "reports": 805,
+      "population": 104005,
+      "per_100k": 774.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 335,
+      "rank_by_reports": 382
+    },
+    {
+      "metro": "Sioux Falls, SD-MN Metropolitan Statistical Area",
+      "reports": 2266,
+      "population": 293144,
+      "per_100k": 773.0,
+      "pct_of_total": 0.05,
+      "rank_by_per_100k": 336,
+      "rank_by_reports": 214
+    },
+    {
+      "metro": "Florence-Muscle Shoals, AL Metropolitan Statistical Area",
+      "reports": 1167,
+      "population": 152749,
+      "per_100k": 764.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 337,
+      "rank_by_reports": 317
+    },
+    {
+      "metro": "Hermitage, PA Micropolitan Statistical Area",
+      "reports": 839,
+      "population": 109817,
+      "per_100k": 764.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 338,
+      "rank_by_reports": 378
+    },
+    {
+      "metro": "Paducah, KY-IL Metropolitan Statistical Area",
+      "reports": 785,
+      "population": 102883,
+      "per_100k": 763.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 339,
+      "rank_by_reports": 384
+    },
+    {
+      "metro": "Oshkosh-Neenah, WI Metropolitan Statistical Area",
+      "reports": 1306,
+      "population": 171391,
+      "per_100k": 762.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 340,
+      "rank_by_reports": 297
+    },
+    {
+      "metro": "Glens Falls, NY Metropolitan Statistical Area",
+      "reports": 960,
+      "population": 126482,
+      "per_100k": 759.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 341,
+      "rank_by_reports": 362
+    },
+    {
+      "metro": "Morristown, TN Metropolitan Statistical Area",
+      "reports": 916,
+      "population": 120844,
+      "per_100k": 758.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 342,
+      "rank_by_reports": 366
+    },
+    {
+      "metro": "Muncie, IN Metropolitan Statistical Area",
+      "reports": 850,
+      "population": 112137,
+      "per_100k": 758.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 343,
+      "rank_by_reports": 375
+    },
+    {
+      "metro": "Green Bay, WI Metropolitan Statistical Area",
+      "reports": 2496,
+      "population": 329288,
+      "per_100k": 758.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 344,
+      "rank_by_reports": 198
+    },
+    {
+      "metro": "Kennewick-Richland, WA Metropolitan Statistical Area",
+      "reports": 2328,
+      "population": 307937,
+      "per_100k": 756.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 345,
+      "rank_by_reports": 209
+    },
+    {
+      "metro": "Wenatchee-East Wenatchee, WA Metropolitan Statistical Area",
+      "reports": 925,
+      "population": 123169,
+      "per_100k": 751.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 346,
+      "rank_by_reports": 365
+    },
+    {
+      "metro": "Monroe, MI Metropolitan Statistical Area",
+      "reports": 1157,
+      "population": 155094,
+      "per_100k": 746.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 347,
+      "rank_by_reports": 320
+    },
+    {
+      "metro": "Gettysburg, PA Metropolitan Statistical Area",
+      "reports": 785,
+      "population": 105228,
+      "per_100k": 746.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 348,
+      "rank_by_reports": 384
+    },
+    {
+      "metro": "Weirton-Steubenville, WV-OH Metropolitan Statistical Area",
+      "reports": 862,
+      "population": 115550,
+      "per_100k": 746.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 349,
+      "rank_by_reports": 372
+    },
+    {
+      "metro": "Jefferson City, MO Metropolitan Statistical Area",
+      "reports": 1113,
+      "population": 150202,
+      "per_100k": 741.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 350,
+      "rank_by_reports": 330
+    },
+    {
+      "metro": "Traverse City, MI Metropolitan Statistical Area",
+      "reports": 1145,
+      "population": 154730,
+      "per_100k": 740.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 351,
+      "rank_by_reports": 322
+    },
+    {
+      "metro": "Harrisonburg, VA Metropolitan Statistical Area",
+      "reports": 989,
+      "population": 136226,
+      "per_100k": 726.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 352,
+      "rank_by_reports": 356
+    },
+    {
+      "metro": "Salem, OH Micropolitan Statistical Area",
+      "reports": 735,
+      "population": 101240,
+      "per_100k": 726.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 353,
+      "rank_by_reports": 388
+    },
+    {
+      "metro": "Appleton, WI Metropolitan Statistical Area",
+      "reports": 1773,
+      "population": 244215,
+      "per_100k": 726.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 354,
+      "rank_by_reports": 248
+    },
+    {
+      "metro": "Sheboygan, WI Metropolitan Statistical Area",
+      "reports": 851,
+      "population": 117704,
+      "per_100k": 723.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 355,
+      "rank_by_reports": 374
+    },
+    {
+      "metro": "Visalia, CA Metropolitan Statistical Area",
+      "reports": 3432,
+      "population": 476006,
+      "per_100k": 721.0,
+      "pct_of_total": 0.08,
+      "rank_by_per_100k": 356,
+      "rank_by_reports": 164
+    },
+    {
+      "metro": "Chambersburg, PA Metropolitan Statistical Area",
+      "reports": 1127,
+      "population": 156528,
+      "per_100k": 720.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 357,
+      "rank_by_reports": 328
+    },
+    {
+      "metro": "Lafayette-West Lafayette, IN Metropolitan Statistical Area",
+      "reports": 1613,
+      "population": 224965,
+      "per_100k": 717.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 358,
+      "rank_by_reports": 260
+    },
+    {
+      "metro": "St. Joseph, MO-KS Metropolitan Statistical Area",
+      "reports": 856,
+      "population": 120563,
+      "per_100k": 710.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 359,
+      "rank_by_reports": 373
+    },
+    {
+      "metro": "Idaho Falls, ID Metropolitan Statistical Area",
+      "reports": 1136,
+      "population": 162054,
+      "per_100k": 701.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 360,
+      "rank_by_reports": 325
+    },
+    {
+      "metro": "Hanford-Corcoran, CA Metropolitan Statistical Area",
+      "reports": 1060,
+      "population": 152738,
+      "per_100k": 694.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 361,
+      "rank_by_reports": 341
+    },
+    {
+      "metro": "Whitewater-Elkhorn, WI Micropolitan Statistical Area",
+      "reports": 728,
+      "population": 105507,
+      "per_100k": 690.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 362,
+      "rank_by_reports": 390
+    },
+    {
+      "metro": "Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area",
+      "reports": 2569,
+      "population": 372859,
+      "per_100k": 689.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 363,
+      "rank_by_reports": 196
+    },
+    {
+      "metro": "Bowling Green, KY Metropolitan Statistical Area",
+      "reports": 1257,
+      "population": 183236,
+      "per_100k": 686.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 364,
+      "rank_by_reports": 306
+    },
+    {
+      "metro": "Bay City, MI Metropolitan Statistical Area",
+      "reports": 708,
+      "population": 103207,
+      "per_100k": 686.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 365,
+      "rank_by_reports": 392
+    },
+    {
+      "metro": "Salinas, CA Metropolitan Statistical Area",
+      "reports": 2969,
+      "population": 435977,
+      "per_100k": 681.0,
+      "pct_of_total": 0.07,
+      "rank_by_per_100k": 366,
+      "rank_by_reports": 180
+    },
+    {
+      "metro": "St. Cloud, MN Metropolitan Statistical Area",
+      "reports": 1361,
+      "population": 200737,
+      "per_100k": 678.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 367,
+      "rank_by_reports": 293
+    },
+    {
+      "metro": "Elkhart-Goshen, IN Metropolitan Statistical Area",
+      "reports": 1395,
+      "population": 206973,
+      "per_100k": 674.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 368,
+      "rank_by_reports": 288
+    },
+    {
+      "metro": "Mansfield, OH Metropolitan Statistical Area",
+      "reports": 841,
+      "population": 125149,
+      "per_100k": 672.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 369,
+      "rank_by_reports": 377
+    },
+    {
+      "metro": "La Crosse-Onalaska, WI-MN Metropolitan Statistical Area",
+      "reports": 1142,
+      "population": 169940,
+      "per_100k": 672.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 370,
+      "rank_by_reports": 324
+    },
+    {
+      "metro": "Mankato, MN Metropolitan Statistical Area",
+      "reports": 695,
+      "population": 103731,
+      "per_100k": 670.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 371,
+      "rank_by_reports": 395
+    },
+    {
+      "metro": "Fort Smith, AR-OK Metropolitan Statistical Area",
+      "reports": 1523,
+      "population": 229023,
+      "per_100k": 665.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 372,
+      "rank_by_reports": 269
+    },
+    {
+      "metro": "Terre Haute, IN Metropolitan Statistical Area",
+      "reports": 1121,
+      "population": 168825,
+      "per_100k": 664.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 373,
+      "rank_by_reports": 329
+    },
+    {
+      "metro": "Twin Falls, ID Metropolitan Statistical Area",
+      "reports": 773,
+      "population": 116944,
+      "per_100k": 661.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 374,
+      "rank_by_reports": 386
+    },
+    {
+      "metro": "Logan, UT-ID Metropolitan Statistical Area",
+      "reports": 996,
+      "population": 151829,
+      "per_100k": 656.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 375,
+      "rank_by_reports": 354
+    },
+    {
+      "metro": "Owensboro, KY Metropolitan Statistical Area",
+      "reports": 735,
+      "population": 112385,
+      "per_100k": 654.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 376,
+      "rank_by_reports": 388
+    },
+    {
+      "metro": "Lima, OH Metropolitan Statistical Area",
+      "reports": 664,
+      "population": 101685,
+      "per_100k": 653.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 377,
+      "rank_by_reports": 397
+    },
+    {
+      "metro": "Waterloo-Cedar Falls, IA Metropolitan Statistical Area",
+      "reports": 1087,
+      "population": 168266,
+      "per_100k": 646.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 378,
+      "rank_by_reports": 334
+    },
+    {
+      "metro": "Ames, IA Metropolitan Statistical Area",
+      "reports": 807,
+      "population": 125311,
+      "per_100k": 644.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 379,
+      "rank_by_reports": 381
+    },
+    {
+      "metro": "Eau Claire, WI Metropolitan Statistical Area",
+      "reports": 1108,
+      "population": 172855,
+      "per_100k": 641.0,
+      "pct_of_total": 0.03,
+      "rank_by_per_100k": 380,
+      "rank_by_reports": 332
+    },
+    {
+      "metro": "Sioux City, IA-NE-SD Metropolitan Statistical Area",
+      "reports": 895,
+      "population": 144122,
+      "per_100k": 621.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 381,
+      "rank_by_reports": 369
+    },
+    {
+      "metro": "Farmington, NM Metropolitan Statistical Area",
+      "reports": 746,
+      "population": 121104,
+      "per_100k": 616.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 382,
+      "rank_by_reports": 387
+    },
+    {
+      "metro": "Wausau, WI Metropolitan Statistical Area",
+      "reports": 844,
+      "population": 138134,
+      "per_100k": 611.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 383,
+      "rank_by_reports": 376
+    },
+    {
+      "metro": "Wooster, OH Micropolitan Statistical Area",
+      "reports": 706,
+      "population": 116694,
+      "per_100k": 605.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 384,
+      "rank_by_reports": 393
+    },
+    {
+      "metro": "Ottawa, IL Micropolitan Statistical Area",
+      "reports": 893,
+      "population": 147603,
+      "per_100k": 605.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 385,
+      "rank_by_reports": 370
+    },
+    {
+      "metro": "Laredo, TX Metropolitan Statistical Area",
+      "reports": 1591,
+      "population": 267845,
+      "per_100k": 594.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 386,
+      "rank_by_reports": 265
+    },
+    {
+      "metro": "Bismarck, ND Metropolitan Statistical Area",
+      "reports": 797,
+      "population": 134175,
+      "per_100k": 594.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 387,
+      "rank_by_reports": 383
+    },
+    {
+      "metro": "Yakima, WA Metropolitan Statistical Area",
+      "reports": 1515,
+      "population": 256780,
+      "per_100k": 590.0,
+      "pct_of_total": 0.04,
+      "rank_by_per_100k": 388,
+      "rank_by_reports": 271
+    },
+    {
+      "metro": "Grand Forks, ND-MN Metropolitan Statistical Area",
+      "reports": 606,
+      "population": 103590,
+      "per_100k": 585.0,
+      "pct_of_total": 0.01,
+      "rank_by_per_100k": 389,
+      "rank_by_reports": 398
+    },
+    {
+      "metro": "Holland, MI Micropolitan Statistical Area",
+      "reports": 702,
+      "population": 120826,
+      "per_100k": 581.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 390,
+      "rank_by_reports": 394
+    },
+    {
+      "metro": "McAllen-Edinburg-Mission, TX Metropolitan Statistical Area",
+      "reports": 5061,
+      "population": 880174,
+      "per_100k": 575.0,
+      "pct_of_total": 0.12,
+      "rank_by_per_100k": 391,
+      "rank_by_reports": 128
+    },
+    {
+      "metro": "Dalton, GA Metropolitan Statistical Area",
+      "reports": 821,
+      "population": 143281,
+      "per_100k": 573.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 392,
+      "rank_by_reports": 380
+    },
+    {
+      "metro": "Moses Lake, WA Micropolitan Statistical Area",
+      "reports": 571,
+      "population": 100351,
+      "per_100k": 569.0,
+      "pct_of_total": 0.01,
+      "rank_by_per_100k": 393,
+      "rank_by_reports": 399
+    },
+    {
+      "metro": "Brownsville-Harlingen, TX Metropolitan Statistical Area",
+      "reports": 2352,
+      "population": 423022,
+      "per_100k": 556.0,
+      "pct_of_total": 0.06,
+      "rank_by_per_100k": 394,
+      "rank_by_reports": 208
+    },
+    {
+      "metro": "Corbin, KY Micropolitan Statistical Area",
+      "reports": 826,
+      "population": 149638,
+      "per_100k": 552.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 395,
+      "rank_by_reports": 379
+    },
+    {
+      "metro": "El Centro, CA Metropolitan Statistical Area",
+      "reports": 937,
+      "population": 179159,
+      "per_100k": 523.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 396,
+      "rank_by_reports": 364
+    },
+    {
+      "metro": "San Juan-Bayamón-Caguas, PR Metropolitan Statistical Area",
+      "reports": 9133,
+      "population": 2061625,
+      "per_100k": 443.0,
+      "pct_of_total": 0.22,
+      "rank_by_per_100k": 397,
+      "rank_by_reports": 79
+    },
+    {
+      "metro": "Aguadilla, PR Metropolitan Statistical Area",
+      "reports": 725,
+      "population": 252613,
+      "per_100k": 287.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 398,
+      "rank_by_reports": 391
+    },
+    {
+      "metro": "Mayagüez, PR Metropolitan Statistical Area",
+      "reports": 520,
+      "population": 211382,
+      "per_100k": 246.0,
+      "pct_of_total": 0.01,
+      "rank_by_per_100k": 399,
+      "rank_by_reports": 400
+    },
+    {
+      "metro": "Ponce, PR Metropolitan Statistical Area",
+      "reports": 673,
+      "population": 273577,
+      "per_100k": 246.0,
+      "pct_of_total": 0.02,
+      "rank_by_per_100k": 400,
+      "rank_by_reports": 396
+    },
+    {
+      "metro": "Arecibo, PR Metropolitan Statistical Area",
+      "reports": 373,
+      "population": 181068,
+      "per_100k": 206.0,
+      "pct_of_total": 0.01,
+      "rank_by_per_100k": 401,
+      "rank_by_reports": 401
+    }
+  ]
+}

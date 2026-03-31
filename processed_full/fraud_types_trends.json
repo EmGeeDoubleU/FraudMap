@@ -1,0 +1,436 @@
+{
+  "categories": [
+    {
+      "category": "Advance Payments for Credit Services",
+      "reports_2022": 34885,
+      "reports_2023": 30467,
+      "reports_2024": 27557,
+      "yoy_2023_pct": -12.66,
+      "yoy_2024_pct": -9.55,
+      "change_2022_2024_pct": -21.01,
+      "share_2022_pct": 0.66,
+      "share_2024_pct": 0.43,
+      "share_change_pp": -0.23
+    },
+    {
+      "category": "Auto Related",
+      "reports_2022": 179231,
+      "reports_2023": 187673,
+      "reports_2024": 197015,
+      "yoy_2023_pct": 4.71,
+      "yoy_2024_pct": 4.98,
+      "change_2022_2024_pct": 9.92,
+      "share_2022_pct": 3.37,
+      "share_2024_pct": 3.04,
+      "share_change_pp": -0.33
+    },
+    {
+      "category": "Banks and Lenders",
+      "reports_2022": 263755,
+      "reports_2023": 291684,
+      "reports_2024": 351543,
+      "yoy_2023_pct": 10.59,
+      "yoy_2024_pct": 20.52,
+      "change_2022_2024_pct": 33.28,
+      "share_2022_pct": 4.96,
+      "share_2024_pct": 5.43,
+      "share_change_pp": 0.47
+    },
+    {
+      "category": "Business and Job Opportunities",
+      "reports_2022": 98554,
+      "reports_2023": 111968,
+      "reports_2024": 130075,
+      "yoy_2023_pct": 13.61,
+      "yoy_2024_pct": 16.17,
+      "change_2022_2024_pct": 31.98,
+      "share_2022_pct": 1.85,
+      "share_2024_pct": 2.01,
+      "share_change_pp": 0.16
+    },
+    {
+      "category": "Charitable Solicitations",
+      "reports_2022": 10236,
+      "reports_2023": 9976,
+      "reports_2024": 11019,
+      "yoy_2023_pct": -2.54,
+      "yoy_2024_pct": 10.46,
+      "change_2022_2024_pct": 7.65,
+      "share_2022_pct": 0.19,
+      "share_2024_pct": 0.17,
+      "share_change_pp": -0.02
+    },
+    {
+      "category": "Computer Equipment and Software",
+      "reports_2022": 22510,
+      "reports_2023": 22215,
+      "reports_2024": 24311,
+      "yoy_2023_pct": -1.31,
+      "yoy_2024_pct": 9.44,
+      "change_2022_2024_pct": 8.0,
+      "share_2022_pct": 0.42,
+      "share_2024_pct": 0.38,
+      "share_change_pp": -0.04
+    },
+    {
+      "category": "Credit Bureaus and Information Furnishers",
+      "reports_2022": 590872,
+      "reports_2023": 713044,
+      "reports_2024": 1353175,
+      "yoy_2023_pct": 20.68,
+      "yoy_2024_pct": 89.77,
+      "change_2022_2024_pct": 129.01,
+      "share_2022_pct": 11.11,
+      "share_2024_pct": 20.91,
+      "share_change_pp": 9.8
+    },
+    {
+      "category": "Credit Cards",
+      "reports_2022": 89823,
+      "reports_2023": 103206,
+      "reports_2024": 126368,
+      "yoy_2023_pct": 14.9,
+      "yoy_2024_pct": 22.44,
+      "change_2022_2024_pct": 40.69,
+      "share_2022_pct": 1.69,
+      "share_2024_pct": 1.95,
+      "share_change_pp": 0.26
+    },
+    {
+      "category": "Debt Collection",
+      "reports_2022": 113050,
+      "reports_2023": 127418,
+      "reports_2024": 218736,
+      "yoy_2023_pct": 12.71,
+      "yoy_2024_pct": 71.67,
+      "change_2022_2024_pct": 93.49,
+      "share_2022_pct": 2.13,
+      "share_2024_pct": 3.38,
+      "share_change_pp": 1.25
+    },
+    {
+      "category": "Education",
+      "reports_2022": 21185,
+      "reports_2023": 27528,
+      "reports_2024": 25813,
+      "yoy_2023_pct": 29.94,
+      "yoy_2024_pct": -6.23,
+      "change_2022_2024_pct": 21.85,
+      "share_2022_pct": 0.4,
+      "share_2024_pct": 0.4,
+      "share_change_pp": 0.0
+    },
+    {
+      "category": "Foreign Money Offers and Fake Check Scams",
+      "reports_2022": 41327,
+      "reports_2023": 32185,
+      "reports_2024": 18663,
+      "yoy_2023_pct": -22.12,
+      "yoy_2024_pct": -42.01,
+      "change_2022_2024_pct": -54.84,
+      "share_2022_pct": 0.78,
+      "share_2024_pct": 0.29,
+      "share_change_pp": -0.49
+    },
+    {
+      "category": "Funeral Services",
+      "reports_2022": 1631,
+      "reports_2023": 1436,
+      "reports_2024": 1233,
+      "yoy_2023_pct": -11.96,
+      "yoy_2024_pct": -14.14,
+      "change_2022_2024_pct": -24.4,
+      "share_2022_pct": 0.03,
+      "share_2024_pct": 0.02,
+      "share_change_pp": -0.01
+    },
+    {
+      "category": "Grants",
+      "reports_2022": 2535,
+      "reports_2023": 2339,
+      "reports_2024": 2229,
+      "yoy_2023_pct": -7.73,
+      "yoy_2024_pct": -4.7,
+      "change_2022_2024_pct": -12.07,
+      "share_2022_pct": 0.05,
+      "share_2024_pct": 0.03,
+      "share_change_pp": -0.02
+    },
+    {
+      "category": "Health Care",
+      "reports_2022": 110757,
+      "reports_2023": 114899,
+      "reports_2024": 115473,
+      "yoy_2023_pct": 3.74,
+      "yoy_2024_pct": 0.5,
+      "change_2022_2024_pct": 4.26,
+      "share_2022_pct": 2.08,
+      "share_2024_pct": 1.78,
+      "share_change_pp": -0.3
+    },
+    {
+      "category": "Home Improvement, Repair, and Solar",
+      "reports_2022": 95198,
+      "reports_2023": 87063,
+      "reports_2024": 81925,
+      "yoy_2023_pct": -8.55,
+      "yoy_2024_pct": -5.9,
+      "change_2022_2024_pct": -13.94,
+      "share_2022_pct": 1.79,
+      "share_2024_pct": 1.27,
+      "share_change_pp": -0.52
+    },
+    {
+      "category": "Identity Theft",
+      "reports_2022": 1107004,
+      "reports_2023": 1036855,
+      "reports_2024": 1135291,
+      "yoy_2023_pct": -6.34,
+      "yoy_2024_pct": 9.49,
+      "change_2022_2024_pct": 2.56,
+      "share_2022_pct": 20.82,
+      "share_2024_pct": 17.54,
+      "share_change_pp": -3.28
+    },
+    {
+      "category": "Imposter Scams",
+      "reports_2022": 761775,
+      "reports_2023": 856248,
+      "reports_2024": 845806,
+      "yoy_2023_pct": 12.4,
+      "yoy_2024_pct": -1.22,
+      "change_2022_2024_pct": 11.03,
+      "share_2022_pct": 14.33,
+      "share_2024_pct": 13.07,
+      "share_change_pp": -1.26
+    },
+    {
+      "category": "Internet Services",
+      "reports_2022": 139007,
+      "reports_2023": 134137,
+      "reports_2024": 151412,
+      "yoy_2023_pct": -3.5,
+      "yoy_2024_pct": 12.88,
+      "change_2022_2024_pct": 8.92,
+      "share_2022_pct": 2.61,
+      "share_2024_pct": 2.34,
+      "share_change_pp": -0.27
+    },
+    {
+      "category": "Investment Related",
+      "reports_2022": 107964,
+      "reports_2023": 110639,
+      "reports_2024": 118960,
+      "yoy_2023_pct": 2.48,
+      "yoy_2024_pct": 7.52,
+      "change_2022_2024_pct": 10.18,
+      "share_2022_pct": 2.03,
+      "share_2024_pct": 1.84,
+      "share_change_pp": -0.19
+    },
+    {
+      "category": "Magazines and Books",
+      "reports_2022": 6777,
+      "reports_2023": 5679,
+      "reports_2024": 5435,
+      "yoy_2023_pct": -16.2,
+      "yoy_2024_pct": -4.3,
+      "change_2022_2024_pct": -19.8,
+      "share_2022_pct": 0.13,
+      "share_2024_pct": 0.08,
+      "share_change_pp": -0.05
+    },
+    {
+      "category": "Mortgage Foreclosure Relief and Debt Management",
+      "reports_2022": 24843,
+      "reports_2023": 26643,
+      "reports_2024": 34159,
+      "yoy_2023_pct": 7.25,
+      "yoy_2024_pct": 28.21,
+      "change_2022_2024_pct": 37.5,
+      "share_2022_pct": 0.47,
+      "share_2024_pct": 0.53,
+      "share_change_pp": 0.06
+    },
+    {
+      "category": "Office Supplies and Services",
+      "reports_2022": 4453,
+      "reports_2023": 3954,
+      "reports_2024": 3525,
+      "yoy_2023_pct": -11.21,
+      "yoy_2024_pct": -10.85,
+      "change_2022_2024_pct": -20.84,
+      "share_2022_pct": 0.08,
+      "share_2024_pct": 0.05,
+      "share_change_pp": -0.03
+    },
+    {
+      "category": "Online Shopping and Negative Reviews",
+      "reports_2022": 367786,
+      "reports_2023": 380780,
+      "reports_2024": 384946,
+      "yoy_2023_pct": 3.53,
+      "yoy_2024_pct": 1.09,
+      "change_2022_2024_pct": 4.67,
+      "share_2022_pct": 6.92,
+      "share_2024_pct": 5.95,
+      "share_change_pp": -0.97
+    },
+    {
+      "category": "Privacy, Data Security, and Cyber Threats",
+      "reports_2022": 70891,
+      "reports_2023": 79882,
+      "reports_2024": 111024,
+      "yoy_2023_pct": 12.68,
+      "yoy_2024_pct": 38.99,
+      "change_2022_2024_pct": 56.61,
+      "share_2022_pct": 1.33,
+      "share_2024_pct": 1.72,
+      "share_change_pp": 0.39
+    },
+    {
+      "category": "Prizes, Sweepstakes and Lotteries",
+      "reports_2022": 148570,
+      "reports_2023": 158102,
+      "reports_2024": 97350,
+      "yoy_2023_pct": 6.42,
+      "yoy_2024_pct": -38.43,
+      "change_2022_2024_pct": -34.48,
+      "share_2022_pct": 2.79,
+      "share_2024_pct": 1.5,
+      "share_change_pp": -1.29
+    },
+    {
+      "category": "Tax Preparers",
+      "reports_2022": 8824,
+      "reports_2023": 6220,
+      "reports_2024": 5317,
+      "yoy_2023_pct": -29.51,
+      "yoy_2024_pct": -14.52,
+      "change_2022_2024_pct": -39.74,
+      "share_2022_pct": 0.17,
+      "share_2024_pct": 0.08,
+      "share_change_pp": -0.09
+    },
+    {
+      "category": "Telephone and Mobile Services",
+      "reports_2022": 108870,
+      "reports_2023": 97501,
+      "reports_2024": 92520,
+      "yoy_2023_pct": -10.44,
+      "yoy_2024_pct": -5.11,
+      "change_2022_2024_pct": -15.02,
+      "share_2022_pct": 2.05,
+      "share_2024_pct": 1.43,
+      "share_change_pp": -0.62
+    },
+    {
+      "category": "Television and Electronic Media",
+      "reports_2022": 38578,
+      "reports_2023": 41269,
+      "reports_2024": 33360,
+      "yoy_2023_pct": 6.98,
+      "yoy_2024_pct": -19.16,
+      "change_2022_2024_pct": -13.53,
+      "share_2022_pct": 0.73,
+      "share_2024_pct": 0.52,
+      "share_change_pp": -0.21
+    },
+    {
+      "category": "Travel, Vacations and Timeshare Plans",
+      "reports_2022": 69209,
+      "reports_2023": 57067,
+      "reports_2024": 58347,
+      "yoy_2023_pct": -17.54,
+      "yoy_2024_pct": 2.24,
+      "change_2022_2024_pct": -15.69,
+      "share_2022_pct": 1.3,
+      "share_2024_pct": 0.9,
+      "share_change_pp": -0.4
+    }
+  ],
+  "fastest_growing": [
+    {
+      "category": "Credit Bureaus and Information Furnishers",
+      "change_pct": 129.01
+    },
+    {
+      "category": "Debt Collection",
+      "change_pct": 93.49
+    },
+    {
+      "category": "Privacy, Data Security, and Cyber Threats",
+      "change_pct": 56.61
+    },
+    {
+      "category": "Credit Cards",
+      "change_pct": 40.69
+    },
+    {
+      "category": "Mortgage Foreclosure Relief and Debt Management",
+      "change_pct": 37.5
+    },
+    {
+      "category": "Banks and Lenders",
+      "change_pct": 33.28
+    },
+    {
+      "category": "Business and Job Opportunities",
+      "change_pct": 31.98
+    },
+    {
+      "category": "Education",
+      "change_pct": 21.85
+    },
+    {
+      "category": "Imposter Scams",
+      "change_pct": 11.03
+    },
+    {
+      "category": "Investment Related",
+      "change_pct": 10.18
+    }
+  ],
+  "most_declining": [
+    {
+      "category": "Foreign Money Offers and Fake Check Scams",
+      "change_pct": -54.84
+    },
+    {
+      "category": "Tax Preparers",
+      "change_pct": -39.74
+    },
+    {
+      "category": "Prizes, Sweepstakes and Lotteries",
+      "change_pct": -34.48
+    },
+    {
+      "category": "Funeral Services",
+      "change_pct": -24.4
+    },
+    {
+      "category": "Advance Payments for Credit Services",
+      "change_pct": -21.01
+    },
+    {
+      "category": "Office Supplies and Services",
+      "change_pct": -20.84
+    },
+    {
+      "category": "Magazines and Books",
+      "change_pct": -19.8
+    },
+    {
+      "category": "Travel, Vacations and Timeshare Plans",
+      "change_pct": -15.69
+    },
+    {
+      "category": "Telephone and Mobile Services",
+      "change_pct": -15.02
+    },
+    {
+      "category": "Home Improvement, Repair, and Solar",
+      "change_pct": -13.94
+    }
+  ]
+}

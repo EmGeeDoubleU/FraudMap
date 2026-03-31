@@ -1,0 +1,62 @@
+{
+  "id": "domain_perspective",
+  "section": "implications",
+  "type": "expert_analysis",
+  "priority": 1,
+  "headline": "What This Means for Fraud Teams",
+  "perspective": "operational",
+  "key_paragraphs": [
+    {
+      "id": "monitoring_gap",
+      "title": "The Monitoring Gap",
+      "body": "Bank transfer losses averaging $44,000 per incident suggest that by the time most wire fraud reaches the transaction monitoring system, the scammer has already cultivated enough trust to bypass behavioral red flags. The fraud is won in the grooming phase, not the extraction phase. Detection needs to move upstream.",
+      "implication": "Transaction monitoring alone is insufficient. Fraud prevention must extend to customer education and early-warning behavioral signals."
+    },
+    {
+      "id": "social_media_signal",
+      "title": "The Social Media Signal",
+      "body": "Social media contacts convert to losses at 7x the rate of email (70% vs 11%). This isn't because social media is inherently more dangerous. It's because social media enables the relationship-building that makes victims comply. Scammers use these platforms to establish trust before ever mentioning money.",
+      "implication": "Fraud awareness training should emphasize social media contact patterns, not just phishing emails."
+    },
+    {
+      "id": "credit_bureau_downstream",
+      "title": "Credit Bureau Complaints Are Downstream",
+      "body": "The explosion in Credit Bureau complaints (+129%) isn't new fraud. It's the cleanup from identity theft that already happened. Victims are fighting to remove fraudulent accounts from their credit reports, often months or years after the initial compromise. This is a lagging indicator of identity theft scale.",
+      "implication": "The identity theft problem is larger than current fraud reports suggest. Credit Bureau complaint volume is a proxy for the unreported fraud backlog."
+    },
+    {
+      "id": "severity_vs_volume",
+      "title": "Severity vs Volume Requires Different Responses",
+      "body": "Seniors 80+ represent only 4% of fraud reports but have the highest loss per incident. Younger adults report more frequently but lose less. This bifurcation requires two different fraud strategies: high-volume, low-touch prevention for younger demographics; high-touch, relationship-based protection for elderly customers.",
+      "implication": "One-size-fits-all fraud prevention fails both groups. Segment-specific strategies are necessary."
+    }
+  ],
+  "actionable_insights": [
+    {
+      "for": "Transaction Monitoring Teams",
+      "insight": "Wire transfers over $10K following new relationship patterns should trigger enhanced review, even if the customer initiates and confirms.",
+      "data_point": "Bank transfers: $44K avg loss, 3.86x severity index"
+    },
+    {
+      "for": "Customer Education",
+      "insight": "Shift fraud awareness from 'don't click suspicious links' to 'be skeptical of online relationships that turn financial.'",
+      "data_point": "Social media: 70% conversion to loss vs 11% for email"
+    },
+    {
+      "for": "Elder Protection Programs",
+      "insight": "Proactive outreach to customers 70+ on large wire transfers, especially to new recipients or crypto exchanges.",
+      "data_point": "80+ median loss: $1,650 vs $189 for under-19"
+    },
+    {
+      "for": "Identity Theft Response",
+      "insight": "Credit Bureau complaint volume is a leading indicator of identity theft cleanup demand. Expect increased customer service load.",
+      "data_point": "Credit Bureau complaints: +129% growth, 107pp above market"
+    }
+  ],
+  "quote_for_report": "For fraud teams, this data points to a monitoring gap. Bank transfer losses of $44K per incident suggest that by the time most wire fraud reaches the transaction monitoring system, the scammer has already cultivated enough trust to bypass behavioral red flags. The 70% conversion rate on social media contact reinforces this: the fraud is won in the grooming phase, not the extraction phase. Detection needs to move upstream.",
+  "display_hints": {
+    "style": "expert_commentary",
+    "tone": "practitioner",
+    "position": "end_of_loss_section_or_implications"
+  }
+}

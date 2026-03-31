@@ -1,0 +1,17 @@
+{
+  "total_fraud_reports": 2600678,
+  "total_reports_from_states": 1984862,
+  "total_loss": 9765394150.0,
+  "cross_check_total_loss": 12537194708,
+  "avg_loss_per_report": 4919.94,
+  "median_loss": 427.0,
+  "official_median_loss": 497,
+  "reports_with_loss": 987520,
+  "pct_reports_with_loss": 38.0,
+  "avg_pct_reporting_loss_across_states": 39.65,
+  "loss_concentration": {
+    "lowest_bucket_pct_of_reports": 63.2,
+    "highest_bucket_pct_of_reports": 12.63,
+    "ratio_highest_to_lowest": 0.2
+  }
+}

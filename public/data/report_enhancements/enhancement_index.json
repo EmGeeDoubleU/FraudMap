@@ -1,0 +1,104 @@
+{
+  "version": "1.0",
+  "created": "2025-03-31",
+  "purpose": "10/10 report enhancements - additional context, insights, and domain knowledge",
+  "files": [
+    {
+      "file": "unreported_multiplier.json",
+      "type": "context_callout",
+      "section": "executive_summary",
+      "description": "Adds the 'tip of the iceberg' framing: $12.5B reported but FTC estimates $100B+ actual",
+      "priority": "critical",
+      "display": "warning callout above executive stats"
+    },
+    {
+      "file": "pig_butchering_explainer.json",
+      "type": "technique_callout",
+      "section": "fraud_types",
+      "description": "Names and explains the dominant scam technique hiding in Investment/Imposter categories",
+      "priority": "critical",
+      "display": "expandable explainer box within fraud types section"
+    },
+    {
+      "file": "per_capita_insights.json",
+      "type": "insight_block",
+      "section": "geography",
+      "description": "Highlights surprising per-capita findings: DC at 2x California, Texas drops from #2 to #33",
+      "priority": "high",
+      "display": "two-column comparison map (raw vs per capita)"
+    },
+    {
+      "file": "domain_perspective.json",
+      "type": "expert_analysis",
+      "section": "implications",
+      "description": "Explains what the data means for fraud teams: monitoring gap, upstream detection",
+      "priority": "high",
+      "display": "expert commentary block at end of loss section or in implications"
+    },
+    {
+      "file": "forward_outlook.json",
+      "type": "projection",
+      "section": "trends",
+      "description": "Two forward-looking statements: Credit Bureau crossover, social media regulation",
+      "priority": "high",
+      "display": "forecast callout at end of trends section"
+    }
+  ],
+  "integration_notes": {
+    "executive_summary": "Lead with unreported_multiplier callout to establish stakes before showing stats",
+    "fraud_types": "Include pig_butchering_explainer as expandable callout near Investment/Imposter categories",
+    "geography": "Use per_capita_insights to reframe the section around surprises, not obvious state rankings",
+    "loss_payments": "Reference domain_perspective at section end for practitioner context",
+    "trends": "End with forward_outlook projections to make report forward-looking, not just backward-looking"
+  },
+  "headline_rewrites": {
+    "note": "Use these tension-based headlines instead of stat-based headlines",
+    "rewrites": [
+      {
+        "original": "Social media is #1 by loss",
+        "rewrite": "Social media converts 7x more fraud contacts into losses than email"
+      },
+      {
+        "original": "Bank transfers: $44K avg loss",
+        "rewrite": "Bank transfers: 10% of reports, 38% of losses"
+      },
+      {
+        "original": "80+ loses 3.4x more",
+        "rewrite": "Seniors don't fall for more scams. They fall for bigger ones."
+      },
+      {
+        "original": "Credit Bureaus +129%",
+        "rewrite": "Credit Bureau complaints grew 107pp above market. This isn't fraud. It's the cleanup."
+      },
+      {
+        "original": "13.88% CAGR",
+        "rewrite": "Fraud has grown faster than GDP, population, or internet adoption for 24 years"
+      }
+    ]
+  },
+  "methodology_additions": [
+    "FTC Sentinel data is voluntary. It captures reported fraud, not actual fraud.",
+    "FTC estimates suggest actual losses may be 15-20x higher than reported figures.",
+    "The data cannot link fraud categories to payment methods at the individual report level, limiting cross-dimensional analysis.",
+    "Credit Bureau complaints are not fraud events themselves but downstream effects of identity theft.",
+    "13.88% CAGR compares to 2.5% US population growth and 3.2% GDP growth over the same period."
+  ],
+  "glossary_additions": [
+    {
+      "term": "Pig Butchering",
+      "definition": "A long-con scam where fraudsters build relationships over weeks before convincing victims to invest in fake crypto platforms. Losses average $50K+ per victim."
+    },
+    {
+      "term": "Imposter Scams",
+      "definition": "Fraud where scammers impersonate trusted entities (government, businesses, family members) to extract money or information."
+    },
+    {
+      "term": "Credit Bureau Complaints",
+      "definition": "Consumer complaints about incorrect information on credit reports. Often downstream effects of identity theft, not fraud events themselves."
+    },
+    {
+      "term": "Conversion Rate (Fraud)",
+      "definition": "The percentage of fraud contacts that result in actual financial loss. Higher conversion rates indicate more effective scam techniques."
+    }
+  ]
+}

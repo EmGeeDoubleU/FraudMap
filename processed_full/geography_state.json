@@ -1,0 +1,530 @@
+{
+  "total_state_reports": 1984862,
+  "state_count": 52,
+  "concentration": {
+    "top_5_share": 37.99,
+    "top_10_share": 54.27
+  },
+  "states": [
+    {
+      "state": "California",
+      "reports": 238705,
+      "total_loss": 1678703608.0,
+      "median_loss": 542.0,
+      "pct_of_total": 12.03,
+      "loss_per_report": 7032.54,
+      "rank_by_reports": 1,
+      "rank_by_loss_per_report": 1
+    },
+    {
+      "state": "Texas",
+      "reports": 162101,
+      "total_loss": 897890888.0,
+      "median_loss": 500.0,
+      "pct_of_total": 8.17,
+      "loss_per_report": 5539.08,
+      "rank_by_reports": 2,
+      "rank_by_loss_per_report": 8
+    },
+    {
+      "state": "Florida",
+      "reports": 159307,
+      "total_loss": 866069909.0,
+      "median_loss": 520.0,
+      "pct_of_total": 8.03,
+      "loss_per_report": 5436.48,
+      "rank_by_reports": 3,
+      "rank_by_loss_per_report": 10
+    },
+    {
+      "state": "New York",
+      "reports": 118933,
+      "total_loss": 533979898.0,
+      "median_loss": 429.0,
+      "pct_of_total": 5.99,
+      "loss_per_report": 4489.75,
+      "rank_by_reports": 4,
+      "rank_by_loss_per_report": 22
+    },
+    {
+      "state": "Pennsylvania",
+      "reports": 74926,
+      "total_loss": 285404657.0,
+      "median_loss": 350.0,
+      "pct_of_total": 3.77,
+      "loss_per_report": 3809.15,
+      "rank_by_reports": 5,
+      "rank_by_loss_per_report": 40
+    },
+    {
+      "state": "Illinois",
+      "reports": 71060,
+      "total_loss": 318113996.0,
+      "median_loss": 400.0,
+      "pct_of_total": 3.58,
+      "loss_per_report": 4476.7,
+      "rank_by_reports": 6,
+      "rank_by_loss_per_report": 23
+    },
+    {
+      "state": "Georgia",
+      "reports": 67703,
+      "total_loss": 291260795.0,
+      "median_loss": 450.0,
+      "pct_of_total": 3.41,
+      "loss_per_report": 4302.04,
+      "rank_by_reports": 7,
+      "rank_by_loss_per_report": 29
+    },
+    {
+      "state": "Ohio",
+      "reports": 63367,
+      "total_loss": 226195712.0,
+      "median_loss": 350.0,
+      "pct_of_total": 3.19,
+      "loss_per_report": 3569.61,
+      "rank_by_reports": 8,
+      "rank_by_loss_per_report": 44
+    },
+    {
+      "state": "North Carolina",
+      "reports": 63176,
+      "total_loss": 276797227.0,
+      "median_loss": 407.0,
+      "pct_of_total": 3.18,
+      "loss_per_report": 4381.37,
+      "rank_by_reports": 9,
+      "rank_by_loss_per_report": 25
+    },
+    {
+      "state": "Virginia",
+      "reports": 57867,
+      "total_loss": 293690299.0,
+      "median_loss": 450.0,
+      "pct_of_total": 2.92,
+      "loss_per_report": 5075.26,
+      "rank_by_reports": 10,
+      "rank_by_loss_per_report": 16
+    },
+    {
+      "state": "Washington",
+      "reports": 56358,
+      "total_loss": 297200858.0,
+      "median_loss": 465.0,
+      "pct_of_total": 2.84,
+      "loss_per_report": 5273.45,
+      "rank_by_reports": 11,
+      "rank_by_loss_per_report": 11
+    },
+    {
+      "state": "New Jersey",
+      "reports": 55969,
+      "total_loss": 314439857.0,
+      "median_loss": 500.0,
+      "pct_of_total": 2.82,
+      "loss_per_report": 5618.11,
+      "rank_by_reports": 12,
+      "rank_by_loss_per_report": 7
+    },
+    {
+      "state": "Arizona",
+      "reports": 54367,
+      "total_loss": 336716502.0,
+      "median_loss": 600.0,
+      "pct_of_total": 2.74,
+      "loss_per_report": 6193.4,
+      "rank_by_reports": 13,
+      "rank_by_loss_per_report": 3
+    },
+    {
+      "state": "Michigan",
+      "reports": 53351,
+      "total_loss": 204033291.0,
+      "median_loss": 350.0,
+      "pct_of_total": 2.69,
+      "loss_per_report": 3824.36,
+      "rank_by_reports": 14,
+      "rank_by_loss_per_report": 38
+    },
+    {
+      "state": "Colorado",
+      "reports": 44945,
+      "total_loss": 210727907.0,
+      "median_loss": 500.0,
+      "pct_of_total": 2.26,
+      "loss_per_report": 4688.57,
+      "rank_by_reports": 15,
+      "rank_by_loss_per_report": 17
+    },
+    {
+      "state": "Maryland",
+      "reports": 43876,
+      "total_loss": 198919905.0,
+      "median_loss": 435.0,
+      "pct_of_total": 2.21,
+      "loss_per_report": 4533.68,
+      "rank_by_reports": 16,
+      "rank_by_loss_per_report": 21
+    },
+    {
+      "state": "Massachusetts",
+      "reports": 40845,
+      "total_loss": 210339833.0,
+      "median_loss": 425.0,
+      "pct_of_total": 2.06,
+      "loss_per_report": 5149.71,
+      "rank_by_reports": 17,
+      "rank_by_loss_per_report": 15
+    },
+    {
+      "state": "Tennessee",
+      "reports": 39942,
+      "total_loss": 157176393.0,
+      "median_loss": 400.0,
+      "pct_of_total": 2.01,
+      "loss_per_report": 3935.12,
+      "rank_by_reports": 18,
+      "rank_by_loss_per_report": 35
+    },
+    {
+      "state": "Missouri",
+      "reports": 35317,
+      "total_loss": 139349918.0,
+      "median_loss": 400.0,
+      "pct_of_total": 1.78,
+      "loss_per_report": 3945.69,
+      "rank_by_reports": 19,
+      "rank_by_loss_per_report": 34
+    },
+    {
+      "state": "Indiana",
+      "reports": 34586,
+      "total_loss": 112284529.0,
+      "median_loss": 375.0,
+      "pct_of_total": 1.74,
+      "loss_per_report": 3246.53,
+      "rank_by_reports": 20,
+      "rank_by_loss_per_report": 49
+    },
+    {
+      "state": "South Carolina",
+      "reports": 31929,
+      "total_loss": 137049006.0,
+      "median_loss": 450.0,
+      "pct_of_total": 1.61,
+      "loss_per_report": 4292.3,
+      "rank_by_reports": 21,
+      "rank_by_loss_per_report": 30
+    },
+    {
+      "state": "Minnesota",
+      "reports": 31081,
+      "total_loss": 144567540.0,
+      "median_loss": 412.0,
+      "pct_of_total": 1.57,
+      "loss_per_report": 4651.32,
+      "rank_by_reports": 22,
+      "rank_by_loss_per_report": 18
+    },
+    {
+      "state": "Wisconsin",
+      "reports": 30287,
+      "total_loss": 106041111.0,
+      "median_loss": 357.0,
+      "pct_of_total": 1.53,
+      "loss_per_report": 3501.21,
+      "rank_by_reports": 23,
+      "rank_by_loss_per_report": 45
+    },
+    {
+      "state": "Oregon",
+      "reports": 30013,
+      "total_loss": 123704947.0,
+      "median_loss": 400.0,
+      "pct_of_total": 1.51,
+      "loss_per_report": 4121.71,
+      "rank_by_reports": 24,
+      "rank_by_loss_per_report": 32
+    },
+    {
+      "state": "Alabama",
+      "reports": 26049,
+      "total_loss": 104201969.0,
+      "median_loss": 400.0,
+      "pct_of_total": 1.31,
+      "loss_per_report": 4000.23,
+      "rank_by_reports": 25,
+      "rank_by_loss_per_report": 33
+    },
+    {
+      "state": "Nevada",
+      "reports": 24331,
+      "total_loss": 138538256.0,
+      "median_loss": 519.0,
+      "pct_of_total": 1.23,
+      "loss_per_report": 5693.9,
+      "rank_by_reports": 26,
+      "rank_by_loss_per_report": 5
+    },
+    {
+      "state": "Kentucky",
+      "reports": 22129,
+      "total_loss": 70763918.0,
+      "median_loss": 349.0,
+      "pct_of_total": 1.11,
+      "loss_per_report": 3197.79,
+      "rank_by_reports": 27,
+      "rank_by_loss_per_report": 50
+    },
+    {
+      "state": "Connecticut",
+      "reports": 20825,
+      "total_loss": 90349831.0,
+      "median_loss": 432.0,
+      "pct_of_total": 1.05,
+      "loss_per_report": 4338.53,
+      "rank_by_reports": 28,
+      "rank_by_loss_per_report": 27
+    },
+    {
+      "state": "Louisiana",
+      "reports": 20534,
+      "total_loss": 89368368.0,
+      "median_loss": 425.0,
+      "pct_of_total": 1.03,
+      "loss_per_report": 4352.21,
+      "rank_by_reports": 29,
+      "rank_by_loss_per_report": 26
+    },
+    {
+      "state": "Utah",
+      "reports": 19493,
+      "total_loss": 113094286.0,
+      "median_loss": 550.0,
+      "pct_of_total": 0.98,
+      "loss_per_report": 5801.79,
+      "rank_by_reports": 30,
+      "rank_by_loss_per_report": 4
+    },
+    {
+      "state": "Oklahoma",
+      "reports": 19331,
+      "total_loss": 72729698.0,
+      "median_loss": 432.0,
+      "pct_of_total": 0.97,
+      "loss_per_report": 3762.34,
+      "rank_by_reports": 31,
+      "rank_by_loss_per_report": 41
+    },
+    {
+      "state": "Kansas",
+      "reports": 14747,
+      "total_loss": 57590798.0,
+      "median_loss": 402.0,
+      "pct_of_total": 0.74,
+      "loss_per_report": 3905.26,
+      "rank_by_reports": 32,
+      "rank_by_loss_per_report": 37
+    },
+    {
+      "state": "Arkansas",
+      "reports": 14393,
+      "total_loss": 52115298.0,
+      "median_loss": 375.0,
+      "pct_of_total": 0.73,
+      "loss_per_report": 3620.88,
+      "rank_by_reports": 33,
+      "rank_by_loss_per_report": 43
+    },
+    {
+      "state": "Iowa",
+      "reports": 13975,
+      "total_loss": 51955685.0,
+      "median_loss": 400.0,
+      "pct_of_total": 0.7,
+      "loss_per_report": 3717.76,
+      "rank_by_reports": 34,
+      "rank_by_loss_per_report": 42
+    },
+    {
+      "state": "Mississippi",
+      "reports": 12911,
+      "total_loss": 44397299.0,
+      "median_loss": 353.0,
+      "pct_of_total": 0.65,
+      "loss_per_report": 3438.72,
+      "rank_by_reports": 35,
+      "rank_by_loss_per_report": 47
+    },
+    {
+      "state": "New Mexico",
+      "reports": 12694,
+      "total_loss": 56598540.0,
+      "median_loss": 500.0,
+      "pct_of_total": 0.64,
+      "loss_per_report": 4458.68,
+      "rank_by_reports": 36,
+      "rank_by_loss_per_report": 24
+    },
+    {
+      "state": "Idaho",
+      "reports": 10359,
+      "total_loss": 53935183.0,
+      "median_loss": 490.0,
+      "pct_of_total": 0.52,
+      "loss_per_report": 5206.6,
+      "rank_by_reports": 37,
+      "rank_by_loss_per_report": 14
+    },
+    {
+      "state": "Nebraska",
+      "reports": 9655,
+      "total_loss": 41875694.0,
+      "median_loss": 400.0,
+      "pct_of_total": 0.49,
+      "loss_per_report": 4337.2,
+      "rank_by_reports": 38,
+      "rank_by_loss_per_report": 28
+    },
+    {
+      "state": "New Hampshire",
+      "reports": 8838,
+      "total_loss": 34625261.0,
+      "median_loss": 325.0,
+      "pct_of_total": 0.45,
+      "loss_per_report": 3917.77,
+      "rank_by_reports": 39,
+      "rank_by_loss_per_report": 36
+    },
+    {
+      "state": "Hawaii",
+      "reports": 8832,
+      "total_loss": 61597207.0,
+      "median_loss": 600.0,
+      "pct_of_total": 0.44,
+      "loss_per_report": 6974.32,
+      "rank_by_reports": 40,
+      "rank_by_loss_per_report": 2
+    },
+    {
+      "state": "West Virginia",
+      "reports": 8767,
+      "total_loss": 27018386.0,
+      "median_loss": 341.0,
+      "pct_of_total": 0.44,
+      "loss_per_report": 3081.83,
+      "rank_by_reports": 41,
+      "rank_by_loss_per_report": 51
+    },
+    {
+      "state": "Maine",
+      "reports": 7675,
+      "total_loss": 29251463.0,
+      "median_loss": 350.0,
+      "pct_of_total": 0.39,
+      "loss_per_report": 3811.27,
+      "rank_by_reports": 42,
+      "rank_by_loss_per_report": 39
+    },
+    {
+      "state": "Delaware",
+      "reports": 7540,
+      "total_loss": 34282919.0,
+      "median_loss": 466.0,
+      "pct_of_total": 0.38,
+      "loss_per_report": 4546.81,
+      "rank_by_reports": 43,
+      "rank_by_loss_per_report": 20
+    },
+    {
+      "state": "District of Columbia",
+      "reports": 7082,
+      "total_loss": 30392313.0,
+      "median_loss": 448.0,
+      "pct_of_total": 0.36,
+      "loss_per_report": 4291.49,
+      "rank_by_reports": 44,
+      "rank_by_loss_per_report": 31
+    },
+    {
+      "state": "Montana",
+      "reports": 6569,
+      "total_loss": 22546556.0,
+      "median_loss": 459.0,
+      "pct_of_total": 0.33,
+      "loss_per_report": 3432.27,
+      "rank_by_reports": 45,
+      "rank_by_loss_per_report": 48
+    },
+    {
+      "state": "Rhode Island",
+      "reports": 5948,
+      "total_loss": 20655420.0,
+      "median_loss": 350.0,
+      "pct_of_total": 0.3,
+      "loss_per_report": 3472.67,
+      "rank_by_reports": 46,
+      "rank_by_loss_per_report": 46
+    },
+    {
+      "state": "Alaska",
+      "reports": 4917,
+      "total_loss": 26942595.0,
+      "median_loss": 525.0,
+      "pct_of_total": 0.25,
+      "loss_per_report": 5479.48,
+      "rank_by_reports": 47,
+      "rank_by_loss_per_report": 9
+    },
+    {
+      "state": "Vermont",
+      "reports": 3914,
+      "total_loss": 10552373.0,
+      "median_loss": 285.0,
+      "pct_of_total": 0.2,
+      "loss_per_report": 2696.06,
+      "rank_by_reports": 48,
+      "rank_by_loss_per_report": 52
+    },
+    {
+      "state": "South Dakota",
+      "reports": 3880,
+      "total_loss": 20431576.0,
+      "median_loss": 400.0,
+      "pct_of_total": 0.2,
+      "loss_per_report": 5265.87,
+      "rank_by_reports": 49,
+      "rank_by_loss_per_report": 12
+    },
+    {
+      "state": "Wyoming",
+      "reports": 3577,
+      "total_loss": 20097503.0,
+      "median_loss": 600.0,
+      "pct_of_total": 0.18,
+      "loss_per_report": 5618.54,
+      "rank_by_reports": 50,
+      "rank_by_loss_per_report": 6
+    },
+    {
+      "state": "North Dakota",
+      "reports": 3127,
+      "total_loss": 14369138.0,
+      "median_loss": 479.0,
+      "pct_of_total": 0.16,
+      "loss_per_report": 4595.18,
+      "rank_by_reports": 51,
+      "rank_by_loss_per_report": 19
+    },
+    {
+      "state": "Puerto Rico",
+      "reports": 2759,
+      "total_loss": 14458031.0,
+      "median_loss": 609.0,
+      "pct_of_total": 0.14,
+      "loss_per_report": 5240.32,
+      "rank_by_reports": 52,
+      "rank_by_loss_per_report": 13
+    }
+  ]
+}

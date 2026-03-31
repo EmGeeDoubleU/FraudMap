@@ -1,0 +1,43 @@
+{
+  "section": "Trends",
+  "insights": [
+    {
+      "title": "23-Year Growth: From 326K to 6.5M Reports",
+      "statement": "The Consumer Sentinel Network has recorded a 20x increase in annual reports since 2001. Growth accelerated sharply in 2020 (+48% YoY) and has remained elevated — 2024 posted the highest total ever at 6.47M.",
+      "metric": "20x increase over 23 years",
+      "supporting_data": {
+        "from": 325519,
+        "to": 6471708,
+        "cagr": 13.88
+      }
+    },
+    {
+      "title": "'Other' Reports Are the Fastest-Growing Type",
+      "statement": "'Other' reports (non-fraud, non-identity-theft) grew from 14% of total in 2001 to 42.5% in 2024, surpassing fraud as the largest report category by type. This reflects expanding Sentinel scope and new complaint types.",
+      "metric": "Other share: 14% → 42.5%",
+      "supporting_data": {
+        "other_share_2001": 31.3,
+        "other_share_2024": 42.49
+      }
+    },
+    {
+      "title": "Fraud Growth Is Consolidating Into Fewer Categories",
+      "statement": "While overall reports grew 21.7% from 2022–2024, a single category (Credit Bureaus) accounted for more than half of the absolute increase. The top 3 fastest-growing categories together drove the majority of new volume.",
+      "metric": "762K new Credit Bureau reports (52% of growth)",
+      "supporting_data": {
+        "credit_bureau_delta": 762303,
+        "total_delta": 1153957
+      }
+    },
+    {
+      "title": "Identity Theft Peaked in 2021 and Is Stabilizing",
+      "statement": "Identity theft reports hit 1.43M in 2021, fell to 1.04M in 2023, and rebounded slightly to 1.14M in 2024. Its share of total reports has declined from 23.4% (2021) to 17.5% (2024) as other categories grow faster.",
+      "metric": "17.5% share in 2024 (down from 23.4%)",
+      "supporting_data": {
+        "peak_2021": 1434477,
+        "current_2024": 1135291,
+        "share_2024": 17.48
+      }
+    }
+  ]
+}

@@ -1,0 +1,3210 @@
+[
+  {
+    "name": "Miami-Fort Lauderdale-West Palm Beach, FL",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "reports": 55457,
+    "perCapita": 903,
+    "rank": 1
+  },
+  {
+    "name": "Atlanta-Sandy Springs-Roswell, GA",
+    "lat": 33.749,
+    "lng": -84.388,
+    "reports": 42616,
+    "perCapita": 690,
+    "rank": 2
+  },
+  {
+    "name": "Houston-Pasadena-The Woodlands, TX",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "reports": 41668,
+    "perCapita": 573,
+    "rank": 3
+  },
+  {
+    "name": "Las Vegas-Henderson-North Las Vegas, NV",
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "reports": 13075,
+    "perCapita": 570,
+    "rank": 4
+  },
+  {
+    "name": "Orlando-Kissimmee-Sanford, FL",
+    "lat": 28.5383,
+    "lng": -81.3792,
+    "reports": 15099,
+    "perCapita": 555,
+    "rank": 5
+  },
+  {
+    "name": "Los Angeles-Long Beach-Anaheim, CA",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "reports": 71624,
+    "perCapita": 550,
+    "rank": 6
+  },
+  {
+    "name": "Baton Rouge, LA",
+    "lat": 30.4515,
+    "lng": -91.1871,
+    "reports": 4604,
+    "perCapita": 528,
+    "rank": 7
+  },
+  {
+    "name": "Killeen-Temple, TX",
+    "lat": 31.1171,
+    "lng": -97.7278,
+    "reports": 2340,
+    "perCapita": 482,
+    "rank": 8
+  },
+  {
+    "name": "Odessa, TX",
+    "lat": 31.8457,
+    "lng": -102.3676,
+    "reports": 782,
+    "perCapita": 479,
+    "rank": 9
+  },
+  {
+    "name": "Dallas-Fort Worth-Arlington, TX",
+    "lat": 32.7767,
+    "lng": -96.797,
+    "reports": 37114,
+    "perCapita": 475,
+    "rank": 10
+  },
+  {
+    "name": "Lakeland-Winter Haven, FL",
+    "lat": 28.0395,
+    "lng": -81.9498,
+    "reports": 3598,
+    "perCapita": 473,
+    "rank": 11
+  },
+  {
+    "name": "Macon-Bibb County, GA",
+    "lat": 32.8407,
+    "lng": -83.6324,
+    "reports": 1079,
+    "perCapita": 461,
+    "rank": 12
+  },
+  {
+    "name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "reports": 28438,
+    "perCapita": 456,
+    "rank": 13
+  },
+  {
+    "name": "Savannah, GA",
+    "lat": 32.0809,
+    "lng": -81.0912,
+    "reports": 1801,
+    "perCapita": 437,
+    "rank": 14
+  },
+  {
+    "name": "LaGrange, GA-AL",
+    "lat": 33.0362,
+    "lng": -85.0322,
+    "reports": 453,
+    "perCapita": 434,
+    "rank": 15
+  },
+  {
+    "name": "New Orleans-Metairie, LA",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "reports": 4268,
+    "perCapita": 432,
+    "rank": 16
+  },
+  {
+    "name": "Tampa-St. Petersburg-Clearwater, FL",
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "reports": 13953,
+    "perCapita": 431,
+    "rank": 17
+  },
+  {
+    "name": "Albany, GA",
+    "lat": 31.5785,
+    "lng": -84.1557,
+    "reports": 606,
+    "perCapita": 413,
+    "rank": 18
+  },
+  {
+    "name": "Memphis, TN-MS-AR",
+    "lat": 35.1495,
+    "lng": -90.049,
+    "reports": 5502,
+    "perCapita": 410,
+    "rank": 19
+  },
+  {
+    "name": "Boston-Cambridge-Newton, MA-NH",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "reports": 19929,
+    "perCapita": 405,
+    "rank": 20
+  },
+  {
+    "name": "Port St. Lucie, FL",
+    "lat": 27.273,
+    "lng": -80.3582,
+    "reports": 2051,
+    "perCapita": 405,
+    "rank": 21
+  },
+  {
+    "name": "Chicago-Naperville-Elgin, IL-IN",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "reports": 37486,
+    "perCapita": 401,
+    "rank": 22
+  },
+  {
+    "name": "Midland, TX",
+    "lat": 31.9973,
+    "lng": -102.0779,
+    "reports": 707,
+    "perCapita": 400,
+    "rank": 23
+  },
+  {
+    "name": "Columbus, GA-AL",
+    "lat": 32.461,
+    "lng": -84.9877,
+    "reports": 1302,
+    "perCapita": 399,
+    "rank": 24
+  },
+  {
+    "name": "Kankakee, IL",
+    "lat": 41.12,
+    "lng": -87.8612,
+    "reports": 419,
+    "perCapita": 392,
+    "rank": 25
+  },
+  {
+    "name": "Montgomery, AL",
+    "lat": 32.3792,
+    "lng": -86.3077,
+    "reports": 1491,
+    "perCapita": 387,
+    "rank": 26
+  },
+  {
+    "name": "Beaumont-Port Arthur, TX",
+    "lat": 30.0802,
+    "lng": -94.1266,
+    "reports": 1487,
+    "perCapita": 375,
+    "rank": 27
+  },
+  {
+    "name": "Charlotte-Concord-Gastonia, NC-SC",
+    "lat": 35.2271,
+    "lng": -80.8431,
+    "reports": 10144,
+    "perCapita": 374,
+    "rank": 28
+  },
+  {
+    "name": "Sumter, SC",
+    "lat": 33.9204,
+    "lng": -80.3416,
+    "reports": 392,
+    "perCapita": 374,
+    "rank": 29
+  },
+  {
+    "name": "Tallahassee, FL",
+    "lat": 30.4383,
+    "lng": -84.2807,
+    "reports": 1417,
+    "perCapita": 365,
+    "rank": 30
+  },
+  {
+    "name": "Jacksonville, FL",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "reports": 5986,
+    "perCapita": 364,
+    "rank": 31
+  },
+  {
+    "name": "East Stroudsburg, PA",
+    "lat": 41.0031,
+    "lng": -75.181,
+    "reports": 608,
+    "perCapita": 362,
+    "rank": 32
+  },
+  {
+    "name": "Naples-Marco Island, FL",
+    "lat": 26.142,
+    "lng": -81.7948,
+    "reports": 1402,
+    "perCapita": 362,
+    "rank": 33
+  },
+  {
+    "name": "Detroit-Warren-Dearborn, MI",
+    "lat": 42.3314,
+    "lng": -83.0458,
+    "reports": 15687,
+    "perCapita": 359,
+    "rank": 34
+  },
+  {
+    "name": "Dover, DE",
+    "lat": 39.1582,
+    "lng": -75.5244,
+    "reports": 663,
+    "perCapita": 358,
+    "rank": 35
+  },
+  {
+    "name": "Little Rock-North Little Rock-Conway, AR",
+    "lat": 34.7465,
+    "lng": -92.2896,
+    "reports": 2641,
+    "perCapita": 350,
+    "rank": 36
+  },
+  {
+    "name": "Cape Coral-Fort Myers, FL",
+    "lat": 26.631,
+    "lng": -81.8574,
+    "reports": 2727,
+    "perCapita": 344,
+    "rank": 37
+  },
+  {
+    "name": "Greenville, NC",
+    "lat": 35.6127,
+    "lng": -77.3664,
+    "reports": 592,
+    "perCapita": 344,
+    "rank": 38
+  },
+  {
+    "name": "New York-Newark-Jersey City, NY-NJ",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "reports": 67819,
+    "perCapita": 343,
+    "rank": 39
+  },
+  {
+    "name": "Shreveport-Bossier City, LA",
+    "lat": 32.5252,
+    "lng": -93.7502,
+    "reports": 1334,
+    "perCapita": 343,
+    "rank": 40
+  },
+  {
+    "name": "Warner Robins, GA",
+    "lat": 32.613,
+    "lng": -83.6238,
+    "reports": 669,
+    "perCapita": 343,
+    "rank": 41
+  },
+  {
+    "name": "Riverside-San Bernardino-Ontario, CA",
+    "lat": 33.9533,
+    "lng": -117.3962,
+    "reports": 15889,
+    "perCapita": 343,
+    "rank": 42
+  },
+  {
+    "name": "Augusta-Richmond County, GA-SC",
+    "lat": 33.4735,
+    "lng": -82.0105,
+    "reports": 2113,
+    "perCapita": 342,
+    "rank": 43
+  },
+  {
+    "name": "Charleston-North Charleston, SC",
+    "lat": 32.7765,
+    "lng": -79.9311,
+    "reports": 2790,
+    "perCapita": 341,
+    "rank": 44
+  },
+  {
+    "name": "Phoenix-Mesa-Chandler, AZ",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "reports": 16677,
+    "perCapita": 338,
+    "rank": 45
+  },
+  {
+    "name": "Birmingham, AL",
+    "lat": 33.5186,
+    "lng": -86.8104,
+    "reports": 3968,
+    "perCapita": 336,
+    "rank": 46
+  },
+  {
+    "name": "Columbia, SC",
+    "lat": 34.0007,
+    "lng": -81.0348,
+    "reports": 2758,
+    "perCapita": 328,
+    "rank": 47
+  },
+  {
+    "name": "Mobile, AL",
+    "lat": 30.6954,
+    "lng": -88.0399,
+    "reports": 1355,
+    "perCapita": 328,
+    "rank": 48
+  },
+  {
+    "name": "Tuscaloosa, AL",
+    "lat": 33.2098,
+    "lng": -87.5692,
+    "reports": 902,
+    "perCapita": 328,
+    "rank": 49
+  },
+  {
+    "name": "Cleveland, OH",
+    "lat": 41.4993,
+    "lng": -81.6944,
+    "reports": 7115,
+    "perCapita": 328,
+    "rank": 50
+  },
+  {
+    "name": "Fayetteville, NC",
+    "lat": 35.0527,
+    "lng": -78.8784,
+    "reports": 1268,
+    "perCapita": 325,
+    "rank": 51
+  },
+  {
+    "name": "Providence-Warwick, RI-MA",
+    "lat": 41.824,
+    "lng": -71.4128,
+    "reports": 5422,
+    "perCapita": 324,
+    "rank": 52
+  },
+  {
+    "name": "Florence, SC",
+    "lat": 34.1954,
+    "lng": -79.7626,
+    "reports": 640,
+    "perCapita": 321,
+    "rank": 53
+  },
+  {
+    "name": "North Port-Bradenton-Sarasota, FL",
+    "lat": 27.3364,
+    "lng": -82.5307,
+    "reports": 2770,
+    "perCapita": 320,
+    "rank": 54
+  },
+  {
+    "name": "Austin-Round Rock-San Marcos, TX",
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "reports": 7473,
+    "perCapita": 317,
+    "rank": 55
+  },
+  {
+    "name": "Columbus, OH",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "reports": 6805,
+    "perCapita": 316,
+    "rank": 56
+  },
+  {
+    "name": "Sebastian-Vero Beach-West Vero Corridor, FL",
+    "lat": 27.8164,
+    "lng": -80.4706,
+    "reports": 518,
+    "perCapita": 316,
+    "rank": 57
+  },
+  {
+    "name": "Baltimore-Columbia-Towson, MD",
+    "lat": 39.2904,
+    "lng": -76.6122,
+    "reports": 8940,
+    "perCapita": 315,
+    "rank": 58
+  },
+  {
+    "name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "reports": 19689,
+    "perCapita": 314,
+    "rank": 59
+  },
+  {
+    "name": "San Diego-Chula Vista-Carlsbad, CA",
+    "lat": 32.7157,
+    "lng": -117.1611,
+    "reports": 10260,
+    "perCapita": 313,
+    "rank": 60
+  },
+  {
+    "name": "Indianapolis-Carmel-Greenwood, IN",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "reports": 6570,
+    "perCapita": 312,
+    "rank": 61
+  },
+  {
+    "name": "Lumberton, NC",
+    "lat": 34.6182,
+    "lng": -79.0086,
+    "reports": 361,
+    "perCapita": 309,
+    "rank": 62
+  },
+  {
+    "name": "Jackson, MS",
+    "lat": 32.2988,
+    "lng": -90.1848,
+    "reports": 1873,
+    "perCapita": 304,
+    "rank": 63
+  },
+  {
+    "name": "Springfield, MA",
+    "lat": 42.1015,
+    "lng": -72.5898,
+    "reports": 1400,
+    "perCapita": 302,
+    "rank": 64
+  },
+  {
+    "name": "San Antonio-New Braunfels, TX",
+    "lat": 29.4241,
+    "lng": -98.4936,
+    "reports": 7889,
+    "perCapita": 302,
+    "rank": 65
+  },
+  {
+    "name": "Palm Bay-Melbourne-Titusville, FL",
+    "lat": 28.0345,
+    "lng": -80.5887,
+    "reports": 1847,
+    "perCapita": 298,
+    "rank": 66
+  },
+  {
+    "name": "Worcester, MA",
+    "lat": 42.2626,
+    "lng": -71.8023,
+    "reports": 2561,
+    "perCapita": 297,
+    "rank": 67
+  },
+  {
+    "name": "Hammond, LA",
+    "lat": 30.5044,
+    "lng": -90.4612,
+    "reports": 401,
+    "perCapita": 297,
+    "rank": 68
+  },
+  {
+    "name": "Panama City-Panama City Beach, FL",
+    "lat": 30.1588,
+    "lng": -85.6602,
+    "reports": 606,
+    "perCapita": 293,
+    "rank": 69
+  },
+  {
+    "name": "Valdosta, GA",
+    "lat": 30.8327,
+    "lng": -83.2785,
+    "reports": 437,
+    "perCapita": 293,
+    "rank": 70
+  },
+  {
+    "name": "Scranton--Wilkes-Barre, PA",
+    "lat": 41.409,
+    "lng": -75.6624,
+    "reports": 1648,
+    "perCapita": 290,
+    "rank": 71
+  },
+  {
+    "name": "Trenton-Princeton, NJ",
+    "lat": 40.2206,
+    "lng": -74.7642,
+    "reports": 1112,
+    "perCapita": 290,
+    "rank": 72
+  },
+  {
+    "name": "Deltona-Daytona Beach-Ormond Beach, FL",
+    "lat": 29.2108,
+    "lng": -81.0228,
+    "reports": 1998,
+    "perCapita": 290,
+    "rank": 73
+  },
+  {
+    "name": "Huntsville, AL",
+    "lat": 34.7304,
+    "lng": -86.5861,
+    "reports": 1459,
+    "perCapita": 289,
+    "rank": 74
+  },
+  {
+    "name": "Rockford, IL",
+    "lat": 42.2711,
+    "lng": -89.094,
+    "reports": 968,
+    "perCapita": 288,
+    "rank": 75
+  },
+  {
+    "name": "Raleigh-Cary, NC",
+    "lat": 35.7796,
+    "lng": -78.6382,
+    "reports": 4150,
+    "perCapita": 286,
+    "rank": 76
+  },
+  {
+    "name": "Ocala, FL",
+    "lat": 29.1872,
+    "lng": -82.1401,
+    "reports": 1108,
+    "perCapita": 286,
+    "rank": 77
+  },
+  {
+    "name": "Monroe, LA",
+    "lat": 32.5093,
+    "lng": -92.1193,
+    "reports": 640,
+    "perCapita": 285,
+    "rank": 78
+  },
+  {
+    "name": "Lafayette, LA",
+    "lat": 30.2241,
+    "lng": -92.0198,
+    "reports": 1168,
+    "perCapita": 284,
+    "rank": 79
+  },
+  {
+    "name": "Vallejo, CA",
+    "lat": 38.1041,
+    "lng": -122.2566,
+    "reports": 1278,
+    "perCapita": 283,
+    "rank": 80
+  },
+  {
+    "name": "Slidell-Mandeville-Covington, LA",
+    "lat": 30.2752,
+    "lng": -89.7812,
+    "reports": 757,
+    "perCapita": 281,
+    "rank": 81
+  },
+  {
+    "name": "Kiryas Joel-Poughkeepsie-Newburgh, NY",
+    "lat": 41.7004,
+    "lng": -74.006,
+    "reports": 1959,
+    "perCapita": 279,
+    "rank": 82
+  },
+  {
+    "name": "Allentown-Bethlehem-Easton, PA-NJ",
+    "lat": 40.6023,
+    "lng": -75.4714,
+    "reports": 2414,
+    "perCapita": 279,
+    "rank": 83
+  },
+  {
+    "name": "Bakersfield-Delano, CA",
+    "lat": 35.3733,
+    "lng": -119.0187,
+    "reports": 2525,
+    "perCapita": 277,
+    "rank": 84
+  },
+  {
+    "name": "Fresno, CA",
+    "lat": 36.7378,
+    "lng": -119.7871,
+    "reports": 3235,
+    "perCapita": 276,
+    "rank": 85
+  },
+  {
+    "name": "Richmond, VA",
+    "lat": 37.5407,
+    "lng": -77.436,
+    "reports": 3637,
+    "perCapita": 274,
+    "rank": 86
+  },
+  {
+    "name": "Bridgeport-Stamford-Danbury, CT",
+    "lat": 41.1865,
+    "lng": -73.1952,
+    "reports": 2571,
+    "perCapita": 271,
+    "rank": 87
+  },
+  {
+    "name": "Anderson Creek, NC",
+    "lat": 35.2835,
+    "lng": -79.0686,
+    "reports": 368,
+    "perCapita": 270,
+    "rank": 88
+  },
+  {
+    "name": "Sacramento-Roseville-Folsom, CA",
+    "lat": 38.5816,
+    "lng": -121.4944,
+    "reports": 6483,
+    "perCapita": 269,
+    "rank": 89
+  },
+  {
+    "name": "Reading, PA",
+    "lat": 40.3357,
+    "lng": -75.9269,
+    "reports": 1151,
+    "perCapita": 268,
+    "rank": 90
+  },
+  {
+    "name": "Greenville-Anderson-Greer, SC",
+    "lat": 34.8526,
+    "lng": -82.394,
+    "reports": 2525,
+    "perCapita": 267,
+    "rank": 91
+  },
+  {
+    "name": "Spartanburg, SC",
+    "lat": 34.9496,
+    "lng": -81.932,
+    "reports": 972,
+    "perCapita": 266,
+    "rank": 92
+  },
+  {
+    "name": "Rocky Mount, NC",
+    "lat": 35.9382,
+    "lng": -77.7905,
+    "reports": 382,
+    "perCapita": 265,
+    "rank": 93
+  },
+  {
+    "name": "Virginia Beach-Chesapeake-Norfolk, VA-NC",
+    "lat": 36.8529,
+    "lng": -75.978,
+    "reports": 4689,
+    "perCapita": 263,
+    "rank": 94
+  },
+  {
+    "name": "Stockton-Lodi, CA",
+    "lat": 37.9577,
+    "lng": -121.2908,
+    "reports": 2048,
+    "perCapita": 260,
+    "rank": 95
+  },
+  {
+    "name": "Champaign-Urbana, IL",
+    "lat": 40.1164,
+    "lng": -88.2434,
+    "reports": 611,
+    "perCapita": 259,
+    "rank": 96
+  },
+  {
+    "name": "St. Louis, MO-IL",
+    "lat": 38.627,
+    "lng": -90.1994,
+    "reports": 7242,
+    "perCapita": 258,
+    "rank": 97
+  },
+  {
+    "name": "Myrtle Beach-Conway-North Myrtle Beach, SC",
+    "lat": 33.6891,
+    "lng": -78.8867,
+    "reports": 944,
+    "perCapita": 256,
+    "rank": 98
+  },
+  {
+    "name": "Wichita Falls, TX",
+    "lat": 33.9137,
+    "lng": -98.4934,
+    "reports": 375,
+    "perCapita": 252,
+    "rank": 99
+  },
+  {
+    "name": "San Francisco-Oakland-Fremont, CA",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "reports": 11641,
+    "perCapita": 250,
+    "rank": 100
+  },
+  {
+    "name": "Longview, TX",
+    "lat": 32.5007,
+    "lng": -94.7405,
+    "reports": 722,
+    "perCapita": 250,
+    "rank": 101
+  },
+  {
+    "name": "New Haven, CT",
+    "lat": 41.3083,
+    "lng": -72.9279,
+    "reports": 1414,
+    "perCapita": 249,
+    "rank": 102
+  },
+  {
+    "name": "Visalia, CA",
+    "lat": 36.3302,
+    "lng": -119.2921,
+    "reports": 1186,
+    "perCapita": 249,
+    "rank": 103
+  },
+  {
+    "name": "Milwaukee-Waukesha, WI",
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "reports": 3882,
+    "perCapita": 248,
+    "rank": 104
+  },
+  {
+    "name": "Akron, OH",
+    "lat": 41.0814,
+    "lng": -81.519,
+    "reports": 1720,
+    "perCapita": 246,
+    "rank": 105
+  },
+  {
+    "name": "Rochester, NY",
+    "lat": 43.1566,
+    "lng": -77.6088,
+    "reports": 2586,
+    "perCapita": 244,
+    "rank": 106
+  },
+  {
+    "name": "Dayton-Kettering-Beavercreek, OH",
+    "lat": 39.7589,
+    "lng": -84.1916,
+    "reports": 1984,
+    "perCapita": 244,
+    "rank": 107
+  },
+  {
+    "name": "Greensboro-High Point, NC",
+    "lat": 36.0726,
+    "lng": -79.792,
+    "reports": 1880,
+    "perCapita": 241,
+    "rank": 108
+  },
+  {
+    "name": "Vineland, NJ",
+    "lat": 39.4863,
+    "lng": -75.026,
+    "reports": 367,
+    "perCapita": 240,
+    "rank": 109
+  },
+  {
+    "name": "Barnstable Town, MA",
+    "lat": 41.7003,
+    "lng": -70.3002,
+    "reports": 550,
+    "perCapita": 239,
+    "rank": 110
+  },
+  {
+    "name": "Amherst Town-Northampton, MA",
+    "lat": 42.3732,
+    "lng": -72.5199,
+    "reports": 372,
+    "perCapita": 238,
+    "rank": 111
+  },
+  {
+    "name": "Denver-Aurora-Centennial, CO",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "reports": 7056,
+    "perCapita": 237,
+    "rank": 112
+  },
+  {
+    "name": "Atlantic City-Hammonton, NJ",
+    "lat": 39.3643,
+    "lng": -74.4229,
+    "reports": 872,
+    "perCapita": 236,
+    "rank": 113
+  },
+  {
+    "name": "Waterbury-Shelton, CT",
+    "lat": 41.5582,
+    "lng": -73.0515,
+    "reports": 1061,
+    "perCapita": 235,
+    "rank": 114
+  },
+  {
+    "name": "Waco, TX",
+    "lat": 31.5493,
+    "lng": -97.1467,
+    "reports": 701,
+    "perCapita": 234,
+    "rank": 115
+  },
+  {
+    "name": "Punta Gorda, FL",
+    "lat": 26.9298,
+    "lng": -82.0454,
+    "reports": 452,
+    "perCapita": 232,
+    "rank": 116
+  },
+  {
+    "name": "Flint, MI",
+    "lat": 43.0125,
+    "lng": -83.6875,
+    "reports": 932,
+    "perCapita": 231,
+    "rank": 117
+  },
+  {
+    "name": "Auburn-Opelika, AL",
+    "lat": 32.6099,
+    "lng": -85.4808,
+    "reports": 451,
+    "perCapita": 229,
+    "rank": 118
+  },
+  {
+    "name": "San Jose-Sunnyvale-Santa Clara, CA",
+    "lat": 37.3382,
+    "lng": -121.8863,
+    "reports": 4515,
+    "perCapita": 229,
+    "rank": 119
+  },
+  {
+    "name": "Tyler, TX",
+    "lat": 32.3513,
+    "lng": -95.3011,
+    "reports": 544,
+    "perCapita": 229,
+    "rank": 120
+  },
+  {
+    "name": "Hartford-West Hartford-East Hartford, CT",
+    "lat": 41.7658,
+    "lng": -72.6734,
+    "reports": 2613,
+    "perCapita": 228,
+    "rank": 121
+  },
+  {
+    "name": "Anniston-Oxford, AL",
+    "lat": 33.6598,
+    "lng": -85.8316,
+    "reports": 264,
+    "perCapita": 227,
+    "rank": 122
+  },
+  {
+    "name": "Gainesville, FL",
+    "lat": 29.6516,
+    "lng": -82.3248,
+    "reports": 783,
+    "perCapita": 227,
+    "rank": 123
+  },
+  {
+    "name": "Durham-Chapel Hill, NC",
+    "lat": 35.994,
+    "lng": -78.8986,
+    "reports": 1348,
+    "perCapita": 227,
+    "rank": 124
+  },
+  {
+    "name": "Sebring, FL",
+    "lat": 27.4954,
+    "lng": -81.4409,
+    "reports": 235,
+    "perCapita": 226,
+    "rank": 125
+  },
+  {
+    "name": "Pensacola-Ferry Pass-Brent, FL",
+    "lat": 30.4213,
+    "lng": -87.2169,
+    "reports": 1166,
+    "perCapita": 226,
+    "rank": 126
+  },
+  {
+    "name": "Gulfport-Biloxi, MS",
+    "lat": 30.3674,
+    "lng": -89.0928,
+    "reports": 940,
+    "perCapita": 225,
+    "rank": 127
+  },
+  {
+    "name": "El Paso, TX",
+    "lat": 31.7619,
+    "lng": -106.485,
+    "reports": 1950,
+    "perCapita": 224,
+    "rank": 128
+  },
+  {
+    "name": "Colorado Springs, CO",
+    "lat": 38.8339,
+    "lng": -104.8214,
+    "reports": 1692,
+    "perCapita": 222,
+    "rank": 129
+  },
+  {
+    "name": "Clarksville, TN-KY",
+    "lat": 36.5298,
+    "lng": -87.3595,
+    "reports": 730,
+    "perCapita": 222,
+    "rank": 130
+  },
+  {
+    "name": "Springfield, OH",
+    "lat": 39.9242,
+    "lng": -83.8088,
+    "reports": 300,
+    "perCapita": 221,
+    "rank": 131
+  },
+  {
+    "name": "Springfield, IL",
+    "lat": 39.7817,
+    "lng": -89.6501,
+    "reports": 455,
+    "perCapita": 219,
+    "rank": 132
+  },
+  {
+    "name": "Oxnard-Thousand Oaks-Ventura, CA",
+    "lat": 34.1975,
+    "lng": -119.1771,
+    "reports": 1837,
+    "perCapita": 219,
+    "rank": 133
+  },
+  {
+    "name": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "reports": 4470,
+    "perCapita": 219,
+    "rank": 134
+  },
+  {
+    "name": "Shelby-Kings Mountain, NC",
+    "lat": 35.2924,
+    "lng": -81.5357,
+    "reports": 218,
+    "perCapita": 218,
+    "rank": 135
+  },
+  {
+    "name": "Lubbock, TX",
+    "lat": 33.5779,
+    "lng": -101.8552,
+    "reports": 768,
+    "perCapita": 216,
+    "rank": 136
+  },
+  {
+    "name": "Corpus Christi, TX",
+    "lat": 27.8006,
+    "lng": -97.3964,
+    "reports": 967,
+    "perCapita": 216,
+    "rank": 137
+  },
+  {
+    "name": "Texarkana, TX-AR",
+    "lat": 33.4418,
+    "lng": -94.0477,
+    "reports": 317,
+    "perCapita": 216,
+    "rank": 138
+  },
+  {
+    "name": "Goldsboro, NC",
+    "lat": 35.3849,
+    "lng": -77.9928,
+    "reports": 251,
+    "perCapita": 213,
+    "rank": 139
+  },
+  {
+    "name": "Sherman-Denison, TX",
+    "lat": 33.6357,
+    "lng": -96.6089,
+    "reports": 298,
+    "perCapita": 213,
+    "rank": 140
+  },
+  {
+    "name": "McAllen-Edinburg-Mission, TX",
+    "lat": 26.2034,
+    "lng": -98.23,
+    "reports": 1867,
+    "perCapita": 212,
+    "rank": 141
+  },
+  {
+    "name": "Seaford, DE",
+    "lat": 38.6413,
+    "lng": -75.611,
+    "reports": 525,
+    "perCapita": 212,
+    "rank": 142
+  },
+  {
+    "name": "Houma-Bayou Cane-Thibodaux, LA",
+    "lat": 29.5958,
+    "lng": -90.7195,
+    "reports": 430,
+    "perCapita": 211,
+    "rank": 143
+  },
+  {
+    "name": "Ann Arbor, MI",
+    "lat": 42.2808,
+    "lng": -83.743,
+    "reports": 771,
+    "perCapita": 209,
+    "rank": 144
+  },
+  {
+    "name": "Dothan, AL",
+    "lat": 31.2232,
+    "lng": -85.3905,
+    "reports": 314,
+    "perCapita": 207,
+    "rank": 145
+  },
+  {
+    "name": "Harrisburg-Carlisle, PA",
+    "lat": 40.2732,
+    "lng": -76.8867,
+    "reports": 1236,
+    "perCapita": 207,
+    "rank": 146
+  },
+  {
+    "name": "Boulder, CO",
+    "lat": 40.015,
+    "lng": -105.2705,
+    "reports": 677,
+    "perCapita": 206,
+    "rank": 147
+  },
+  {
+    "name": "Oklahoma City, OK",
+    "lat": 35.4676,
+    "lng": -97.5164,
+    "reports": 2968,
+    "perCapita": 205,
+    "rank": 148
+  },
+  {
+    "name": "Lake Charles, LA",
+    "lat": 30.2266,
+    "lng": -93.2174,
+    "reports": 505,
+    "perCapita": 205,
+    "rank": 149
+  },
+  {
+    "name": "Lexington Park, MD",
+    "lat": 38.2668,
+    "lng": -76.4339,
+    "reports": 427,
+    "perCapita": 205,
+    "rank": 150
+  },
+  {
+    "name": "Brownsville-Harlingen, TX",
+    "lat": 25.9017,
+    "lng": -97.4975,
+    "reports": 868,
+    "perCapita": 205,
+    "rank": 151
+  },
+  {
+    "name": "Tucson, AZ",
+    "lat": 32.2226,
+    "lng": -110.9747,
+    "reports": 2146,
+    "perCapita": 204,
+    "rank": 152
+  },
+  {
+    "name": "Youngstown-Warren, OH",
+    "lat": 41.0998,
+    "lng": -80.6495,
+    "reports": 865,
+    "perCapita": 202,
+    "rank": 153
+  },
+  {
+    "name": "Hilton Head Island-Bluffton-Port Royal, SC",
+    "lat": 32.2163,
+    "lng": -80.7526,
+    "reports": 448,
+    "perCapita": 201,
+    "rank": 154
+  },
+  {
+    "name": "Chattanooga, TN-GA",
+    "lat": 35.0456,
+    "lng": -85.3097,
+    "reports": 1135,
+    "perCapita": 199,
+    "rank": 155
+  },
+  {
+    "name": "Crestview-Fort Walton Beach-Destin, FL",
+    "lat": 30.7621,
+    "lng": -86.5726,
+    "reports": 586,
+    "perCapita": 199,
+    "rank": 156
+  },
+  {
+    "name": "Cincinnati, OH-KY-IN",
+    "lat": 39.1031,
+    "lng": -84.512,
+    "reports": 4477,
+    "perCapita": 199,
+    "rank": 157
+  },
+  {
+    "name": "Amarillo, TX",
+    "lat": 35.222,
+    "lng": -101.8313,
+    "reports": 535,
+    "perCapita": 198,
+    "rank": 158
+  },
+  {
+    "name": "Asheville, NC",
+    "lat": 35.5951,
+    "lng": -82.5515,
+    "reports": 813,
+    "perCapita": 198,
+    "rank": 159
+  },
+  {
+    "name": "Hanford-Corcoran, CA",
+    "lat": 36.3274,
+    "lng": -119.6457,
+    "reports": 301,
+    "perCapita": 197,
+    "rank": 160
+  },
+  {
+    "name": "Sandusky, OH",
+    "lat": 41.4489,
+    "lng": -82.708,
+    "reports": 226,
+    "perCapita": 196,
+    "rank": 161
+  },
+  {
+    "name": "St. George, UT",
+    "lat": 37.0965,
+    "lng": -113.5684,
+    "reports": 372,
+    "perCapita": 196,
+    "rank": 162
+  },
+  {
+    "name": "Modesto, CA",
+    "lat": 37.6391,
+    "lng": -120.9969,
+    "reports": 1082,
+    "perCapita": 196,
+    "rank": 163
+  },
+  {
+    "name": "Hattiesburg, MS",
+    "lat": 31.3271,
+    "lng": -89.2903,
+    "reports": 302,
+    "perCapita": 195,
+    "rank": 164
+  },
+  {
+    "name": "Jonesboro, AR",
+    "lat": 35.8423,
+    "lng": -90.7043,
+    "reports": 263,
+    "perCapita": 195,
+    "rank": 165
+  },
+  {
+    "name": "Seattle-Tacoma-Bellevue, WA",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "reports": 7838,
+    "perCapita": 195,
+    "rank": 166
+  },
+  {
+    "name": "York-Hanover, PA",
+    "lat": 39.9626,
+    "lng": -76.7277,
+    "reports": 895,
+    "perCapita": 195,
+    "rank": 167
+  },
+  {
+    "name": "Louisville/Jefferson County, KY-IN",
+    "lat": 38.2527,
+    "lng": -85.7585,
+    "reports": 2653,
+    "perCapita": 195,
+    "rank": 168
+  },
+  {
+    "name": "Daphne-Fairhope-Foley, AL",
+    "lat": 30.6035,
+    "lng": -87.9036,
+    "reports": 467,
+    "perCapita": 195,
+    "rank": 169
+  },
+  {
+    "name": "San Angelo, TX",
+    "lat": 31.4638,
+    "lng": -100.437,
+    "reports": 235,
+    "perCapita": 194,
+    "rank": 170
+  },
+  {
+    "name": "Wilmington, NC",
+    "lat": 34.2257,
+    "lng": -77.9447,
+    "reports": 855,
+    "perCapita": 194,
+    "rank": 171
+  },
+  {
+    "name": "Buffalo-Cheektowaga, NY",
+    "lat": 42.8864,
+    "lng": -78.8784,
+    "reports": 2253,
+    "perCapita": 194,
+    "rank": 172
+  },
+  {
+    "name": "Las Cruces, NM",
+    "lat": 32.3199,
+    "lng": -106.7637,
+    "reports": 430,
+    "perCapita": 194,
+    "rank": 173
+  },
+  {
+    "name": "Toledo, OH",
+    "lat": 41.6528,
+    "lng": -83.5379,
+    "reports": 1163,
+    "perCapita": 193,
+    "rank": 174
+  },
+  {
+    "name": "Kansas City, MO-KS",
+    "lat": 39.0997,
+    "lng": -94.5786,
+    "reports": 4247,
+    "perCapita": 193,
+    "rank": 175
+  },
+  {
+    "name": "Pittsfield, MA",
+    "lat": 42.4501,
+    "lng": -73.2453,
+    "reports": 246,
+    "perCapita": 192,
+    "rank": 176
+  },
+  {
+    "name": "Reno, NV",
+    "lat": 39.5296,
+    "lng": -119.8138,
+    "reports": 1069,
+    "perCapita": 192,
+    "rank": 177
+  },
+  {
+    "name": "Alexandria, LA",
+    "lat": 31.3113,
+    "lng": -92.4451,
+    "reports": 289,
+    "perCapita": 192,
+    "rank": 178
+  },
+  {
+    "name": "Albany-Schenectady-Troy, NY",
+    "lat": 42.6526,
+    "lng": -73.7562,
+    "reports": 1719,
+    "perCapita": 190,
+    "rank": 179
+  },
+  {
+    "name": "Brunswick-St. Simons, GA",
+    "lat": 31.1499,
+    "lng": -81.4915,
+    "reports": 217,
+    "perCapita": 190,
+    "rank": 180
+  },
+  {
+    "name": "Tulsa, OK",
+    "lat": 36.154,
+    "lng": -95.9928,
+    "reports": 1935,
+    "perCapita": 189,
+    "rank": 181
+  },
+  {
+    "name": "Greeley, CO",
+    "lat": 40.4233,
+    "lng": -104.7091,
+    "reports": 641,
+    "perCapita": 188,
+    "rank": 182
+  },
+  {
+    "name": "Winston-Salem, NC",
+    "lat": 36.0999,
+    "lng": -80.2442,
+    "reports": 1279,
+    "perCapita": 187,
+    "rank": 183
+  },
+  {
+    "name": "Pittsburgh, PA",
+    "lat": 40.4406,
+    "lng": -79.9959,
+    "reports": 4571,
+    "perCapita": 187,
+    "rank": 184
+  },
+  {
+    "name": "Bloomington, IL",
+    "lat": 40.4842,
+    "lng": -88.9937,
+    "reports": 318,
+    "perCapita": 186,
+    "rank": 185
+  },
+  {
+    "name": "Salisbury, MD",
+    "lat": 38.3607,
+    "lng": -75.5994,
+    "reports": 239,
+    "perCapita": 186,
+    "rank": 186
+  },
+  {
+    "name": "Lexington-Fayette, KY",
+    "lat": 38.0406,
+    "lng": -84.5037,
+    "reports": 960,
+    "perCapita": 186,
+    "rank": 187
+  },
+  {
+    "name": "Gainesville, GA",
+    "lat": 34.2979,
+    "lng": -83.8241,
+    "reports": 384,
+    "perCapita": 184,
+    "rank": 188
+  },
+  {
+    "name": "Burlington, NC",
+    "lat": 36.0957,
+    "lng": -79.4378,
+    "reports": 320,
+    "perCapita": 184,
+    "rank": 189
+  },
+  {
+    "name": "Abilene, TX",
+    "lat": 32.4487,
+    "lng": -99.7331,
+    "reports": 327,
+    "perCapita": 183,
+    "rank": 190
+  },
+  {
+    "name": "Homosassa Springs, FL",
+    "lat": 28.8003,
+    "lng": -82.5757,
+    "reports": 290,
+    "perCapita": 183,
+    "rank": 191
+  },
+  {
+    "name": "Chico, CA",
+    "lat": 39.7285,
+    "lng": -121.8375,
+    "reports": 382,
+    "perCapita": 182,
+    "rank": 192
+  },
+  {
+    "name": "Kalamazoo-Portage, MI",
+    "lat": 42.2917,
+    "lng": -85.5872,
+    "reports": 474,
+    "perCapita": 181,
+    "rank": 193
+  },
+  {
+    "name": "Decatur, IL",
+    "lat": 39.8403,
+    "lng": -88.9548,
+    "reports": 186,
+    "perCapita": 181,
+    "rank": 194
+  },
+  {
+    "name": "Portland-Vancouver-Hillsboro, OR-WA",
+    "lat": 45.5155,
+    "lng": -122.6789,
+    "reports": 4548,
+    "perCapita": 181,
+    "rank": 195
+  },
+  {
+    "name": "Canton-Massillon, OH",
+    "lat": 40.799,
+    "lng": -81.3784,
+    "reports": 723,
+    "perCapita": 181,
+    "rank": 196
+  },
+  {
+    "name": "Spokane-Spokane Valley, WA",
+    "lat": 47.6588,
+    "lng": -117.426,
+    "reports": 1063,
+    "perCapita": 180,
+    "rank": 197
+  },
+  {
+    "name": "College Station-Bryan, TX",
+    "lat": 30.628,
+    "lng": -96.3344,
+    "reports": 490,
+    "perCapita": 179,
+    "rank": 198
+  },
+  {
+    "name": "Paducah, KY-IL",
+    "lat": 37.0834,
+    "lng": -88.6001,
+    "reports": 184,
+    "perCapita": 179,
+    "rank": 199
+  },
+  {
+    "name": "Topeka, KS",
+    "lat": 39.0473,
+    "lng": -95.6752,
+    "reports": 416,
+    "perCapita": 179,
+    "rank": 200
+  },
+  {
+    "name": "Tupelo, MS",
+    "lat": 34.2576,
+    "lng": -88.7034,
+    "reports": 236,
+    "perCapita": 179,
+    "rank": 201
+  },
+  {
+    "name": "Norwich-New London-Willimantic, CT",
+    "lat": 41.3565,
+    "lng": -72.09,
+    "reports": 498,
+    "perCapita": 178,
+    "rank": 202
+  },
+  {
+    "name": "Bozeman, MT",
+    "lat": 45.677,
+    "lng": -111.0429,
+    "reports": 217,
+    "perCapita": 178,
+    "rank": 203
+  },
+  {
+    "name": "Olympia-Lacey-Tumwater, WA",
+    "lat": 47.0379,
+    "lng": -122.9007,
+    "reports": 525,
+    "perCapita": 177,
+    "rank": 204
+  },
+  {
+    "name": "Lawton, OK",
+    "lat": 34.6036,
+    "lng": -98.3959,
+    "reports": 225,
+    "perCapita": 177,
+    "rank": 205
+  },
+  {
+    "name": "Athens-Clarke County, GA",
+    "lat": 33.9519,
+    "lng": -83.3576,
+    "reports": 386,
+    "perCapita": 177,
+    "rank": 206
+  },
+  {
+    "name": "Prescott Valley-Prescott, AZ",
+    "lat": 34.61,
+    "lng": -112.3154,
+    "reports": 427,
+    "perCapita": 177,
+    "rank": 207
+  },
+  {
+    "name": "Pueblo, CO",
+    "lat": 38.2544,
+    "lng": -104.6091,
+    "reports": 298,
+    "perCapita": 177,
+    "rank": 208
+  },
+  {
+    "name": "Pottsville, PA",
+    "lat": 40.6856,
+    "lng": -76.1955,
+    "reports": 253,
+    "perCapita": 177,
+    "rank": 209
+  },
+  {
+    "name": "Sierra Vista-Douglas, AZ",
+    "lat": 31.5455,
+    "lng": -110.2773,
+    "reports": 221,
+    "perCapita": 176,
+    "rank": 210
+  },
+  {
+    "name": "Manhattan, KS",
+    "lat": 39.1836,
+    "lng": -96.5717,
+    "reports": 235,
+    "perCapita": 176,
+    "rank": 211
+  },
+  {
+    "name": "Kingston, NY",
+    "lat": 41.927,
+    "lng": -73.9974,
+    "reports": 320,
+    "perCapita": 176,
+    "rank": 212
+  },
+  {
+    "name": "Gadsden, AL",
+    "lat": 34.0143,
+    "lng": -86.0066,
+    "reports": 181,
+    "perCapita": 175,
+    "rank": 213
+  },
+  {
+    "name": "Salt Lake City-Murray, UT",
+    "lat": 40.7608,
+    "lng": -111.891,
+    "reports": 2212,
+    "perCapita": 175,
+    "rank": 214
+  },
+  {
+    "name": "Jackson, TN",
+    "lat": 35.6145,
+    "lng": -88.8139,
+    "reports": 314,
+    "perCapita": 174,
+    "rank": 215
+  },
+  {
+    "name": "Torrington, CT",
+    "lat": 41.8007,
+    "lng": -73.1212,
+    "reports": 194,
+    "perCapita": 172,
+    "rank": 216
+  },
+  {
+    "name": "Hot Springs, AR",
+    "lat": 34.5037,
+    "lng": -93.0552,
+    "reports": 172,
+    "perCapita": 172,
+    "rank": 217
+  },
+  {
+    "name": "Wildwood-The Villages, FL",
+    "lat": 28.7647,
+    "lng": -82.0079,
+    "reports": 236,
+    "perCapita": 172,
+    "rank": 218
+  },
+  {
+    "name": "Albuquerque, NM",
+    "lat": 35.0844,
+    "lng": -106.6504,
+    "reports": 1563,
+    "perCapita": 170,
+    "rank": 219
+  },
+  {
+    "name": "Lebanon, PA",
+    "lat": 40.3409,
+    "lng": -76.4113,
+    "reports": 243,
+    "perCapita": 169,
+    "rank": 220
+  },
+  {
+    "name": "Merced, CA",
+    "lat": 37.3022,
+    "lng": -120.483,
+    "reports": 482,
+    "perCapita": 169,
+    "rank": 221
+  },
+  {
+    "name": "Hagerstown-Martinsburg, MD-WV",
+    "lat": 39.6418,
+    "lng": -77.72,
+    "reports": 502,
+    "perCapita": 168,
+    "rank": 222
+  },
+  {
+    "name": "Yuba City, CA",
+    "lat": 39.1404,
+    "lng": -121.6169,
+    "reports": 306,
+    "perCapita": 168,
+    "rank": 223
+  },
+  {
+    "name": "Wichita, KS",
+    "lat": 37.6872,
+    "lng": -97.3301,
+    "reports": 1085,
+    "perCapita": 167,
+    "rank": 224
+  },
+  {
+    "name": "Sunbury, PA",
+    "lat": 40.8626,
+    "lng": -76.7944,
+    "reports": 182,
+    "perCapita": 167,
+    "rank": 225
+  },
+  {
+    "name": "Manchester-Nashua, NH",
+    "lat": 42.9956,
+    "lng": -71.4548,
+    "reports": 709,
+    "perCapita": 167,
+    "rank": 226
+  },
+  {
+    "name": "Muskegon-Norton Shores, MI",
+    "lat": 43.2342,
+    "lng": -86.2484,
+    "reports": 291,
+    "perCapita": 166,
+    "rank": 227
+  },
+  {
+    "name": "Decatur, AL",
+    "lat": 34.6059,
+    "lng": -86.9833,
+    "reports": 260,
+    "perCapita": 166,
+    "rank": 228
+  },
+  {
+    "name": "Laredo, TX",
+    "lat": 27.5036,
+    "lng": -99.5076,
+    "reports": 442,
+    "perCapita": 165,
+    "rank": 229
+  },
+  {
+    "name": "Redding, CA",
+    "lat": 40.5865,
+    "lng": -122.3917,
+    "reports": 299,
+    "perCapita": 165,
+    "rank": 230
+  },
+  {
+    "name": "Madison, WI",
+    "lat": 43.0731,
+    "lng": -89.4012,
+    "reports": 1123,
+    "perCapita": 164,
+    "rank": 231
+  },
+  {
+    "name": "Lynchburg, VA",
+    "lat": 37.4138,
+    "lng": -79.1422,
+    "reports": 429,
+    "perCapita": 163,
+    "rank": 232
+  },
+  {
+    "name": "Erie, PA",
+    "lat": 42.1292,
+    "lng": -80.0851,
+    "reports": 438,
+    "perCapita": 162,
+    "rank": 233
+  },
+  {
+    "name": "Omaha, NE-IA",
+    "lat": 41.2565,
+    "lng": -95.9345,
+    "reports": 1580,
+    "perCapita": 162,
+    "rank": 234
+  },
+  {
+    "name": "Davenport-Moline-Rock Island, IA-IL",
+    "lat": 41.5236,
+    "lng": -90.5776,
+    "reports": 620,
+    "perCapita": 162,
+    "rank": 235
+  },
+  {
+    "name": "Fort Wayne, IN",
+    "lat": 41.0793,
+    "lng": -85.1394,
+    "reports": 732,
+    "perCapita": 162,
+    "rank": 236
+  },
+  {
+    "name": "Fort Collins-Loveland, CO",
+    "lat": 40.5853,
+    "lng": -105.0844,
+    "reports": 588,
+    "perCapita": 162,
+    "rank": 237
+  },
+  {
+    "name": "Jacksonville, NC",
+    "lat": 34.7541,
+    "lng": -77.4303,
+    "reports": 336,
+    "perCapita": 161,
+    "rank": 238
+  },
+  {
+    "name": "Morristown, TN",
+    "lat": 36.214,
+    "lng": -83.2949,
+    "reports": 194,
+    "perCapita": 161,
+    "rank": 239
+  },
+  {
+    "name": "New Bern, NC",
+    "lat": 35.1085,
+    "lng": -77.0441,
+    "reports": 196,
+    "perCapita": 160,
+    "rank": 240
+  },
+  {
+    "name": "Des Moines-West Des Moines, IA",
+    "lat": 41.5868,
+    "lng": -93.625,
+    "reports": 1147,
+    "perCapita": 159,
+    "rank": 241
+  },
+  {
+    "name": "Lawrence, KS",
+    "lat": 38.9717,
+    "lng": -95.2353,
+    "reports": 190,
+    "perCapita": 159,
+    "rank": 242
+  },
+  {
+    "name": "Eugene-Springfield, OR",
+    "lat": 44.0521,
+    "lng": -123.0868,
+    "reports": 605,
+    "perCapita": 158,
+    "rank": 243
+  },
+  {
+    "name": "Syracuse, NY",
+    "lat": 43.0481,
+    "lng": -76.1474,
+    "reports": 1038,
+    "perCapita": 158,
+    "rank": 244
+  },
+  {
+    "name": "Cleveland, TN",
+    "lat": 35.1595,
+    "lng": -84.8766,
+    "reports": 201,
+    "perCapita": 158,
+    "rank": 245
+  },
+  {
+    "name": "Pinehurst-Southern Pines, NC",
+    "lat": 35.1955,
+    "lng": -79.4695,
+    "reports": 162,
+    "perCapita": 158,
+    "rank": 246
+  },
+  {
+    "name": "Napa, CA",
+    "lat": 38.2975,
+    "lng": -122.2869,
+    "reports": 214,
+    "perCapita": 157,
+    "rank": 247
+  },
+  {
+    "name": "Niles, MI",
+    "lat": 41.8298,
+    "lng": -86.2537,
+    "reports": 240,
+    "perCapita": 156,
+    "rank": 248
+  },
+  {
+    "name": "Peoria, IL",
+    "lat": 40.6936,
+    "lng": -89.589,
+    "reports": 572,
+    "perCapita": 156,
+    "rank": 249
+  },
+  {
+    "name": "Racine-Mount Pleasant, WI",
+    "lat": 42.7261,
+    "lng": -87.7829,
+    "reports": 306,
+    "perCapita": 155,
+    "rank": 250
+  },
+  {
+    "name": "Binghamton, NY",
+    "lat": 42.0987,
+    "lng": -75.918,
+    "reports": 382,
+    "perCapita": 155,
+    "rank": 251
+  },
+  {
+    "name": "Roanoke, VA",
+    "lat": 37.271,
+    "lng": -79.9414,
+    "reports": 488,
+    "perCapita": 155,
+    "rank": 252
+  },
+  {
+    "name": "Medford, OR",
+    "lat": 42.3265,
+    "lng": -122.8756,
+    "reports": 345,
+    "perCapita": 155,
+    "rank": 253
+  },
+  {
+    "name": "Charleston, WV",
+    "lat": 38.3498,
+    "lng": -81.6326,
+    "reports": 321,
+    "perCapita": 155,
+    "rank": 254
+  },
+  {
+    "name": "Lake Havasu City-Kingman, AZ",
+    "lat": 34.4839,
+    "lng": -114.3225,
+    "reports": 335,
+    "perCapita": 154,
+    "rank": 255
+  },
+  {
+    "name": "Bellingham, WA",
+    "lat": 48.7519,
+    "lng": -122.4787,
+    "reports": 350,
+    "perCapita": 153,
+    "rank": 256
+  },
+  {
+    "name": "Kalispell, MT",
+    "lat": 48.192,
+    "lng": -114.3168,
+    "reports": 166,
+    "perCapita": 153,
+    "rank": 257
+  },
+  {
+    "name": "Knoxville, TN",
+    "lat": 35.9606,
+    "lng": -83.9207,
+    "reports": 1407,
+    "perCapita": 153,
+    "rank": 258
+  },
+  {
+    "name": "Santa Maria-Santa Barbara, CA",
+    "lat": 34.953,
+    "lng": -120.4357,
+    "reports": 677,
+    "perCapita": 152,
+    "rank": 259
+  },
+  {
+    "name": "Watertown-Fort Drum, NY",
+    "lat": 43.9748,
+    "lng": -75.9108,
+    "reports": 176,
+    "perCapita": 152,
+    "rank": 260
+  },
+  {
+    "name": "Grand Rapids-Wyoming-Kentwood, MI",
+    "lat": 42.9634,
+    "lng": -85.6681,
+    "reports": 1742,
+    "perCapita": 151,
+    "rank": 261
+  },
+  {
+    "name": "Minneapolis-St. Paul-Bloomington, MN-WI",
+    "lat": 44.9778,
+    "lng": -93.265,
+    "reports": 5552,
+    "perCapita": 150,
+    "rank": 262
+  },
+  {
+    "name": "Salem, OR",
+    "lat": 44.9429,
+    "lng": -123.0351,
+    "reports": 653,
+    "perCapita": 150,
+    "rank": 263
+  },
+  {
+    "name": "Lansing-East Lansing, MI",
+    "lat": 42.7325,
+    "lng": -84.5555,
+    "reports": 706,
+    "perCapita": 150,
+    "rank": 264
+  },
+  {
+    "name": "St. Joseph, MO-KS",
+    "lat": 39.7687,
+    "lng": -94.8466,
+    "reports": 181,
+    "perCapita": 150,
+    "rank": 265
+  },
+  {
+    "name": "Provo-Orem-Lehi, UT",
+    "lat": 40.2338,
+    "lng": -111.6585,
+    "reports": 1042,
+    "perCapita": 150,
+    "rank": 266
+  },
+  {
+    "name": "Idaho Falls, ID",
+    "lat": 43.4917,
+    "lng": -112.0339,
+    "reports": 242,
+    "perCapita": 149,
+    "rank": 267
+  },
+  {
+    "name": "Utica-Rome, NY",
+    "lat": 43.1009,
+    "lng": -75.2327,
+    "reports": 432,
+    "perCapita": 149,
+    "rank": 268
+  },
+  {
+    "name": "Billings, MT",
+    "lat": 45.7833,
+    "lng": -108.5007,
+    "reports": 279,
+    "perCapita": 149,
+    "rank": 269
+  },
+  {
+    "name": "Yuma, AZ",
+    "lat": 32.6927,
+    "lng": -114.6277,
+    "reports": 309,
+    "perCapita": 149,
+    "rank": 270
+  },
+  {
+    "name": "Grand Junction, CO",
+    "lat": 39.0639,
+    "lng": -108.5506,
+    "reports": 234,
+    "perCapita": 149,
+    "rank": 271
+  },
+  {
+    "name": "Danville, VA",
+    "lat": 36.586,
+    "lng": -79.393,
+    "reports": 152,
+    "perCapita": 148,
+    "rank": 272
+  },
+  {
+    "name": "Kenosha, WI",
+    "lat": 42.5847,
+    "lng": -87.8212,
+    "reports": 250,
+    "perCapita": 148,
+    "rank": 273
+  },
+  {
+    "name": "Boise City, ID",
+    "lat": 43.615,
+    "lng": -116.2023,
+    "reports": 1173,
+    "perCapita": 148,
+    "rank": 274
+  },
+  {
+    "name": "Fargo, ND-MN",
+    "lat": 46.8772,
+    "lng": -96.7898,
+    "reports": 378,
+    "perCapita": 148,
+    "rank": 275
+  },
+  {
+    "name": "Michigan City-La Porte, IN",
+    "lat": 41.7075,
+    "lng": -86.895,
+    "reports": 166,
+    "perCapita": 148,
+    "rank": 276
+  },
+  {
+    "name": "Saginaw, MI",
+    "lat": 43.4195,
+    "lng": -83.9508,
+    "reports": 280,
+    "perCapita": 148,
+    "rank": 277
+  },
+  {
+    "name": "Janesville-Beloit, WI",
+    "lat": 42.6828,
+    "lng": -89.0187,
+    "reports": 242,
+    "perCapita": 148,
+    "rank": 278
+  },
+  {
+    "name": "Bend, OR",
+    "lat": 44.0582,
+    "lng": -121.3153,
+    "reports": 374,
+    "perCapita": 147,
+    "rank": 279
+  },
+  {
+    "name": "Evansville, IN",
+    "lat": 37.9716,
+    "lng": -87.5711,
+    "reports": 397,
+    "perCapita": 147,
+    "rank": 280
+  },
+  {
+    "name": "South Bend-Mishawaka, IN-MI",
+    "lat": 41.6764,
+    "lng": -86.252,
+    "reports": 475,
+    "perCapita": 147,
+    "rank": 281
+  },
+  {
+    "name": "Battle Creek, MI",
+    "lat": 42.3212,
+    "lng": -85.1797,
+    "reports": 196,
+    "perCapita": 146,
+    "rank": 282
+  },
+  {
+    "name": "Florence-Muscle Shoals, AL",
+    "lat": 34.7998,
+    "lng": -87.6772,
+    "reports": 223,
+    "perCapita": 146,
+    "rank": 283
+  },
+  {
+    "name": "Springfield, MO",
+    "lat": 37.209,
+    "lng": -93.2923,
+    "reports": 703,
+    "perCapita": 146,
+    "rank": 284
+  },
+  {
+    "name": "Kahului-Wailuku, HI",
+    "lat": 20.8893,
+    "lng": -156.4729,
+    "reports": 240,
+    "perCapita": 146,
+    "rank": 285
+  },
+  {
+    "name": "Williamsport, PA",
+    "lat": 41.2412,
+    "lng": -77.0011,
+    "reports": 165,
+    "perCapita": 145,
+    "rank": 286
+  },
+  {
+    "name": "Lancaster, PA",
+    "lat": 40.0379,
+    "lng": -76.3055,
+    "reports": 805,
+    "perCapita": 145,
+    "rank": 287
+  },
+  {
+    "name": "Hickory-Lenoir-Morganton, NC",
+    "lat": 35.7345,
+    "lng": -81.3412,
+    "reports": 532,
+    "perCapita": 145,
+    "rank": 288
+  },
+  {
+    "name": "Santa Cruz-Watsonville, CA",
+    "lat": 36.9741,
+    "lng": -122.0308,
+    "reports": 385,
+    "perCapita": 145,
+    "rank": 289
+  },
+  {
+    "name": "Portland-South Portland, ME",
+    "lat": 43.6591,
+    "lng": -70.2568,
+    "reports": 806,
+    "perCapita": 145,
+    "rank": 290
+  },
+  {
+    "name": "Iowa City, IA",
+    "lat": 41.6611,
+    "lng": -91.5302,
+    "reports": 255,
+    "perCapita": 144,
+    "rank": 291
+  },
+  {
+    "name": "Elizabethtown, KY",
+    "lat": 37.694,
+    "lng": -85.8591,
+    "reports": 181,
+    "perCapita": 143,
+    "rank": 292
+  },
+  {
+    "name": "Urban Honolulu, HI",
+    "lat": 21.3069,
+    "lng": -157.8583,
+    "reports": 1433,
+    "perCapita": 143,
+    "rank": 293
+  },
+  {
+    "name": "Flagstaff, AZ",
+    "lat": 35.1983,
+    "lng": -111.6513,
+    "reports": 206,
+    "perCapita": 142,
+    "rank": 294
+  },
+  {
+    "name": "Albany, OR",
+    "lat": 44.6365,
+    "lng": -123.1059,
+    "reports": 184,
+    "perCapita": 142,
+    "rank": 295
+  },
+  {
+    "name": "Fayetteville-Springdale-Rogers, AR",
+    "lat": 36.0626,
+    "lng": -94.1574,
+    "reports": 796,
+    "perCapita": 141,
+    "rank": 296
+  },
+  {
+    "name": "Cedar Rapids, IA",
+    "lat": 42.0083,
+    "lng": -91.6441,
+    "reports": 388,
+    "perCapita": 141,
+    "rank": 297
+  },
+  {
+    "name": "Santa Rosa-Petaluma, CA",
+    "lat": 38.4405,
+    "lng": -122.7141,
+    "reports": 681,
+    "perCapita": 140,
+    "rank": 298
+  },
+  {
+    "name": "Cheyenne, WY",
+    "lat": 41.14,
+    "lng": -104.8202,
+    "reports": 140,
+    "perCapita": 139,
+    "rank": 299
+  },
+  {
+    "name": "Ogden, UT",
+    "lat": 41.223,
+    "lng": -111.9738,
+    "reports": 895,
+    "perCapita": 139,
+    "rank": 300
+  },
+  {
+    "name": "Columbia, MO",
+    "lat": 38.9517,
+    "lng": -92.3341,
+    "reports": 295,
+    "perCapita": 139,
+    "rank": 301
+  },
+  {
+    "name": "Salem, OH",
+    "lat": 40.9009,
+    "lng": -80.8573,
+    "reports": 138,
+    "perCapita": 136,
+    "rank": 302
+  },
+  {
+    "name": "Charlottesville, VA",
+    "lat": 38.0293,
+    "lng": -78.4767,
+    "reports": 300,
+    "perCapita": 135,
+    "rank": 303
+  },
+  {
+    "name": "Missoula, MT",
+    "lat": 46.8721,
+    "lng": -113.994,
+    "reports": 167,
+    "perCapita": 134,
+    "rank": 304
+  },
+  {
+    "name": "Monroe, MI",
+    "lat": 41.9164,
+    "lng": -83.3977,
+    "reports": 208,
+    "perCapita": 134,
+    "rank": 305
+  },
+  {
+    "name": "Bremerton-Silverdale-Port Orchard, WA",
+    "lat": 47.5673,
+    "lng": -122.6329,
+    "reports": 370,
+    "perCapita": 134,
+    "rank": 306
+  },
+  {
+    "name": "Eureka-Arcata, CA",
+    "lat": 40.8021,
+    "lng": -124.1637,
+    "reports": 180,
+    "perCapita": 133,
+    "rank": 307
+  },
+  {
+    "name": "Truckee-Grass Valley, CA",
+    "lat": 39.328,
+    "lng": -120.1833,
+    "reports": 136,
+    "perCapita": 133,
+    "rank": 308
+  },
+  {
+    "name": "Winchester, VA-WV",
+    "lat": 39.1857,
+    "lng": -78.1633,
+    "reports": 191,
+    "perCapita": 132,
+    "rank": 309
+  },
+  {
+    "name": "Fort Smith, AR-OK",
+    "lat": 35.3859,
+    "lng": -94.3985,
+    "reports": 302,
+    "perCapita": 132,
+    "rank": 310
+  },
+  {
+    "name": "San Luis Obispo-Paso Robles, CA",
+    "lat": 35.2828,
+    "lng": -120.6596,
+    "reports": 370,
+    "perCapita": 131,
+    "rank": 311
+  },
+  {
+    "name": "Mansfield, OH",
+    "lat": 40.7588,
+    "lng": -82.5154,
+    "reports": 164,
+    "perCapita": 131,
+    "rank": 312
+  },
+  {
+    "name": "Show Low, AZ",
+    "lat": 34.2542,
+    "lng": -110.0298,
+    "reports": 141,
+    "perCapita": 131,
+    "rank": 313
+  },
+  {
+    "name": "Johnstown, PA",
+    "lat": 40.3267,
+    "lng": -78.922,
+    "reports": 171,
+    "perCapita": 129,
+    "rank": 314
+  },
+  {
+    "name": "El Centro, CA",
+    "lat": 32.792,
+    "lng": -115.5631,
+    "reports": 231,
+    "perCapita": 129,
+    "rank": 315
+  },
+  {
+    "name": "Jackson, MI",
+    "lat": 42.2459,
+    "lng": -84.4013,
+    "reports": 206,
+    "perCapita": 129,
+    "rank": 316
+  },
+  {
+    "name": "Hermitage, PA",
+    "lat": 41.2334,
+    "lng": -80.4487,
+    "reports": 141,
+    "perCapita": 128,
+    "rank": 317
+  },
+  {
+    "name": "Concord, NH",
+    "lat": 43.2081,
+    "lng": -71.5376,
+    "reports": 198,
+    "perCapita": 128,
+    "rank": 318
+  },
+  {
+    "name": "Salinas, CA",
+    "lat": 36.6777,
+    "lng": -121.6555,
+    "reports": 555,
+    "perCapita": 127,
+    "rank": 319
+  },
+  {
+    "name": "Bloomington, IN",
+    "lat": 39.1653,
+    "lng": -86.5264,
+    "reports": 205,
+    "perCapita": 127,
+    "rank": 320
+  },
+  {
+    "name": "Coeur d'Alene, ID",
+    "lat": 47.6777,
+    "lng": -116.7805,
+    "reports": 224,
+    "perCapita": 126,
+    "rank": 321
+  },
+  {
+    "name": "Kennewick-Richland, WA",
+    "lat": 46.2112,
+    "lng": -119.1372,
+    "reports": 385,
+    "perCapita": 125,
+    "rank": 322
+  },
+  {
+    "name": "Jamestown-Dunkirk, NY",
+    "lat": 42.097,
+    "lng": -79.2353,
+    "reports": 157,
+    "perCapita": 124,
+    "rank": 323
+  },
+  {
+    "name": "Lincoln, NE",
+    "lat": 40.8136,
+    "lng": -96.7026,
+    "reports": 423,
+    "perCapita": 124,
+    "rank": 324
+  },
+  {
+    "name": "Lewiston-Auburn, ME",
+    "lat": 44.1004,
+    "lng": -70.2148,
+    "reports": 139,
+    "perCapita": 124,
+    "rank": 325
+  },
+  {
+    "name": "Santa Fe, NM",
+    "lat": 35.687,
+    "lng": -105.9378,
+    "reports": 192,
+    "perCapita": 124,
+    "rank": 326
+  },
+  {
+    "name": "Dalton, GA",
+    "lat": 34.7698,
+    "lng": -84.9702,
+    "reports": 176,
+    "perCapita": 123,
+    "rank": 327
+  },
+  {
+    "name": "Lafayette-West Lafayette, IN",
+    "lat": 40.4167,
+    "lng": -86.8753,
+    "reports": 275,
+    "perCapita": 122,
+    "rank": 328
+  },
+  {
+    "name": "Lima, OH",
+    "lat": 40.7428,
+    "lng": -84.1052,
+    "reports": 124,
+    "perCapita": 122,
+    "rank": 329
+  },
+  {
+    "name": "Longview-Kelso, WA",
+    "lat": 46.1382,
+    "lng": -122.9382,
+    "reports": 135,
+    "perCapita": 121,
+    "rank": 330
+  },
+  {
+    "name": "Oshkosh-Neenah, WI",
+    "lat": 44.0247,
+    "lng": -88.5426,
+    "reports": 207,
+    "perCapita": 121,
+    "rank": 331
+  },
+  {
+    "name": "Terre Haute, IN",
+    "lat": 39.4667,
+    "lng": -87.4139,
+    "reports": 203,
+    "perCapita": 120,
+    "rank": 332
+  },
+  {
+    "name": "Johnson City, TN",
+    "lat": 36.3134,
+    "lng": -82.3535,
+    "reports": 251,
+    "perCapita": 120,
+    "rank": 333
+  },
+  {
+    "name": "Sioux Falls, SD-MN",
+    "lat": 43.546,
+    "lng": -96.7313,
+    "reports": 352,
+    "perCapita": 120,
+    "rank": 334
+  },
+  {
+    "name": "Muncie, IN",
+    "lat": 40.1934,
+    "lng": -85.3864,
+    "reports": 134,
+    "perCapita": 120,
+    "rank": 335
+  },
+  {
+    "name": "Joplin, MO-KS",
+    "lat": 37.0842,
+    "lng": -94.5133,
+    "reports": 240,
+    "perCapita": 119,
+    "rank": 336
+  },
+  {
+    "name": "Chambersburg, PA",
+    "lat": 39.9376,
+    "lng": -77.6611,
+    "reports": 185,
+    "perCapita": 118,
+    "rank": 337
+  },
+  {
+    "name": "Augusta-Waterville, ME",
+    "lat": 44.3106,
+    "lng": -69.7795,
+    "reports": 147,
+    "perCapita": 117,
+    "rank": 338
+  },
+  {
+    "name": "Richmond-Berea, KY",
+    "lat": 37.7487,
+    "lng": -84.2947,
+    "reports": 145,
+    "perCapita": 117,
+    "rank": 339
+  },
+  {
+    "name": "Anchorage, AK",
+    "lat": 61.2181,
+    "lng": -149.9003,
+    "reports": 464,
+    "perCapita": 116,
+    "rank": 340
+  },
+  {
+    "name": "Staunton-Stuarts Draft, VA",
+    "lat": 38.1496,
+    "lng": -79.0717,
+    "reports": 146,
+    "perCapita": 116,
+    "rank": 341
+  },
+  {
+    "name": "Ottawa, IL",
+    "lat": 41.3456,
+    "lng": -88.8426,
+    "reports": 171,
+    "perCapita": 116,
+    "rank": 342
+  },
+  {
+    "name": "Bowling Green, KY",
+    "lat": 36.9903,
+    "lng": -86.4436,
+    "reports": 212,
+    "perCapita": 116,
+    "rank": 343
+  },
+  {
+    "name": "Ithaca, NY",
+    "lat": 42.444,
+    "lng": -76.5019,
+    "reports": 119,
+    "perCapita": 116,
+    "rank": 344
+  },
+  {
+    "name": "Bay City, MI",
+    "lat": 43.5945,
+    "lng": -83.8889,
+    "reports": 119,
+    "perCapita": 115,
+    "rank": 345
+  },
+  {
+    "name": "Traverse City, MI",
+    "lat": 44.7631,
+    "lng": -85.6206,
+    "reports": 178,
+    "perCapita": 115,
+    "rank": 346
+  },
+  {
+    "name": "Cookeville, TN",
+    "lat": 36.1628,
+    "lng": -85.5016,
+    "reports": 165,
+    "perCapita": 115,
+    "rank": 347
+  },
+  {
+    "name": "Bismarck, ND",
+    "lat": 46.8083,
+    "lng": -100.7837,
+    "reports": 153,
+    "perCapita": 114,
+    "rank": 348
+  },
+  {
+    "name": "Burlington-South Burlington, VT",
+    "lat": 44.4759,
+    "lng": -73.2121,
+    "reports": 258,
+    "perCapita": 114,
+    "rank": 349
+  },
+  {
+    "name": "Harrisonburg, VA",
+    "lat": 38.4496,
+    "lng": -78.8689,
+    "reports": 155,
+    "perCapita": 114,
+    "rank": 350
+  },
+  {
+    "name": "Bangor, ME",
+    "lat": 44.8012,
+    "lng": -68.7778,
+    "reports": 174,
+    "perCapita": 113,
+    "rank": 351
+  },
+  {
+    "name": "Gettysburg, PA",
+    "lat": 39.8309,
+    "lng": -77.2311,
+    "reports": 119,
+    "perCapita": 113,
+    "rank": 352
+  },
+  {
+    "name": "Appleton, WI",
+    "lat": 44.2619,
+    "lng": -88.4154,
+    "reports": 276,
+    "perCapita": 113,
+    "rank": 353
+  },
+  {
+    "name": "Weirton-Steubenville, WV-OH",
+    "lat": 40.419,
+    "lng": -80.589,
+    "reports": 130,
+    "perCapita": 112,
+    "rank": 354
+  },
+  {
+    "name": "Hilo-Kailua, HI",
+    "lat": 19.7074,
+    "lng": -155.0847,
+    "reports": 229,
+    "perCapita": 112,
+    "rank": 355
+  },
+  {
+    "name": "Mount Vernon-Anacortes, WA",
+    "lat": 48.4201,
+    "lng": -122.3345,
+    "reports": 146,
+    "perCapita": 112,
+    "rank": 356
+  },
+  {
+    "name": "Whitewater-Elkhorn, WI",
+    "lat": 42.8339,
+    "lng": -88.7326,
+    "reports": 118,
+    "perCapita": 112,
+    "rank": 357
+  },
+  {
+    "name": "Roseburg, OR",
+    "lat": 43.2165,
+    "lng": -123.3417,
+    "reports": 124,
+    "perCapita": 111,
+    "rank": 358
+  },
+  {
+    "name": "Logan, UT-ID",
+    "lat": 41.737,
+    "lng": -111.8338,
+    "reports": 168,
+    "perCapita": 111,
+    "rank": 359
+  },
+  {
+    "name": "Kingsport-Bristol, TN-VA",
+    "lat": 36.5484,
+    "lng": -82.5618,
+    "reports": 342,
+    "perCapita": 110,
+    "rank": 360
+  },
+  {
+    "name": "Twin Falls, ID",
+    "lat": 42.5558,
+    "lng": -114.4601,
+    "reports": 129,
+    "perCapita": 110,
+    "rank": 361
+  },
+  {
+    "name": "Elkhart-Goshen, IN",
+    "lat": 41.682,
+    "lng": -85.9767,
+    "reports": 228,
+    "perCapita": 110,
+    "rank": 362
+  },
+  {
+    "name": "Ames, IA",
+    "lat": 42.0308,
+    "lng": -93.6319,
+    "reports": 138,
+    "perCapita": 110,
+    "rank": 363
+  },
+  {
+    "name": "Rapid City, SD",
+    "lat": 44.0805,
+    "lng": -103.231,
+    "reports": 166,
+    "perCapita": 110,
+    "rank": 364
+  },
+  {
+    "name": "Corbin, KY",
+    "lat": 36.9487,
+    "lng": -84.0969,
+    "reports": 164,
+    "perCapita": 110,
+    "rank": 365
+  },
+  {
+    "name": "Moses Lake, WA",
+    "lat": 47.1301,
+    "lng": -119.278,
+    "reports": 110,
+    "perCapita": 110,
+    "rank": 366
+  },
+  {
+    "name": "Wooster, OH",
+    "lat": 40.8051,
+    "lng": -81.9351,
+    "reports": 127,
+    "perCapita": 109,
+    "rank": 367
+  },
+  {
+    "name": "State College, PA",
+    "lat": 40.7934,
+    "lng": -77.86,
+    "reports": 172,
+    "perCapita": 109,
+    "rank": 368
+  },
+  {
+    "name": "Waterloo-Cedar Falls, IA",
+    "lat": 42.4928,
+    "lng": -92.3426,
+    "reports": 183,
+    "perCapita": 109,
+    "rank": 369
+  },
+  {
+    "name": "Huntington-Ashland, WV-KY-OH",
+    "lat": 38.4192,
+    "lng": -82.4452,
+    "reports": 405,
+    "perCapita": 109,
+    "rank": 370
+  },
+  {
+    "name": "Lebanon-Claremont, NH-VT",
+    "lat": 43.6426,
+    "lng": -72.2517,
+    "reports": 242,
+    "perCapita": 109,
+    "rank": 371
+  },
+  {
+    "name": "Beckley, WV",
+    "lat": 37.7782,
+    "lng": -81.1882,
+    "reports": 123,
+    "perCapita": 108,
+    "rank": 372
+  },
+  {
+    "name": "Wenatchee-East Wenatchee, WA",
+    "lat": 47.4235,
+    "lng": -120.3103,
+    "reports": 132,
+    "perCapita": 107,
+    "rank": 373
+  },
+  {
+    "name": "Owensboro, KY",
+    "lat": 37.7719,
+    "lng": -87.1112,
+    "reports": 120,
+    "perCapita": 107,
+    "rank": 374
+  },
+  {
+    "name": "Green Bay, WI",
+    "lat": 44.5133,
+    "lng": -88.0133,
+    "reports": 350,
+    "perCapita": 106,
+    "rank": 375
+  },
+  {
+    "name": "Glens Falls, NY",
+    "lat": 43.3095,
+    "lng": -73.644,
+    "reports": 132,
+    "perCapita": 104,
+    "rank": 376
+  },
+  {
+    "name": "Rochester, MN",
+    "lat": 44.0121,
+    "lng": -92.4802,
+    "reports": 233,
+    "perCapita": 103,
+    "rank": 377
+  },
+  {
+    "name": "Morgantown, WV",
+    "lat": 39.6295,
+    "lng": -79.9559,
+    "reports": 143,
+    "perCapita": 102,
+    "rank": 378
+  },
+  {
+    "name": "Jefferson City, MO",
+    "lat": 38.5768,
+    "lng": -92.1735,
+    "reports": 152,
+    "perCapita": 101,
+    "rank": 379
+  },
+  {
+    "name": "Sheboygan, WI",
+    "lat": 43.7508,
+    "lng": -87.7145,
+    "reports": 118,
+    "perCapita": 100,
+    "rank": 380
+  },
+  {
+    "name": "Mankato, MN",
+    "lat": 44.1636,
+    "lng": -93.9994,
+    "reports": 103,
+    "perCapita": 99,
+    "rank": 381
+  },
+  {
+    "name": "Fond du Lac, WI",
+    "lat": 43.773,
+    "lng": -88.4471,
+    "reports": 103,
+    "perCapita": 99,
+    "rank": 382
+  },
+  {
+    "name": "Yakima, WA",
+    "lat": 46.6021,
+    "lng": -120.5059,
+    "reports": 249,
+    "perCapita": 97,
+    "rank": 383
+  },
+  {
+    "name": "Grand Forks, ND-MN",
+    "lat": 47.9253,
+    "lng": -97.0329,
+    "reports": 100,
+    "perCapita": 96,
+    "rank": 384
+  },
+  {
+    "name": "Duluth, MN-WI",
+    "lat": 46.7867,
+    "lng": -92.1005,
+    "reports": 269,
+    "perCapita": 96,
+    "rank": 385
+  },
+  {
+    "name": "Wheeling, WV-OH",
+    "lat": 40.064,
+    "lng": -80.7209,
+    "reports": 131,
+    "perCapita": 95,
+    "rank": 386
+  },
+  {
+    "name": "Massena-Ogdensburg, NY",
+    "lat": 44.9308,
+    "lng": -74.8899,
+    "reports": 100,
+    "perCapita": 93,
+    "rank": 387
+  },
+  {
+    "name": "Eau Claire, WI",
+    "lat": 44.8113,
+    "lng": -91.4985,
+    "reports": 159,
+    "perCapita": 92,
+    "rank": 388
+  },
+  {
+    "name": "Sioux City, IA-NE-SD",
+    "lat": 42.4963,
+    "lng": -96.4049,
+    "reports": 132,
+    "perCapita": 92,
+    "rank": 389
+  },
+  {
+    "name": "Farmington, NM",
+    "lat": 36.7281,
+    "lng": -108.2187,
+    "reports": 109,
+    "perCapita": 90,
+    "rank": 390
+  },
+  {
+    "name": "La Crosse-Onalaska, WI-MN",
+    "lat": 43.8014,
+    "lng": -91.2396,
+    "reports": 152,
+    "perCapita": 89,
+    "rank": 391
+  },
+  {
+    "name": "St. Cloud, MN",
+    "lat": 45.5608,
+    "lng": -94.1636,
+    "reports": 178,
+    "perCapita": 89,
+    "rank": 392
+  },
+  {
+    "name": "Altoona, PA",
+    "lat": 40.5187,
+    "lng": -78.3947,
+    "reports": 107,
+    "perCapita": 88,
+    "rank": 393
+  },
+  {
+    "name": "Blacksburg-Christiansburg-Radford, VA",
+    "lat": 37.2296,
+    "lng": -80.4139,
+    "reports": 155,
+    "perCapita": 85,
+    "rank": 394
+  },
+  {
+    "name": "Wausau, WI",
+    "lat": 44.9591,
+    "lng": -89.6301,
+    "reports": 109,
+    "perCapita": 79,
+    "rank": 395
+  },
+  {
+    "name": "Holland, MI",
+    "lat": 42.7876,
+    "lng": -86.1089,
+    "reports": 95,
+    "perCapita": 79,
+    "rank": 396
+  },
+  {
+    "name": "Ponce, PR",
+    "lat": 18.0111,
+    "lng": -66.6141,
+    "reports": 193,
+    "perCapita": 71,
+    "rank": 397
+  },
+  {
+    "name": "San Juan-Bayamón-Caguas, PR",
+    "lat": 18.4655,
+    "lng": -66.1057,
+    "reports": 1042,
+    "perCapita": 50,
+    "rank": 398
+  },
+  {
+    "name": "Aguadilla, PR",
+    "lat": 18.4274,
+    "lng": -67.1541,
+    "reports": 122,
+    "perCapita": 48,
+    "rank": 399
+  },
+  {
+    "name": "Arecibo, PR",
+    "lat": 18.4725,
+    "lng": -66.7156,
+    "reports": 83,
+    "perCapita": 46,
+    "rank": 400
+  },
+  {
+    "name": "Mayagüez, PR",
+    "lat": 18.2013,
+    "lng": -67.1397,
+    "reports": 76,
+    "perCapita": 36,
+    "rank": 401
+  }
+]

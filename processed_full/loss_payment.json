@@ -1,0 +1,107 @@
+{
+  "total_loss_all_methods": 5435000000.0,
+  "overall_avg_loss_per_report": 11420.35,
+  "top_3_loss_method_share": 71.7,
+  "methods": [
+    {
+      "method": "Bank Transfer or Payment",
+      "reports": 47336,
+      "total_loss": 2089000000.0,
+      "pct_of_total_loss": 38.44,
+      "avg_loss_per_report": 44131.32,
+      "loss_per_report_index": 3.86,
+      "rank_by_total_loss": 1,
+      "rank_by_avg_loss": 1
+    },
+    {
+      "method": "Cryptocurrency",
+      "reports": 46899,
+      "total_loss": 1417000000.0,
+      "pct_of_total_loss": 26.07,
+      "avg_loss_per_report": 30213.86,
+      "loss_per_report_index": 2.65,
+      "rank_by_total_loss": 2,
+      "rank_by_avg_loss": 2
+    },
+    {
+      "method": "Payment App or Service",
+      "reports": 90571,
+      "total_loss": 391000000.0,
+      "pct_of_total_loss": 7.19,
+      "avg_loss_per_report": 4317.06,
+      "loss_per_report_index": 0.38,
+      "rank_by_total_loss": 3,
+      "rank_by_avg_loss": 8
+    },
+    {
+      "method": "Cash",
+      "reports": 13609,
+      "total_loss": 308000000.0,
+      "pct_of_total_loss": 5.67,
+      "avg_loss_per_report": 22632.08,
+      "loss_per_report_index": 1.98,
+      "rank_by_total_loss": 4,
+      "rank_by_avg_loss": 4
+    },
+    {
+      "method": "Wire Transfer",
+      "reports": 40448,
+      "total_loss": 287000000.0,
+      "pct_of_total_loss": 5.28,
+      "avg_loss_per_report": 7095.53,
+      "loss_per_report_index": 0.62,
+      "rank_by_total_loss": 5,
+      "rank_by_avg_loss": 6
+    },
+    {
+      "method": "Credit Cards",
+      "reports": 108881,
+      "total_loss": 275000000.0,
+      "pct_of_total_loss": 5.06,
+      "avg_loss_per_report": 2525.69,
+      "loss_per_report_index": 0.22,
+      "rank_by_total_loss": 6,
+      "rank_by_avg_loss": 9
+    },
+    {
+      "method": "Check",
+      "reports": 8098,
+      "total_loss": 225000000.0,
+      "pct_of_total_loss": 4.14,
+      "avg_loss_per_report": 27784.64,
+      "loss_per_report_index": 2.43,
+      "rank_by_total_loss": 7,
+      "rank_by_avg_loss": 3
+    },
+    {
+      "method": "Gift Card or Reload Card",
+      "reports": 41120,
+      "total_loss": 212000000.0,
+      "pct_of_total_loss": 3.9,
+      "avg_loss_per_report": 5155.64,
+      "loss_per_report_index": 0.45,
+      "rank_by_total_loss": 8,
+      "rank_by_avg_loss": 7
+    },
+    {
+      "method": "Debit Card",
+      "reports": 76285,
+      "total_loss": 180000000.0,
+      "pct_of_total_loss": 3.31,
+      "avg_loss_per_report": 2359.57,
+      "loss_per_report_index": 0.21,
+      "rank_by_total_loss": 9,
+      "rank_by_avg_loss": 10
+    },
+    {
+      "method": "Money Order",
+      "reports": 2658,
+      "total_loss": 51000000.0,
+      "pct_of_total_loss": 0.94,
+      "avg_loss_per_report": 19187.36,
+      "loss_per_report_index": 1.68,
+      "rank_by_total_loss": 10,
+      "rank_by_avg_loss": 5
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "bank_transfer_severity",
+    "title": "Bank transfers are the deadliest payment vector",
+    "statement": "Bank transfers average $44,131 per fraud report — 3.86x the overall average. Despite representing only 10% of payment-identified reports, they account for 38% of total dollar losses.",
+    "metric": "$44,131 avg loss per report",
+    "supporting_data": {
+      "index": 3.86,
+      "pct_of_total_loss": 38.44,
+      "total_loss": 2089000000
+    }
+  },
+  {
+    "id": "social_media_loss_leader",
+    "title": "Social media is the #1 contact channel by dollar loss",
+    "statement": "Scams initiated via social media drove $1.86B in losses — 30% of all contact-attributed losses. 70% of social media fraud reports involve actual financial loss, compared to just 11% for email.",
+    "metric": "$1.86B total loss via social media",
+    "supporting_data": {
+      "pct_of_loss": 30.15,
+      "pct_with_loss": 70,
+      "avg_loss": 9945.08
+    }
+  },
+  {
+    "id": "category_concentration",
+    "title": "Three categories account for 58% of all reports",
+    "statement": "Credit Bureaus (20.9%), Identity Theft (17.5%), and Imposter Scams (13.1%) together generate nearly 3 in 5 of all Sentinel reports. The top 10 categories capture 85% of total volume.",
+    "metric": "57.9% in top 3 categories",
+    "supporting_data": {
+      "top_3_share": 57.86,
+      "top_10_share": 84.93
+    }
+  },
+  {
+    "id": "credit_bureau_explosion",
+    "title": "Credit Bureau complaints grew 129% in two years",
+    "statement": "Credit Bureaus and Information Furnishers reports surged from 591K in 2022 to 1.35M in 2024 — a 129% increase that outpaced market growth by 107 percentage points. This single category's share nearly doubled from 11.1% to 20.9%.",
+    "metric": "+129% growth (2022–2024)",
+    "supporting_data": {
+      "from": 590872,
+      "to": 1353175,
+      "relative_growth_pp": 107.31,
+      "share_change_pp": 9.8
+    }
+  },
+  {
+    "id": "age_vulnerability_gap",
+    "title": "Seniors 80+ lose 3.4x more per fraud incident than teens",
+    "statement": "Consumers aged 80 and over lose $6,169 per report with a median loss of $1,650, while those under 19 lose $1,813 per report (median $189). Older adults report less often but lose disproportionately more when they do.",
+    "metric": "3.4x loss-per-report gap",
+    "supporting_data": {
+      "oldest_lpr": 6168.66,
+      "youngest_lpr": 1813.39,
+      "oldest_median": 1650,
+      "youngest_median": 189
+    }
+  },
+  {
+    "id": "total_loss_scale",
+    "title": "$12.5 billion lost to fraud in a single year",
+    "statement": "American consumers reported $12.5B in fraud losses in 2024 across 2.6 million fraud reports. Only 38% of fraud reports included a dollar loss, suggesting the true figure is substantially higher.",
+    "metric": "$12.5B total reported loss",
+    "supporting_data": {
+      "total_reports": 2600678,
+      "pct_with_loss": 38
+    }
+  },
+  {
+    "id": "crypto_severity",
+    "title": "Cryptocurrency fraud averages $30,214 per report",
+    "statement": "Crypto-based fraud carries the second-highest severity of any payment method at $30,214 average loss per report — 2.65x the overall average. Total crypto losses reached $1.42B.",
+    "metric": "$30,214 avg crypto loss",
+    "supporting_data": {
+      "total_loss": 1417000000,
+      "index": 2.65
+    }
+  },
+  {
+    "id": "loss_distribution_skew",
+    "title": "13% of loss reports drive the vast majority of dollar losses",
+    "statement": "63% of fraud loss reports fall under $1,000, but the 12.6% of reports exceeding $10,000 account for an estimated 73% of all dollar losses. Fraud impact is heavily concentrated in high-value incidents.",
+    "metric": "12.6% of reports → ~73% of losses",
+    "supporting_data": {
+      "pct_under_1k": 63.2,
+      "pct_over_10k": 12.63,
+      "top_bucket_loss_share": 73.0
+    }
+  },
+  {
+    "id": "metro_inequality",
+    "title": "Top metro area sees 829x more reports than the smallest",
+    "statement": "NYC metro reported 309,066 fraud complaints vs. 373 in the smallest tracked MSA — an 829x gap. The top 10 metro areas generate 38% of all metropolitan fraud volume.",
+    "metric": "829x metro gap",
+    "supporting_data": {
+      "top": 309066,
+      "bottom": 373,
+      "top_10_share": 38.32
+    }
+  },
+  {
+    "id": "cagr_growth",
+    "title": "Fraud reports have grown 13.9% annually for 23 years",
+    "statement": "From 326K reports in 2001 to 6.5M in 2024, consumer fraud complaints have compounded at 13.9% per year — consistently outpacing population growth, inflation, and internet adoption rates.",
+    "metric": "13.9% CAGR (2001–2024)",
+    "supporting_data": {
+      "from": 325519,
+      "to": 6471708,
+      "years": 23
+    }
+  },
+  {
+    "id": "per_capita_surprise",
+    "title": "DC, Nevada, and Colorado lead per-capita fraud — not California or Texas",
+    "statement": "When normalized by population, the District of Columbia (1,054 per 100K), Nevada (775), and Colorado (773) show the highest fraud report rates. California and Texas rank 17th and 6th respectively despite leading in raw volume.",
+    "metric": "1,054 reports per 100K (DC)",
+    "supporting_data": {
+      "dc": 1053.9,
+      "nevada": 774.66,
+      "colorado": 773.32
+    }
+  },
+  {
+    "id": "only_21_of_29_declining_share",
+    "title": "Growth is concentrated — 21 of 29 categories are losing share",
+    "statement": "While overall reports grew 21.7% from 2022–2024, only 8 of 29 fraud categories outpaced market growth. The surge is driven by a handful of categories, particularly Credit Bureaus (+107pp above market) and Debt Collection (+72pp).",
+    "metric": "8 of 29 outperforming market",
+    "supporting_data": {
+      "market_growth": 21.7,
+      "outperforming": 8,
+      "underperforming": 21
+    }
+  },
+  {
+    "id": "investment_fraud_severity",
+    "title": "Investment scams are the highest-severity fraud category",
+    "statement": "Investment-related fraud carries the highest danger index score for severity, driven by an average loss far exceeding other categories. Combined with 79% of reports involving financial loss, it is the costliest category per incident.",
+    "metric": "Danger Index rank #2 (severity-driven)",
+    "supporting_data": {
+      "danger_index": 0.5059,
+      "severity_score": 1.0
+    }
+  },
+  {
+    "id": "payment_concentration",
+    "title": "Three payment methods account for 72% of all fraud losses",
+    "statement": "Bank transfers (38%), cryptocurrency (26%), and payment apps (7%) together represent 72% of total dollar losses across all identified payment methods — despite comprising only 39% of payment-identified reports.",
+    "metric": "71.7% loss concentration in top 3",
+    "supporting_data": {
+      "top_3_share": 71.7
+    }
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "section": "Overview",
+    "title": "Total Fraud Reports",
+    "insight": "2.6M fraud reports filed in 2024 — the highest year on record.",
+    "primary_metric": "2,600,678",
+    "supporting_metrics": [
+      "$12.5B total loss",
+      "38% reported a dollar loss"
+    ],
+    "chart_type": "stat",
+    "priority": 1
+  },
+  {
+    "section": "Overview",
+    "title": "Total Losses",
+    "insight": "$12.5 billion lost by American consumers to fraud in a single year.",
+    "primary_metric": "$12.5B",
+    "supporting_metrics": [
+      "$497 median loss",
+      "$4,920 average loss"
+    ],
+    "chart_type": "stat",
+    "priority": 1
+  },
+  {
+    "section": "Overview",
+    "title": "23-Year Growth",
+    "insight": "Reports have grown at 13.9% annually since 2001 — a 20x increase.",
+    "primary_metric": "13.9% CAGR",
+    "supporting_metrics": [
+      "326K in 2001",
+      "6.5M in 2024"
+    ],
+    "chart_type": "line",
+    "priority": 2
+  },
+  {
+    "section": "Geography",
+    "title": "Top Metro Areas",
+    "insight": "NYC, LA, and Miami lead in raw fraud volume, accounting for 16% of all metro reports.",
+    "primary_metric": "309K reports (NYC)",
+    "supporting_metrics": [
+      "192K (LA)",
+      "171K (Miami)"
+    ],
+    "chart_type": "map",
+    "priority": 1
+  },
+  {
+    "section": "Geography",
+    "title": "Per Capita Leaders",
+    "insight": "DC leads at 1,054 fraud reports per 100K residents — highest in the nation.",
+    "primary_metric": "1,054 per 100K",
+    "supporting_metrics": [
+      "Nevada: 775",
+      "Colorado: 773"
+    ],
+    "chart_type": "map",
+    "priority": 2
+  },
+  {
+    "section": "Geography",
+    "title": "Loss Density",
+    "insight": "Arizona leads loss-per-capita at $4.6M per 100K population.",
+    "primary_metric": "$4.6M per 100K",
+    "supporting_metrics": [
+      "DC: $4.5M",
+      "Nevada: $4.4M"
+    ],
+    "chart_type": "bar",
+    "priority": 3
+  },
+  {
+    "section": "Fraud Types",
+    "title": "Category Dominance",
+    "insight": "Just 3 categories generate 58% of all reports — extreme concentration.",
+    "primary_metric": "57.9% top-3 share",
+    "supporting_metrics": [
+      "Credit Bureaus: 20.9%",
+      "Identity Theft: 17.5%",
+      "Imposter Scams: 13.1%"
+    ],
+    "chart_type": "bar",
+    "priority": 1
+  },
+  {
+    "section": "Fraud Types",
+    "title": "Credit Bureau Explosion",
+    "insight": "Credit Bureau complaints surged 129% in two years, nearly doubling market share.",
+    "primary_metric": "+129% growth",
+    "supporting_metrics": [
+      "591K → 1.35M",
+      "Share: 11.1% → 20.9%"
+    ],
+    "chart_type": "line",
+    "priority": 1
+  },
+  {
+    "section": "Fraud Types",
+    "title": "Fastest Growing",
+    "insight": "Debt Collection (+72pp) and Cyber Threats (+35pp) are outpacing market growth.",
+    "primary_metric": "+72pp above market",
+    "supporting_metrics": [
+      "Market grew 21.7%",
+      "Debt Collection grew 93.5%"
+    ],
+    "chart_type": "bar",
+    "priority": 2
+  },
+  {
+    "section": "Fraud Types",
+    "title": "Declining Categories",
+    "insight": "Fake check scams (-55%) and sweepstakes fraud (-34%) are fading.",
+    "primary_metric": "-55% decline",
+    "supporting_metrics": [
+      "Sweepstakes: -34%",
+      "Tax Preparers: -40%"
+    ],
+    "chart_type": "bar",
+    "priority": 3
+  },
+  {
+    "section": "Loss & Payment",
+    "title": "Bank Transfer Severity",
+    "insight": "Bank transfers average $44,131 per fraud report — 3.86x the overall average.",
+    "primary_metric": "$44,131 avg loss",
+    "supporting_metrics": [
+      "3.86x severity index",
+      "38.4% of total losses"
+    ],
+    "chart_type": "bar",
+    "priority": 1
+  },
+  {
+    "section": "Loss & Payment",
+    "title": "Social Media as Loss Leader",
+    "insight": "Social media drives $1.86B in losses with a 70% loss conversion rate.",
+    "primary_metric": "$1.86B",
+    "supporting_metrics": [
+      "70% conversion",
+      "$9,945 avg loss"
+    ],
+    "chart_type": "bar",
+    "priority": 1
+  },
+  {
+    "section": "Loss & Payment",
+    "title": "Crypto Losses",
+    "insight": "Cryptocurrency fraud totaled $1.42B — $30,214 average per incident.",
+    "primary_metric": "$1.42B",
+    "supporting_metrics": [
+      "$30,214 avg loss",
+      "2.65x severity index"
+    ],
+    "chart_type": "bar",
+    "priority": 2
+  },
+  {
+    "section": "Loss & Payment",
+    "title": "Loss Distribution",
+    "insight": "63% of losses are under $1K, but 12.6% above $10K drive ~73% of dollar losses.",
+    "primary_metric": "12.6% → 73% of losses",
+    "supporting_metrics": [
+      "63.2% under $1K",
+      "Median: $497"
+    ],
+    "chart_type": "bar",
+    "priority": 2
+  },
+  {
+    "section": "Loss & Payment",
+    "title": "Payment Concentration",
+    "insight": "Top 3 payment methods hold 72% of all fraud dollar losses.",
+    "primary_metric": "71.7% concentration",
+    "supporting_metrics": [
+      "Bank Transfer: 38%",
+      "Crypto: 26%",
+      "Payment App: 7%"
+    ],
+    "chart_type": "bar",
+    "priority": 3
+  },
+  {
+    "section": "Demographics",
+    "title": "Most Targeted Age Group",
+    "insight": "Ages 60–69 file the most fraud reports — 18% of all reports with age data.",
+    "primary_metric": "208,896 reports",
+    "supporting_metrics": [
+      "18% of total",
+      "$5,649 loss/report"
+    ],
+    "chart_type": "bar",
+    "priority": 2
+  },
+  {
+    "section": "Demographics",
+    "title": "Seniors Lose the Most",
+    "insight": "Consumers 80+ lose $6,169 per incident — 3.4x more than teens.",
+    "primary_metric": "$6,169 per report",
+    "supporting_metrics": [
+      "Median: $1,650",
+      "3.4x gap ratio"
+    ],
+    "chart_type": "bar",
+    "priority": 1
+  },
+  {
+    "section": "Demographics",
+    "title": "Age-Loss Gradient",
+    "insight": "Loss per report climbs steadily with age — from $1,813 (under 19) to $6,169 (80+).",
+    "primary_metric": "3.4x gradient",
+    "supporting_metrics": [
+      "Under 19: $1,813",
+      "80+: $6,169"
+    ],
+    "chart_type": "line",
+    "priority": 2
+  },
+  {
+    "section": "Trends",
+    "title": "Report Type Shift",
+    "insight": "'Other' reports overtook fraud in 2024, now 42.5% of total — up from 14% in 2001.",
+    "primary_metric": "42.5% Other share",
+    "supporting_metrics": [
+      "Fraud: 40%",
+      "ID Theft: 17.5%"
+    ],
+    "chart_type": "line",
+    "priority": 2
+  },
+  {
+    "section": "Trends",
+    "title": "Growth Consolidation",
+    "insight": "One category (Credit Bureaus) accounts for 52% of the total report increase from 2022–2024.",
+    "primary_metric": "762K new reports",
+    "supporting_metrics": [
+      "Total delta: 1.15M",
+      "21.7% market growth"
+    ],
+    "chart_type": "bar",
+    "priority": 2
+  },
+  {
+    "section": "Danger Index",
+    "title": "Highest Danger: Credit Bureaus",
+    "insight": "Credit Bureaus rank #1 on the danger index — max frequency and max growth scores.",
+    "primary_metric": "0.60 danger index",
+    "supporting_metrics": [
+      "Frequency: 1.00",
+      "Growth: 1.00"
+    ],
+    "chart_type": "bar",
+    "priority": 2
+  },
+  {
+    "section": "Danger Index",
+    "title": "Highest Severity: Investment Fraud",
+    "insight": "Investment fraud scores 1.0 on severity — the highest per-incident cost of any category.",
+    "primary_metric": "0.51 danger index",
+    "supporting_metrics": [
+      "Severity: 1.00",
+      "79% report a loss"
+    ],
+    "chart_type": "bar",
+    "priority": 2
+  }
+]

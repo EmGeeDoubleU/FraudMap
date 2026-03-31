@@ -1,0 +1,303 @@
+{
+  "methodology": {
+    "weights": {
+      "frequency": 0.4,
+      "severity": 0.4,
+      "growth": 0.2
+    },
+    "normalization": "min-max to 0-1 scale per dimension",
+    "severity_note": "Based on avg loss per report for top-10 fraud categories; categories without per-category loss data score 0 on severity"
+  },
+  "categories": [
+    {
+      "category": "Credit Bureaus and Information Furnishers",
+      "reports": 1353175,
+      "frequency_score": 1.0,
+      "severity_score": 0.0,
+      "growth_score": 1.0,
+      "danger_index": 0.6,
+      "rank": 1,
+      "has_loss_data": true
+    },
+    {
+      "category": "Investment Related",
+      "reports": 118960,
+      "frequency_score": 0.0879,
+      "severity_score": 1.0,
+      "growth_score": 0.3537,
+      "danger_index": 0.5059,
+      "rank": 2,
+      "has_loss_data": true
+    },
+    {
+      "category": "Identity Theft",
+      "reports": 1135291,
+      "frequency_score": 0.839,
+      "severity_score": 0.0,
+      "growth_score": 0.3122,
+      "danger_index": 0.398,
+      "rank": 3,
+      "has_loss_data": false
+    },
+    {
+      "category": "Imposter Scams",
+      "reports": 845806,
+      "frequency_score": 0.6251,
+      "severity_score": 0.0729,
+      "growth_score": 0.3583,
+      "danger_index": 0.3509,
+      "rank": 4,
+      "has_loss_data": true
+    },
+    {
+      "category": "Debt Collection",
+      "reports": 218736,
+      "frequency_score": 0.1616,
+      "severity_score": 0.0,
+      "growth_score": 0.8068,
+      "danger_index": 0.226,
+      "rank": 5,
+      "has_loss_data": true
+    },
+    {
+      "category": "Banks and Lenders",
+      "reports": 351543,
+      "frequency_score": 0.2598,
+      "severity_score": 0.0,
+      "growth_score": 0.4793,
+      "danger_index": 0.1998,
+      "rank": 6,
+      "has_loss_data": true
+    },
+    {
+      "category": "Online Shopping and Negative Reviews",
+      "reports": 384946,
+      "frequency_score": 0.2845,
+      "severity_score": 0.0235,
+      "growth_score": 0.3237,
+      "danger_index": 0.1879,
+      "rank": 7,
+      "has_loss_data": true
+    },
+    {
+      "category": "Business and Job Opportunities",
+      "reports": 130075,
+      "frequency_score": 0.0961,
+      "severity_score": 0.1242,
+      "growth_score": 0.4722,
+      "danger_index": 0.1826,
+      "rank": 8,
+      "has_loss_data": true
+    },
+    {
+      "category": "Privacy, Data Security, and Cyber Threats",
+      "reports": 111024,
+      "frequency_score": 0.082,
+      "severity_score": 0.0,
+      "growth_score": 0.6062,
+      "danger_index": 0.154,
+      "rank": 9,
+      "has_loss_data": true
+    },
+    {
+      "category": "Credit Cards",
+      "reports": 126368,
+      "frequency_score": 0.0934,
+      "severity_score": 0.0,
+      "growth_score": 0.5196,
+      "danger_index": 0.1413,
+      "rank": 10,
+      "has_loss_data": true
+    },
+    {
+      "category": "Mortgage Foreclosure Relief and Debt Management",
+      "reports": 34159,
+      "frequency_score": 0.0252,
+      "severity_score": 0.0501,
+      "growth_score": 0.5023,
+      "danger_index": 0.1306,
+      "rank": 11,
+      "has_loss_data": true
+    },
+    {
+      "category": "Auto Related",
+      "reports": 197015,
+      "frequency_score": 0.1456,
+      "severity_score": 0.0,
+      "growth_score": 0.3522,
+      "danger_index": 0.1287,
+      "rank": 12,
+      "has_loss_data": true
+    },
+    {
+      "category": "Internet Services",
+      "reports": 151412,
+      "frequency_score": 0.1119,
+      "severity_score": 0.029,
+      "growth_score": 0.3468,
+      "danger_index": 0.1257,
+      "rank": 13,
+      "has_loss_data": true
+    },
+    {
+      "category": "Health Care",
+      "reports": 115473,
+      "frequency_score": 0.0853,
+      "severity_score": 0.0212,
+      "growth_score": 0.3215,
+      "danger_index": 0.1069,
+      "rank": 14,
+      "has_loss_data": true
+    },
+    {
+      "category": "Travel, Vacations and Timeshare Plans",
+      "reports": 58347,
+      "frequency_score": 0.0431,
+      "severity_score": 0.0981,
+      "growth_score": 0.2129,
+      "danger_index": 0.0991,
+      "rank": 15,
+      "has_loss_data": true
+    },
+    {
+      "category": "Education",
+      "reports": 25813,
+      "frequency_score": 0.0191,
+      "severity_score": 0.0,
+      "growth_score": 0.4171,
+      "danger_index": 0.0911,
+      "rank": 16,
+      "has_loss_data": true
+    },
+    {
+      "category": "Prizes, Sweepstakes and Lotteries",
+      "reports": 97350,
+      "frequency_score": 0.0719,
+      "severity_score": 0.0753,
+      "growth_score": 0.1107,
+      "danger_index": 0.081,
+      "rank": 17,
+      "has_loss_data": true
+    },
+    {
+      "category": "Telephone and Mobile Services",
+      "reports": 92520,
+      "frequency_score": 0.0684,
+      "severity_score": 0.0126,
+      "growth_score": 0.2166,
+      "danger_index": 0.0757,
+      "rank": 18,
+      "has_loss_data": true
+    },
+    {
+      "category": "Computer Equipment and Software",
+      "reports": 24311,
+      "frequency_score": 0.018,
+      "severity_score": 0.0,
+      "growth_score": 0.3418,
+      "danger_index": 0.0756,
+      "rank": 19,
+      "has_loss_data": true
+    },
+    {
+      "category": "Charitable Solicitations",
+      "reports": 11019,
+      "frequency_score": 0.0081,
+      "severity_score": 0.0,
+      "growth_score": 0.3399,
+      "danger_index": 0.0712,
+      "rank": 20,
+      "has_loss_data": false
+    },
+    {
+      "category": "Home Improvement, Repair, and Solar",
+      "reports": 81925,
+      "frequency_score": 0.0605,
+      "severity_score": 0.0,
+      "growth_score": 0.2225,
+      "danger_index": 0.0687,
+      "rank": 21,
+      "has_loss_data": true
+    },
+    {
+      "category": "Television and Electronic Media",
+      "reports": 33360,
+      "frequency_score": 0.0247,
+      "severity_score": 0.0,
+      "growth_score": 0.2247,
+      "danger_index": 0.0548,
+      "rank": 22,
+      "has_loss_data": true
+    },
+    {
+      "category": "Grants",
+      "reports": 2229,
+      "frequency_score": 0.0016,
+      "severity_score": 0.0,
+      "growth_score": 0.2326,
+      "danger_index": 0.0472,
+      "rank": 23,
+      "has_loss_data": false
+    },
+    {
+      "category": "Advance Payments for Credit Services",
+      "reports": 27557,
+      "frequency_score": 0.0204,
+      "severity_score": 0.0,
+      "growth_score": 0.184,
+      "danger_index": 0.045,
+      "rank": 24,
+      "has_loss_data": false
+    },
+    {
+      "category": "Magazines and Books",
+      "reports": 5435,
+      "frequency_score": 0.004,
+      "severity_score": 0.0,
+      "growth_score": 0.1906,
+      "danger_index": 0.0397,
+      "rank": 25,
+      "has_loss_data": false
+    },
+    {
+      "category": "Office Supplies and Services",
+      "reports": 3525,
+      "frequency_score": 0.0026,
+      "severity_score": 0.0,
+      "growth_score": 0.1849,
+      "danger_index": 0.038,
+      "rank": 26,
+      "has_loss_data": false
+    },
+    {
+      "category": "Funeral Services",
+      "reports": 1233,
+      "frequency_score": 0.0009,
+      "severity_score": 0.0,
+      "growth_score": 0.1656,
+      "danger_index": 0.0335,
+      "rank": 27,
+      "has_loss_data": false
+    },
+    {
+      "category": "Tax Preparers",
+      "reports": 5317,
+      "frequency_score": 0.0039,
+      "severity_score": 0.0,
+      "growth_score": 0.0821,
+      "danger_index": 0.018,
+      "rank": 28,
+      "has_loss_data": false
+    },
+    {
+      "category": "Foreign Money Offers and Fake Check Scams",
+      "reports": 18663,
+      "frequency_score": 0.0138,
+      "severity_score": 0.0,
+      "growth_score": 0.0,
+      "danger_index": 0.0055,
+      "rank": 29,
+      "has_loss_data": false
+    }
+  ]
+}

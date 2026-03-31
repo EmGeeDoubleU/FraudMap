@@ -1,0 +1,176 @@
+[
+  {
+    "category": "Credit Bureaus and Information Furnishers",
+    "reports": 1353175,
+    "pct": 20.91,
+    "rank": 1
+  },
+  {
+    "category": "Identity Theft",
+    "reports": 1135291,
+    "pct": 17.54,
+    "rank": 2
+  },
+  {
+    "category": "Imposter Scams",
+    "reports": 845806,
+    "pct": 13.07,
+    "rank": 3
+  },
+  {
+    "category": "Online Shopping and Negative Reviews",
+    "reports": 384946,
+    "pct": 5.95,
+    "rank": 4
+  },
+  {
+    "category": "Banks and Lenders",
+    "reports": 351543,
+    "pct": 5.43,
+    "rank": 5
+  },
+  {
+    "category": "Debt Collection",
+    "reports": 218736,
+    "pct": 3.38,
+    "rank": 6
+  },
+  {
+    "category": "Auto Related",
+    "reports": 197015,
+    "pct": 3.04,
+    "rank": 7
+  },
+  {
+    "category": "Internet Services",
+    "reports": 151412,
+    "pct": 2.34,
+    "rank": 8
+  },
+  {
+    "category": "Business and Job Opportunities",
+    "reports": 130075,
+    "pct": 2.01,
+    "rank": 9
+  },
+  {
+    "category": "Credit Cards",
+    "reports": 126368,
+    "pct": 1.95,
+    "rank": 10
+  },
+  {
+    "category": "Investment Related",
+    "reports": 118960,
+    "pct": 1.84,
+    "rank": 11
+  },
+  {
+    "category": "Health Care",
+    "reports": 115473,
+    "pct": 1.78,
+    "rank": 12
+  },
+  {
+    "category": "Privacy, Data Security, and Cyber Threats",
+    "reports": 111024,
+    "pct": 1.72,
+    "rank": 13
+  },
+  {
+    "category": "Prizes, Sweepstakes and Lotteries",
+    "reports": 97350,
+    "pct": 1.5,
+    "rank": 14
+  },
+  {
+    "category": "Telephone and Mobile Services",
+    "reports": 92520,
+    "pct": 1.43,
+    "rank": 15
+  },
+  {
+    "category": "Home Improvement, Repair, and Solar",
+    "reports": 81925,
+    "pct": 1.27,
+    "rank": 16
+  },
+  {
+    "category": "Travel, Vacations and Timeshare Plans",
+    "reports": 58347,
+    "pct": 0.9,
+    "rank": 17
+  },
+  {
+    "category": "Mortgage Foreclosure Relief and Debt Management",
+    "reports": 34159,
+    "pct": 0.53,
+    "rank": 18
+  },
+  {
+    "category": "Television and Electronic Media",
+    "reports": 33360,
+    "pct": 0.52,
+    "rank": 19
+  },
+  {
+    "category": "Advance Payments for Credit Services",
+    "reports": 27557,
+    "pct": 0.43,
+    "rank": 20
+  },
+  {
+    "category": "Education",
+    "reports": 25813,
+    "pct": 0.4,
+    "rank": 21
+  },
+  {
+    "category": "Computer Equipment and Software",
+    "reports": 24311,
+    "pct": 0.38,
+    "rank": 22
+  },
+  {
+    "category": "Foreign Money Offers and Fake Check Scams",
+    "reports": 18663,
+    "pct": 0.29,
+    "rank": 23
+  },
+  {
+    "category": "Charitable Solicitations",
+    "reports": 11019,
+    "pct": 0.17,
+    "rank": 24
+  },
+  {
+    "category": "Magazines and Books",
+    "reports": 5435,
+    "pct": 0.08,
+    "rank": 25
+  },
+  {
+    "category": "Tax Preparers",
+    "reports": 5317,
+    "pct": 0.08,
+    "rank": 26
+  },
+  {
+    "category": "Office Supplies and Services",
+    "reports": 3525,
+    "pct": 0.05,
+    "rank": 27
+  },
+  {
+    "category": "Grants",
+    "reports": 2229,
+    "pct": 0.03,
+    "rank": 28
+  },
+  {
+    "category": "Funeral Services",
+    "reports": 1233,
+    "pct": 0.02,
+    "rank": 29
+  }
+]

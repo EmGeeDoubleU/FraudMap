@@ -1,0 +1,72 @@
+[
+  {
+    "method": "Bank Transfer or Payment",
+    "reports": 47336,
+    "total_loss": 2089000000.0,
+    "pct_of_total_loss": 38.44,
+    "avg_loss_per_report": 44131.32
+  },
+  {
+    "method": "Cryptocurrency",
+    "reports": 46899,
+    "total_loss": 1417000000.0,
+    "pct_of_total_loss": 26.07,
+    "avg_loss_per_report": 30213.86
+  },
+  {
+    "method": "Payment App or Service",
+    "reports": 90571,
+    "total_loss": 391000000.0,
+    "pct_of_total_loss": 7.19,
+    "avg_loss_per_report": 4317.06
+  },
+  {
+    "method": "Cash",
+    "reports": 13609,
+    "total_loss": 308000000.0,
+    "pct_of_total_loss": 5.67,
+    "avg_loss_per_report": 22632.08
+  },
+  {
+    "method": "Wire Transfer",
+    "reports": 40448,
+    "total_loss": 287000000.0,
+    "pct_of_total_loss": 5.28,
+    "avg_loss_per_report": 7095.53
+  },
+  {
+    "method": "Credit Cards",
+    "reports": 108881,
+    "total_loss": 275000000.0,
+    "pct_of_total_loss": 5.06,
+    "avg_loss_per_report": 2525.69
+  },
+  {
+    "method": "Check",
+    "reports": 8098,
+    "total_loss": 225000000.0,
+    "pct_of_total_loss": 4.14,
+    "avg_loss_per_report": 27784.64
+  },
+  {
+    "method": "Gift Card or Reload Card",
+    "reports": 41120,
+    "total_loss": 212000000.0,
+    "pct_of_total_loss": 3.9,
+    "avg_loss_per_report": 5155.64
+  },
+  {
+    "method": "Debit Card",
+    "reports": 76285,
+    "total_loss": 180000000.0,
+    "pct_of_total_loss": 3.31,
+    "avg_loss_per_report": 2359.57
+  },
+  {
+    "method": "Money Order",
+    "reports": 2658,
+    "total_loss": 51000000.0,
+    "pct_of_total_loss": 0.94,
+    "avg_loss_per_report": 19187.36
+  }
+]

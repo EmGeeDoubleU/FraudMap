@@ -1,0 +1,75 @@
+{
+  "id": "per_capita_insights",
+  "section": "geography",
+  "type": "insight_block",
+  "priority": 1,
+  "headline": "The Raw Numbers Mislead",
+  "subhead": "Population-adjusted data reveals different fraud hotspots",
+  "key_insight": "California leads in total reports because it's the largest state. Adjusted for population, DC, Nevada, Delaware, and Arizona have the highest fraud rates.",
+  "surprises": [
+    {
+      "finding": "DC has 2x California's fraud rate",
+      "detail": "District of Columbia: 1,054 reports per 100K vs California: 608 per 100K",
+      "dc_reports_per_100k": 1053.9,
+      "california_reports_per_100k": 608.15,
+      "ratio": 1.73
+    },
+    {
+      "finding": "Arizona leads in loss per capita, not California",
+      "detail": "Arizona: $4.63M per 100K population vs California: $4.28M per 100K",
+      "arizona_loss_per_100k": 4633611.09,
+      "california_loss_per_100k": 4276871.67
+    },
+    {
+      "finding": "Texas drops from #2 to #33 when adjusted for population",
+      "detail": "Texas has a lot of fraud because Texas is big, not because Texas is especially targeted",
+      "texas_rank_raw": 2,
+      "texas_rank_per_capita": 33,
+      "texas_reports_per_100k": 546.92
+    },
+    {
+      "finding": "Small states punch above their weight",
+      "detail": "Delaware (#4), Nevada (#2), and New Hampshire (#12) all rank higher per capita than their raw numbers suggest",
+      "delaware_rank_raw": 43,
+      "delaware_rank_per_capita": 4,
+      "nevada_rank_raw": 26,
+      "nevada_rank_per_capita": 2
+    }
+  ],
+  "top_10_per_capita_reports": [
+    { "rank": 1, "state": "District of Columbia", "reports_per_100k": 1053.9, "raw_rank": 44 },
+    { "rank": 2, "state": "Nevada", "reports_per_100k": 793.54, "raw_rank": 26 },
+    { "rank": 3, "state": "Colorado", "reports_per_100k": 773.32, "raw_rank": 15 },
+    { "rank": 4, "state": "Delaware", "reports_per_100k": 749.6, "raw_rank": 43 },
+    { "rank": 5, "state": "Arizona", "reports_per_100k": 748.15, "raw_rank": 13 },
+    { "rank": 6, "state": "Washington", "reports_per_100k": 728.07, "raw_rank": 11 },
+    { "rank": 7, "state": "Florida", "reports_per_100k": 726.48, "raw_rank": 3 },
+    { "rank": 8, "state": "Maryland", "reports_per_100k": 710.84, "raw_rank": 16 },
+    { "rank": 9, "state": "Utah", "reports_per_100k": 685.98, "raw_rank": 30 },
+    { "rank": 10, "state": "Alaska", "reports_per_100k": 670.1, "raw_rank": 47 }
+  ],
+  "top_10_per_capita_loss": [
+    { "rank": 1, "state": "Arizona", "loss_per_100k": 4633611.09, "raw_rank": 13 },
+    { "rank": 2, "state": "District of Columbia", "loss_per_100k": 4522793.5, "raw_rank": 44 },
+    { "rank": 3, "state": "Nevada", "loss_per_100k": 4405232.96, "raw_rank": 26 },
+    { "rank": 4, "state": "California", "loss_per_100k": 4276871.67, "raw_rank": 1 },
+    { "rank": 5, "state": "Hawaii", "loss_per_100k": 4262180.77, "raw_rank": 40 },
+    { "rank": 6, "state": "Florida", "loss_per_100k": 3949512.83, "raw_rank": 3 },
+    { "rank": 7, "state": "Washington", "loss_per_100k": 3839436.79, "raw_rank": 11 },
+    { "rank": 8, "state": "Alaska", "loss_per_100k": 3671803.83, "raw_rank": 47 },
+    { "rank": 9, "state": "Colorado", "loss_per_100k": 3625748.23, "raw_rank": 15 },
+    { "rank": 10, "state": "Wyoming", "loss_per_100k": 3466551.04, "raw_rank": 50 }
+  ],
+  "interpretation": {
+    "dc_theory": "High per-capita rate may reflect higher reporting rates in urban, educated population rather than higher actual fraud rates. Alternatively, government employees and contractors may be targeted more frequently.",
+    "sunbelt_pattern": "Arizona, Nevada, Florida, and Hawaii all rank high in per-capita loss. Retiree populations with larger nest eggs may explain severity.",
+    "texas_california_contrast": "California ranks high on both raw and per-capita measures. Texas drops significantly, suggesting its raw numbers are primarily a population effect."
+  },
+  "display_hints": {
+    "primary_visual": "two_column_comparison_map",
+    "left_map": "raw_reports_choropleth",
+    "right_map": "per_capita_choropleth",
+    "highlight_states": ["DC", "AZ", "TX", "CA"],
+    "style": "insight_reveal"
+  }
+}

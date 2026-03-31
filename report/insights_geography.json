@@ -1,0 +1,72 @@
+{
+  "section": "Geography",
+  "insights": [
+    {
+      "title": "Volume Leaders: CA, TX, FL Account for 28% of Reports",
+      "statement": "California (238,705), Texas (162,101), and Florida (159,307) lead in raw fraud report volume. Together they account for 28.2% of all state-level fraud reports.",
+      "metric": "28.2% from 3 states",
+      "supporting_data": [
+        {
+          "state": "California",
+          "reports": 238705
+        },
+        {
+          "state": "Texas",
+          "reports": 162101
+        },
+        {
+          "state": "Florida",
+          "reports": 159307
+        }
+      ]
+    },
+    {
+      "title": "Per Capita Tells a Different Story",
+      "statement": "When normalized by population, District of Columbia (1053.9 per 100K), Nevada (774.66), and Colorado (773.32) have the highest fraud rates. Largest ≠ highest risk.",
+      "metric": "1053.9 per 100K (District of Columbia)",
+      "supporting_data": [
+        {
+          "state": "District of Columbia",
+          "per_100k": 1053.9
+        },
+        {
+          "state": "Nevada",
+          "per_100k": 774.66
+        },
+        {
+          "state": "Colorado",
+          "per_100k": 773.32
+        }
+      ]
+    },
+    {
+      "title": "Loss Density Peaks in Unexpected States",
+      "statement": "Arizona leads in loss per 100K population ($4,633,611), followed by District of Columbia and Nevada. High-loss-density states don't always overlap with high-volume states.",
+      "metric": "$4,633,611 loss per 100K (Arizona)",
+      "supporting_data": [
+        {
+          "state": "Arizona",
+          "loss_per_100k": 4633611.09
+        },
+        {
+          "state": "District of Columbia",
+          "loss_per_100k": 4522793.5
+        },
+        {
+          "state": "Nevada",
+          "loss_per_100k": 4410827.07
+        }
+      ]
+    },
+    {
+      "title": "Florida Metros Dominate Per-Capita Rankings",
+      "statement": "Miami (2,793 per 100K), Sebastian-Vero Beach (2,612), and Orlando (2,330) — all Florida metros — occupy 3 of the top 5 per-capita MSA positions. Florida's fraud concentration extends beyond its state-level ranking.",
+      "metric": "3 of top 5 MSAs are in Florida",
+      "supporting_data": {
+        "miami": 2793,
+        "sebastian": 2612,
+        "orlando": 2330
+      }
+    }
+  ]
+}

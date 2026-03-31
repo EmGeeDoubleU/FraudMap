@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Alabama",
+    "lat": 32.806671,
+    "lng": -86.79113,
+    "reports": 26049,
+    "pctReportingLoss": 39,
+    "totalLoss": 104201969,
+    "medianLoss": 400
+  },
+  {
+    "name": "Alaska",
+    "lat": 61.370716,
+    "lng": -152.404419,
+    "reports": 4917,
+    "pctReportingLoss": 39,
+    "totalLoss": 26942595,
+    "medianLoss": 525
+  },
+  {
+    "name": "Arizona",
+    "lat": 33.729759,
+    "lng": -111.431221,
+    "reports": 54367,
+    "pctReportingLoss": 41,
+    "totalLoss": 336716502,
+    "medianLoss": 600
+  },
+  {
+    "name": "Arkansas",
+    "lat": 34.969704,
+    "lng": -92.373123,
+    "reports": 14393,
+    "pctReportingLoss": 40,
+    "totalLoss": 52115298,
+    "medianLoss": 375
+  },
+  {
+    "name": "California",
+    "lat": 36.116203,
+    "lng": -119.681564,
+    "reports": 238705,
+    "pctReportingLoss": 40,
+    "totalLoss": 1678703608,
+    "medianLoss": 542
+  },
+  {
+    "name": "Colorado",
+    "lat": 39.059811,
+    "lng": -105.311104,
+    "reports": 44945,
+    "pctReportingLoss": 38,
+    "totalLoss": 210727907,
+    "medianLoss": 500
+  },
+  {
+    "name": "Connecticut",
+    "lat": 41.597782,
+    "lng": -72.755371,
+    "reports": 20825,
+    "pctReportingLoss": 41,
+    "totalLoss": 90349831,
+    "medianLoss": 432
+  },
+  {
+    "name": "Delaware",
+    "lat": 39.318523,
+    "lng": -75.507141,
+    "reports": 7540,
+    "pctReportingLoss": 39,
+    "totalLoss": 34282919,
+    "medianLoss": 466
+  },
+  {
+    "name": "District of Columbia",
+    "lat": 38.8964,
+    "lng": -77.0262,
+    "reports": 7082,
+    "pctReportingLoss": 36,
+    "totalLoss": 30392313,
+    "medianLoss": 448
+  },
+  {
+    "name": "Florida",
+    "lat": 27.766279,
+    "lng": -81.686783,
+    "reports": 159307,
+    "pctReportingLoss": 41,
+    "totalLoss": 866069909,
+    "medianLoss": 520
+  },
+  {
+    "name": "Georgia",
+    "lat": 33.040619,
+    "lng": -83.643074,
+    "reports": 67703,
+    "pctReportingLoss": 39,
+    "totalLoss": 291260795,
+    "medianLoss": 450
+  },
+  {
+    "name": "Hawaii",
+    "lat": 21.094318,
+    "lng": -157.498337,
+    "reports": 8832,
+    "pctReportingLoss": 39,
+    "totalLoss": 61597207,
+    "medianLoss": 600
+  },
+  {
+    "name": "Idaho",
+    "lat": 44.240459,
+    "lng": -114.478828,
+    "reports": 10359,
+    "pctReportingLoss": 41,
+    "totalLoss": 53935183,
+    "medianLoss": 490
+  },
+  {
+    "name": "Illinois",
+    "lat": 40.349457,
+    "lng": -88.986137,
+    "reports": 71060,
+    "pctReportingLoss": 41,
+    "totalLoss": 318113996,
+    "medianLoss": 400
+  },
+  {
+    "name": "Indiana",
+    "lat": 39.849426,
+    "lng": -86.258278,
+    "reports": 34586,
+    "pctReportingLoss": 38,
+    "totalLoss": 112284529,
+    "medianLoss": 375
+  },
+  {
+    "name": "Iowa",
+    "lat": 42.011539,
+    "lng": -93.210526,
+    "reports": 13975,
+    "pctReportingLoss": 39,
+    "totalLoss": 51955685,
+    "medianLoss": 400
+  },
+  {
+    "name": "Kansas",
+    "lat": 38.5266,
+    "lng": -96.726486,
+    "reports": 14747,
+    "pctReportingLoss": 39,
+    "totalLoss": 57590798,
+    "medianLoss": 402
+  },
+  {
+    "name": "Kentucky",
+    "lat": 37.66814,
+    "lng": -84.670067,
+    "reports": 22129,
+    "pctReportingLoss": 40,
+    "totalLoss": 70763918,
+    "medianLoss": 349
+  },
+  {
+    "name": "Louisiana",
+    "lat": 31.169546,
+    "lng": -91.867805,
+    "reports": 20534,
+    "pctReportingLoss": 39,
+    "totalLoss": 89368368,
+    "medianLoss": 425
+  },
+  {
+    "name": "Maine",
+    "lat": 44.693947,
+    "lng": -69.381927,
+    "reports": 7675,
+    "pctReportingLoss": 40,
+    "totalLoss": 29251463,
+    "medianLoss": 350
+  },
+  {
+    "name": "Maryland",
+    "lat": 39.063946,
+    "lng": -76.802101,
+    "reports": 43876,
+    "pctReportingLoss": 38,
+    "totalLoss": 198919905,
+    "medianLoss": 435
+  },
+  {
+    "name": "Massachusetts",
+    "lat": 42.230171,
+    "lng": -71.530106,
+    "reports": 40845,
+    "pctReportingLoss": 40,
+    "totalLoss": 210339833,
+    "medianLoss": 425
+  },
+  {
+    "name": "Michigan",
+    "lat": 43.326618,
+    "lng": -84.536095,
+    "reports": 53351,
+    "pctReportingLoss": 39,
+    "totalLoss": 204033291,
+    "medianLoss": 350
+  },
+  {
+    "name": "Minnesota",
+    "lat": 45.694454,
+    "lng": -93.900192,
+    "reports": 31081,
+    "pctReportingLoss": 38,
+    "totalLoss": 144567540,
+    "medianLoss": 412
+  },
+  {
+    "name": "Mississippi",
+    "lat": 32.741646,
+    "lng": -89.678696,
+    "reports": 12911,
+    "pctReportingLoss": 39,
+    "totalLoss": 44397299,
+    "medianLoss": 353
+  },
+  {
+    "name": "Missouri",
+    "lat": 38.456085,
+    "lng": -92.288368,
+    "reports": 35317,
+    "pctReportingLoss": 39,
+    "totalLoss": 139349918,
+    "medianLoss": 400
+  },
+  {
+    "name": "Montana",
+    "lat": 46.921925,
+    "lng": -110.454353,
+    "reports": 6569,
+    "pctReportingLoss": 39,
+    "totalLoss": 22546556,
+    "medianLoss": 459
+  },
+  {
+    "name": "Nebraska",
+    "lat": 41.12537,
+    "lng": -98.268082,
+    "reports": 9655,
+    "pctReportingLoss": 38,
+    "totalLoss": 41875694,
+    "medianLoss": 400
+  },
+  {
+    "name": "Nevada",
+    "lat": 38.313515,
+    "lng": -117.055374,
+    "reports": 24331,
+    "pctReportingLoss": 42,
+    "totalLoss": 138538256,
+    "medianLoss": 519
+  },
+  {
+    "name": "New Hampshire",
+    "lat": 43.452492,
+    "lng": -71.563896,
+    "reports": 8838,
+    "pctReportingLoss": 39,
+    "totalLoss": 34625261,
+    "medianLoss": 325
+  },
+  {
+    "name": "New Jersey",
+    "lat": 40.298904,
+    "lng": -74.521011,
+    "reports": 55969,
+    "pctReportingLoss": 40,
+    "totalLoss": 314439857,
+    "medianLoss": 500
+  },
+  {
+    "name": "New Mexico",
+    "lat": 34.840515,
+    "lng": -106.248482,
+    "reports": 12694,
+    "pctReportingLoss": 38,
+    "totalLoss": 56598540,
+    "medianLoss": 500
+  },
+  {
+    "name": "New York",
+    "lat": 42.165726,
+    "lng": -74.948051,
+    "reports": 118933,
+    "pctReportingLoss": 40,
+    "totalLoss": 533979898,
+    "medianLoss": 429
+  },
+  {
+    "name": "North Carolina",
+    "lat": 35.630066,
+    "lng": -79.806419,
+    "reports": 63176,
+    "pctReportingLoss": 40,
+    "totalLoss": 276797227,
+    "medianLoss": 407
+  },
+  {
+    "name": "North Dakota",
+    "lat": 47.528912,
+    "lng": -99.784012,
+    "reports": 3127,
+    "pctReportingLoss": 42,
+    "totalLoss": 14369138,
+    "medianLoss": 479
+  },
+  {
+    "name": "Ohio",
+    "lat": 40.388783,
+    "lng": -82.764915,
+    "reports": 63367,
+    "pctReportingLoss": 38,
+    "totalLoss": 226195712,
+    "medianLoss": 350
+  },
+  {
+    "name": "Oklahoma",
+    "lat": 35.565342,
+    "lng": -96.928917,
+    "reports": 19331,
+    "pctReportingLoss": 40,
+    "totalLoss": 72729698,
+    "medianLoss": 432
+  },
+  {
+    "name": "Oregon",
+    "lat": 44.572021,
+    "lng": -122.070938,
+    "reports": 30013,
+    "pctReportingLoss": 37,
+    "totalLoss": 123704947,
+    "medianLoss": 400
+  },
+  {
+    "name": "Pennsylvania",
+    "lat": 40.590752,
+    "lng": -77.209755,
+    "reports": 74926,
+    "pctReportingLoss": 40,
+    "totalLoss": 285404657,
+    "medianLoss": 350
+  },
+  {
+    "name": "Puerto Rico",
+    "lat": 18.2208,
+    "lng": -66.5901,
+    "reports": 2759,
+    "pctReportingLoss": 50,
+    "totalLoss": 14458031,
+    "medianLoss": 609
+  },
+  {
+    "name": "Rhode Island",
+    "lat": 41.680893,
+    "lng": -71.51178,
+    "reports": 5948,
+    "pctReportingLoss": 42,
+    "totalLoss": 20655420,
+    "medianLoss": 350
+  },
+  {
+    "name": "South Carolina",
+    "lat": 33.856892,
+    "lng": -80.945007,
+    "reports": 31929,
+    "pctReportingLoss": 40,
+    "totalLoss": 137049006,
+    "medianLoss": 450
+  },
+  {
+    "name": "South Dakota",
+    "lat": 44.299782,
+    "lng": -99.438828,
+    "reports": 3880,
+    "pctReportingLoss": 42,
+    "totalLoss": 20431576,
+    "medianLoss": 400
+  },
+  {
+    "name": "Tennessee",
+    "lat": 35.747845,
+    "lng": -86.692345,
+    "reports": 39942,
+    "pctReportingLoss": 39,
+    "totalLoss": 157176393,
+    "medianLoss": 400
+  },
+  {
+    "name": "Texas",
+    "lat": 31.054487,
+    "lng": -97.563461,
+    "reports": 162101,
+    "pctReportingLoss": 41,
+    "totalLoss": 897890888,
+    "medianLoss": 500
+  },
+  {
+    "name": "Utah",
+    "lat": 40.150032,
+    "lng": -111.862434,
+    "reports": 19493,
+    "pctReportingLoss": 40,
+    "totalLoss": 113094286,
+    "medianLoss": 550
+  },
+  {
+    "name": "Vermont",
+    "lat": 44.045876,
+    "lng": -72.710686,
+    "reports": 3914,
+    "pctReportingLoss": 37,
+    "totalLoss": 10552373,
+    "medianLoss": 285
+  },
+  {
+    "name": "Virginia",
+    "lat": 37.769337,
+    "lng": -78.169968,
+    "reports": 57867,
+    "pctReportingLoss": 39,
+    "totalLoss": 293690299,
+    "medianLoss": 450
+  },
+  {
+    "name": "Washington",
+    "lat": 47.400902,
+    "lng": -121.490494,
+    "reports": 56358,
+    "pctReportingLoss": 36,
+    "totalLoss": 297200858,
+    "medianLoss": 465
+  },
+  {
+    "name": "West Virginia",
+    "lat": 38.491226,
+    "lng": -80.954453,
+    "reports": 8767,
+    "pctReportingLoss": 41,
+    "totalLoss": 27018386,
+    "medianLoss": 341
+  },
+  {
+    "name": "Wisconsin",
+    "lat": 44.268543,
+    "lng": -89.616508,
+    "reports": 30287,
+    "pctReportingLoss": 40,
+    "totalLoss": 106041111,
+    "medianLoss": 357
+  },
+  {
+    "name": "Wyoming",
+    "lat": 42.755966,
+    "lng": -107.30249,
+    "reports": 3577,
+    "pctReportingLoss": 40,
+    "totalLoss": 20097503,
+    "medianLoss": 600
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "age_group": "19 and Under",
+    "reports": 30330,
+    "pct": 3.0,
+    "total_loss": 55000000.0,
+    "median_loss": 189.0,
+    "pct_reporting_loss": 51.0,
+    "loss_per_report": 1813.39
+  },
+  {
+    "age_group": "20 - 29",
+    "reports": 155346,
+    "pct": 13.0,
+    "total_loss": 430000000.0,
+    "median_loss": 417.0,
+    "pct_reporting_loss": 44.0,
+    "loss_per_report": 2768.01
+  },
+  {
+    "age_group": "30 - 39",
+    "reports": 203764,
+    "pct": 17.0,
+    "total_loss": 810000000.0,
+    "median_loss": 450.0,
+    "pct_reporting_loss": 40.0,
+    "loss_per_report": 3975.19
+  },
+  {
+    "age_group": "40 - 49",
+    "reports": 191508,
+    "pct": 16.0,
+    "total_loss": 971000000.0,
+    "median_loss": 500.0,
+    "pct_reporting_loss": 38.0,
+    "loss_per_report": 5070.28
+  },
+  {
+    "age_group": "50 - 59",
+    "reports": 175898,
+    "pct": 15.0,
+    "total_loss": 1006000000.0,
+    "median_loss": 520.0,
+    "pct_reporting_loss": 35.0,
+    "loss_per_report": 5719.22
+  },
+  {
+    "age_group": "60 - 69",
+    "reports": 208896,
+    "pct": 18.0,
+    "total_loss": 1180000000.0,
+    "median_loss": 691.0,
+    "pct_reporting_loss": 29.0,
+    "loss_per_report": 5648.74
+  },
+  {
+    "age_group": "70 - 79",
+    "reports": 159550,
+    "pct": 14.0,
+    "total_loss": 887000000.0,
+    "median_loss": 1000.0,
+    "pct_reporting_loss": 24.0,
+    "loss_per_report": 5559.39
+  },
+  {
+    "age_group": "80 and Over",
+    "reports": 51713,
+    "pct": 4.0,
+    "total_loss": 319000000.0,
+    "median_loss": 1650.0,
+    "pct_reporting_loss": 21.0,
+    "loss_per_report": 6168.66
+  }
+]

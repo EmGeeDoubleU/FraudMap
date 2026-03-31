@@ -1,0 +1,45 @@
+{
+  "section": "Concentration",
+  "insights": [
+    {
+      "title": "Category Concentration: A Power Law",
+      "statement": "The top 3 fraud categories generate 57.9% of all reports, and the top 10 capture 84.9%. The remaining 19 categories share just 15.1% of reports — over 1,000x fewer reports separate the #1 category from the #29.",
+      "metric": "Top 3 = 57.9%, Top 10 = 84.9%",
+      "supporting_data": {
+        "top_3": 57.86,
+        "top_10": 84.93,
+        "long_tail": 15.07,
+        "ratio": 1097.47
+      }
+    },
+    {
+      "title": "Metro Concentration Mirrors Population Centers",
+      "statement": "The top 10 metro areas account for 38.3% of all metropolitan fraud reports. NYC alone contributes 7.4% of national metro volume — more than the bottom 100 metros combined.",
+      "metric": "Top 10 metros = 38.3%",
+      "supporting_data": {
+        "top_10": 38.32,
+        "top_5": 23.9,
+        "nyc_pct": 7.39
+      }
+    },
+    {
+      "title": "State-Level: Five States Drive 38% of Fraud",
+      "statement": "California, Texas, Florida, New York, and Pennsylvania together produce 38% of all state fraud reports. But per-capita, smaller jurisdictions like DC, Nevada, and Delaware actually have higher fraud rates.",
+      "metric": "Top 5 states = 38%",
+      "supporting_data": {
+        "top_5": 37.99,
+        "top_10": 54.27
+      }
+    },
+    {
+      "title": "Payment Loss Concentration Is Even Steeper",
+      "statement": "Bank transfers and cryptocurrency alone account for 64.5% of all fraud dollar losses, despite representing only 20% of payment-identified reports. Loss concentration exceeds report concentration.",
+      "metric": "2 methods = 64.5% of losses",
+      "supporting_data": {
+        "bank_transfer_pct": 38.44,
+        "crypto_pct": 26.07,
+        "combined": 64.51
+      }
+    }
+  ]
+}

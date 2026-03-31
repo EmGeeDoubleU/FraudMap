@@ -1,0 +1,5 @@
+{
+  "status": "not_available",
+  "reason": "The FTC Consumer Sentinel dataset provides category reports and payment method reports as separate aggregations. There is no row-level linkage between individual report categories and payment methods used, so a true cross-tabulation cannot be computed from the published CSVs.",
+  "workaround_note": "Proportional estimation could be attempted but would be statistically unreliable. The FTC does publish some cross-cuts in their full report (e.g., top scam types by payment method) but those are not available in the CSV extracts."
+}

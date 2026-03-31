@@ -1,0 +1,53 @@
+{
+  "section": "Overview",
+  "insights": [
+    {
+      "title": "Scale of the Problem",
+      "statement": "2.6 million fraud reports and $12.5 billion in losses were recorded in 2024 — the highest annual total in the Consumer Sentinel Network's 23-year history.",
+      "metric": "6.5M total reports / $12.5B loss",
+      "supporting_data": {
+        "total_reports": 2600678,
+        "total_loss": 12537194708,
+        "all_reports": 6471708
+      }
+    },
+    {
+      "title": "The Median-Average Gap Reveals Severity Skew",
+      "statement": "The median loss is $497 but the average loss per report is $4,920 — a 9.9x gap, indicating a small number of very high-value losses pull the average far above the typical victim's experience.",
+      "metric": "$497 median vs $4,920 average",
+      "supporting_data": {
+        "median": 497,
+        "average": 4919.94,
+        "ratio": 9.9
+      }
+    },
+    {
+      "title": "Most Fraud Goes Unreported as Loss",
+      "statement": "Only 38% of fraud reports include a dollar loss. 62% of reports either involve no financial loss or the consumer did not quantify it, suggesting the $12.5B figure significantly understates true impact.",
+      "metric": "38% report a loss",
+      "supporting_data": {
+        "pct_with_loss": 38,
+        "reports_with_loss": 987520
+      }
+    },
+    {
+      "title": "Relentless 23-Year Growth Trajectory",
+      "statement": "Consumer fraud complaints have compounded at 13.9% annually since 2001, rising from 326K to 6.5M. The 2024 total represents a 16.6% year-over-year increase from 2023.",
+      "metric": "13.9% CAGR since 2001",
+      "supporting_data": {
+        "cagr": 13.88,
+        "yoy_2024": 16.63
+      }
+    },
+    {
+      "title": "Fraud Is Deeply Concentrated",
+      "statement": "3 categories hold 58% of reports. 3 payment methods hold 72% of losses. 10 metro areas hold 38% of metro volume. Fraud is not evenly distributed — it clusters sharply.",
+      "metric": "58% / 72% / 38% concentration",
+      "supporting_data": {
+        "cat_top3": 57.86,
+        "pay_top3": 71.7,
+        "msa_top10": 38.32
+      }
+    }
+  ]
+}
