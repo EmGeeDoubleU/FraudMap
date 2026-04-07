@@ -1,16 +1,11 @@
-/**
- * Side-rail dots: one anchor per vertical "beat." Each id must exist as an
- * element on its page at a distinct scroll position.
- * Dot counts: Overview 0, How 4, Where 3, Who 3, Geography 4, Trends 2, Methodology 2.
- */
-export const REPORT_ROUTES = [
+export const FRAUD_ROUTES = [
   {
-    path: '/',
+    path: '/fraud',
     label: 'Overview',
     subsections: [],
   },
   {
-    path: '/how-fraud-happens',
+    path: '/fraud/how-fraud-happens',
     label: 'How It Happens',
     subsections: [
       { id: 'how-lead', label: 'Conversion' },
@@ -20,7 +15,7 @@ export const REPORT_ROUTES = [
     ],
   },
   {
-    path: '/where-money-goes',
+    path: '/fraud/where-money-goes',
     label: 'Where Money Goes',
     subsections: [
       { id: 'where-lead', label: 'Severity' },
@@ -29,7 +24,7 @@ export const REPORT_ROUTES = [
     ],
   },
   {
-    path: '/who-gets-hurt',
+    path: '/fraud/who-gets-hurt',
     label: 'Who Gets Hurt',
     subsections: [
       { id: 'who-intro', label: 'Overview' },
@@ -38,7 +33,7 @@ export const REPORT_ROUTES = [
     ],
   },
   {
-    path: '/geography',
+    path: '/fraud/geography',
     label: 'Geography',
     subsections: [
       { id: 'geo-maps', label: 'Maps' },
@@ -48,7 +43,7 @@ export const REPORT_ROUTES = [
     ],
   },
   {
-    path: '/trends',
+    path: '/fraud/trends',
     label: 'Trends',
     subsections: [
       { id: 'trends-lead', label: 'Long view' },
@@ -56,7 +51,7 @@ export const REPORT_ROUTES = [
     ],
   },
   {
-    path: '/methodology',
+    path: '/fraud/methodology',
     label: 'Methodology',
     subsections: [
       { id: 'method-scope', label: 'Scope & limits' },
@@ -65,9 +60,63 @@ export const REPORT_ROUTES = [
   },
 ];
 
-export function getRouteByPath(pathname) {
+export const COMPLAINTS_ROUTES = [
+  {
+    path: '/complaints',
+    label: 'Overview',
+    subsections: [],
+  },
+  {
+    path: '/complaints/flood',
+    label: 'The Flood',
+    subsections: [
+      { id: 'flood-trend', label: 'Volume trend' },
+      { id: 'flood-products', label: 'Products' },
+      { id: 'flood-geo', label: 'Geography' },
+      { id: 'flood-gaming', label: 'Why exploding' },
+    ],
+  },
+  {
+    path: '/complaints/denials',
+    label: 'The Denials',
+    subsections: [
+      { id: 'denials-growth', label: 'Growth rates' },
+      { id: 'denials-outcomes', label: 'Response outcomes' },
+      { id: 'denials-authorized', label: 'Authorized defense' },
+      { id: 'denials-checking', label: 'Checking issues' },
+    ],
+  },
+  {
+    path: '/complaints/corrections',
+    label: 'The Corrections',
+    subsections: [
+      { id: 'corrections-outcomes', label: 'Response outcomes' },
+      { id: 'corrections-issues', label: 'Top issues' },
+      { id: 'corrections-growth', label: 'Issue growth' },
+      { id: 'corrections-furnisher', label: 'Furnisher problem' },
+    ],
+  },
+  {
+    path: '/complaints/methodology',
+    label: 'Methodology',
+    subsections: [
+      { id: 'method-scope', label: 'Scope & limits' },
+      { id: 'method-detail', label: 'Terms' },
+    ],
+  },
+];
+
+// Legacy alias — kept for backward compat if anything references it
+export const REPORT_ROUTES = FRAUD_ROUTES;
+
+export function getRoutesForReport(reportKey) {
+  return reportKey === 'complaints' ? COMPLAINTS_ROUTES : FRAUD_ROUTES;
+}
+
+export function getRouteByPath(pathname, reportKey) {
+  const routes = getRoutesForReport(reportKey);
   const normalized = pathname === '/' ? '/' : pathname.replace(/\/$/, '') || '/';
-  return REPORT_ROUTES.find((r) => r.path === normalized) ?? REPORT_ROUTES[0];
+  return routes.find((r) => r.path === normalized) ?? routes[0];
 }
 
 export const CHART_COLORS = {

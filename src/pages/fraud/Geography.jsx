@@ -1,12 +1,12 @@
 import { useMemo } from 'react';
-import { useData } from '../hooks/useData';
-import PageContainer from '../components/Layout/PageContainer';
-import InsightHeadline from '../components/Blocks/InsightHeadline';
-import GeoInsightCard from '../components/Blocks/GeoInsightCard';
-import ScrollReveal from '../components/common/ScrollReveal';
-import DualMapComparison from '../components/Maps/DualMapComparison';
-import NextSection from '../components/common/NextSection';
-import { formatNumber } from '../utils/formatters';
+import { useData } from '../../hooks/useData';
+import PageContainer from '../../components/Layout/PageContainer';
+import InsightHeadline from '../../components/Blocks/InsightHeadline';
+import GeoInsightCard from '../../components/Blocks/GeoInsightCard';
+import ScrollReveal from '../../components/common/ScrollReveal';
+import DualMapComparison from '../../components/Maps/DualMapComparison';
+import NextSection from '../../components/common/NextSection';
+import { formatNumber } from '../../utils/formatters';
 
 export default function Geography() {
   const { data: geoData } = useData('geography_state_per_capita.json');
@@ -167,7 +167,7 @@ export default function Geography() {
           </div>
         </ScrollReveal>
 
-        <NextSection label="Trends" to="/trends" />
+        <NextSection label="Trends" to="/fraud/trends" />
       </div>
     </PageContainer>
   );

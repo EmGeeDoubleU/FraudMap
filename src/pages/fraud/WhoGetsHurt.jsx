@@ -1,12 +1,12 @@
 import { useMemo } from 'react';
-import { useData } from '../hooks/useData';
-import PageContainer from '../components/Layout/PageContainer';
-import InsightHeadline from '../components/Blocks/InsightHeadline';
-import Callout from '../components/Blocks/Callout';
-import ScrollReveal from '../components/common/ScrollReveal';
-import SimpleBar from '../components/Charts/SimpleBar';
-import NextSection from '../components/common/NextSection';
-import { formatCurrency, formatNumber } from '../utils/formatters';
+import { useData } from '../../hooks/useData';
+import PageContainer from '../../components/Layout/PageContainer';
+import InsightHeadline from '../../components/Blocks/InsightHeadline';
+import Callout from '../../components/Blocks/Callout';
+import ScrollReveal from '../../components/common/ScrollReveal';
+import SimpleBar from '../../components/Charts/SimpleBar';
+import NextSection from '../../components/common/NextSection';
+import { formatCurrency, formatNumber } from '../../utils/formatters';
 
 export default function WhoGetsHurt() {
   const { data: demographics } = useData('demographics_age.json');
@@ -123,7 +123,7 @@ export default function WhoGetsHurt() {
           </div>
         </ScrollReveal>
 
-        <NextSection label="Geography" to="/geography" />
+        <NextSection label="Geography" to="/fraud/geography" />
       </div>
     </PageContainer>
   );

@@ -1,0 +1,61 @@
+{
+  "source": "CFPB Consumer Response Annual Report 2025, Section 4.1 and Section 5, Pages 18, 75",
+  
+  "complaint_explosion_factors": {
+    "credit_repair_organizations": {
+      "description": "Credit repair orgs misusing the complaint process",
+      "source_quote": "credit repair organizations and those who offer credit advice online"
+    },
+    "finfluencers": {
+      "description": "Social media influencers promoting complaint filing",
+      "platforms": ["TikTok (FinTok)", "social media generally"],
+      "source_quote": "so called 'finfluencers' or 'FinTok'"
+    },
+    "ai_agents": {
+      "description": "Large language models and autonomous software flooding system",
+      "source_quote": "large language models and autonomous software systems ('AI Agents') only further complicate this area and create greater demands on government and companies generally",
+      "impact": "empower bad actors to flood the system with duplicative and spurious submissions"
+    },
+    "behavioral_changes": {
+      "multiple_complaints_per_session": true,
+      "consumers_returning_repeatedly": true,
+      "increased_consumers_entering_process": true
+    }
+  },
+  
+  "administrative_response_details": {
+    "total_admin_responses_2025": 540800,
+    "reasons": {
+      "suspected_fraud_by_consumer": {
+        "count": 469800,
+        "note": "One nationwide CRA accounted for more than 90% of these"
+      },
+      "duplicate_complaint": {
+        "count": 302200,
+        "note": "One nationwide CRA accounted for more than 60% of these"
+      },
+      "unauthorized_third_party": {
+        "count": 63200,
+        "note": "One nationwide CRA accounted for more than 60% of these"
+      },
+      "pending_or_prior_litigation": {
+        "count": 4000
+      },
+      "business_identity_theft_or_scams": {
+        "count": 470
+      }
+    }
+  },
+  
+  "cfpb_response": {
+    "planned_reforms": [
+      "Align complaint process with FCRA statutory requirements",
+      "Direct consumers to first file disputes with CRAs before submitting to CFPB",
+      "Implement new authentication measures to root out malignant actors",
+      "Guard against those who use complaint system to circumvent FCRA dispute process"
+    ],
+    "source_quote": "No longer will the Bureau have a complaint system that undermines the statutorily established credit dispute procedures under FCRA"
+  },
+  
+  "key_insight": "AI agents and credit repair orgs are flooding the system. One CRA alone flagged 469,800 complaints as suspected consumer fraud."
+}

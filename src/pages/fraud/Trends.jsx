@@ -1,12 +1,12 @@
 import { useMemo } from 'react';
-import { useData } from '../hooks/useData';
-import PageContainer from '../components/Layout/PageContainer';
-import InsightHeadline from '../components/Blocks/InsightHeadline';
-import Callout from '../components/Blocks/Callout';
-import ScrollReveal from '../components/common/ScrollReveal';
-import ReportAreaChart from '../components/Charts/ReportAreaChart';
-import NextSection from '../components/common/NextSection';
-import { formatNumber } from '../utils/formatters';
+import { useData } from '../../hooks/useData';
+import PageContainer from '../../components/Layout/PageContainer';
+import InsightHeadline from '../../components/Blocks/InsightHeadline';
+import Callout from '../../components/Blocks/Callout';
+import ScrollReveal from '../../components/common/ScrollReveal';
+import ReportAreaChart from '../../components/Charts/ReportAreaChart';
+import NextSection from '../../components/common/NextSection';
+import { formatNumber } from '../../utils/formatters';
 
 export default function Trends() {
   const { data: trends } = useData('trends.json');
@@ -101,7 +101,7 @@ export default function Trends() {
           </div>
         </ScrollReveal>
 
-        <NextSection label="Methodology" to="/methodology" />
+        <NextSection label="Methodology" to="/fraud/methodology" />
       </div>
     </PageContainer>
   );

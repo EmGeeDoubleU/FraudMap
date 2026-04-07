@@ -1,0 +1,44 @@
+{
+  "source": "CFPB Consumer Response Annual Report 2025",
+  "source_url": "https://files.consumerfinance.gov/f/documents/cfpb_2025-cr-annual-report_2026-03.pdf",
+  "report_period": "January 1 - December 31, 2025",
+  "data_as_of": "March 2, 2026",
+  
+  "total_complaints_2025": 6635400,
+  "sent_to_companies": 5984100,
+  "sent_to_companies_pct": 90,
+  "referred_to_other_agencies_pct": 3,
+  "not_actionable_pct": 7,
+  "companies_receiving_complaints": 4000,
+  "complaints_closed_with_resolution": 5416600,
+  "administrative_responses": 540800,
+  
+  "timeliness": {
+    "sent_to_company_within_1_day_pct": 97,
+    "company_timely_response_pct": 99.6
+  },
+  
+  "year_over_year": [
+    { "year": 2019, "complaints": 352400 },
+    { "year": 2021, "complaints": 994000 },
+    { "year": 2023, "complaints": 1657600 },
+    { "year": 2024, "complaints": 3187900 },
+    { "year": 2025, "complaints": 6635400 }
+  ],
+  
+  "growth_metrics": {
+    "yoy_change_2024_to_2025": 108,
+    "yoy_change_2023_to_2024": 92,
+    "credit_reporting_increase_since_2019_pct": 3654
+  },
+  
+  "product_breakdown": [
+    { "product": "Credit or consumer reporting", "complaints": 5806800, "pct_of_total": 88 },
+    { "product": "Debt collection", "complaints": 387400, "pct_of_total": 6 },
+    { "product": "Credit card", "complaints": 114100, "pct_of_total": 2 },
+    { "product": "Checking or savings", "complaints": 104200, "pct_of_total": 2 },
+    { "product": "Money transfer, virtual currency", "complaints": 102900, "pct_of_total": 2 }
+  ],
+  
+  "key_insight": "Complaints doubled from 3.2M in 2024 to 6.6M in 2025. 88% are credit reporting."
+}

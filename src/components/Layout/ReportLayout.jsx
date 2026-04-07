@@ -3,12 +3,12 @@ import { Outlet, useLocation } from 'react-router-dom';
 import Header from './Header';
 import Footer from './Footer';
 import ScrollProgress from '../common/ScrollProgress';
-import { REPORT_ROUTES, getRouteByPath } from '../../utils/constants';
+import { getRoutesForReport, getRouteByPath } from '../../utils/constants';
 
-export default function ReportLayout() {
+export default function ReportLayout({ reportKey = 'fraud' }) {
   const location = useLocation();
-
-  const currentRoute = useMemo(() => getRouteByPath(location.pathname), [location.pathname]);
+  const routes = useMemo(() => getRoutesForReport(reportKey), [reportKey]);
+  const currentRoute = useMemo(() => getRouteByPath(location.pathname, reportKey), [location.pathname, reportKey]);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -16,7 +16,7 @@ export default function ReportLayout() {
 
   return (
     <>
-      <Header sections={REPORT_ROUTES} />
+      <Header sections={routes} reportKey={reportKey} />
       <ScrollProgress
         subsections={currentRoute.subsections}
         routePath={location.pathname}
@@ -24,7 +24,7 @@ export default function ReportLayout() {
       <main>
         <Outlet />
       </main>
-      <Footer />
+      <Footer reportKey={reportKey} />
     </>
   );
 }

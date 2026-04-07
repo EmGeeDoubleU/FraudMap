@@ -1,14 +1,14 @@
 import { useMemo } from 'react';
-import { useData } from '../hooks/useData';
-import PageContainer from '../components/Layout/PageContainer';
-import InsightHeadline from '../components/Blocks/InsightHeadline';
-import ExpandableCallout from '../components/Blocks/ExpandableCallout';
-import ScrollReveal from '../components/common/ScrollReveal';
-import HorizontalBar from '../components/Charts/HorizontalBar';
-import ReportTreemap from '../components/Charts/ReportTreemap';
-import DivergingBar from '../components/Charts/DivergingBar';
-import NextSection from '../components/common/NextSection';
-import { formatPercent, formatCurrency } from '../utils/formatters';
+import { useData } from '../../hooks/useData';
+import PageContainer from '../../components/Layout/PageContainer';
+import InsightHeadline from '../../components/Blocks/InsightHeadline';
+import ExpandableCallout from '../../components/Blocks/ExpandableCallout';
+import ScrollReveal from '../../components/common/ScrollReveal';
+import HorizontalBar from '../../components/Charts/HorizontalBar';
+import ReportTreemap from '../../components/Charts/ReportTreemap';
+import DivergingBar from '../../components/Charts/DivergingBar';
+import NextSection from '../../components/common/NextSection';
+import { formatPercent, formatCurrency } from '../../utils/formatters';
 
 export default function HowFraudHappens() {
   const { data: contact } = useData('contact_methods.json');
@@ -162,7 +162,7 @@ export default function HowFraudHappens() {
           </div>
         </ScrollReveal>
 
-        <NextSection label="Where Money Goes" to="/where-money-goes" />
+        <NextSection label="Where Money Goes" to="/fraud/where-money-goes" />
       </div>
     </PageContainer>
   );

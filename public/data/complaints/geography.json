@@ -1,0 +1,55 @@
+{
+  "source": "CFPB Consumer Response Annual Report 2025, Section 2 and Appendix Table 1, Pages 8, 76-79",
+  
+  "per_capita_rankings": {
+    "highest": [
+      { "rank": 1, "state": "Georgia" },
+      { "rank": 2, "state": "Florida" },
+      { "rank": 3, "state": "Mississippi" },
+      { "rank": 4, "state": "Alabama" },
+      { "rank": 5, "state": "Louisiana" }
+    ],
+    "lowest": [
+      { "rank": 50, "state": "Vermont" }
+    ]
+  },
+  
+  "top_states_by_volume": [
+    { "state": "Texas", "total_complaints": 975801 },
+    { "state": "Florida", "total_complaints": 968755 },
+    { "state": "California", "total_complaints": 611712 },
+    { "state": "Georgia", "total_complaints": 517731 },
+    { "state": "New York", "total_complaints": 361406 },
+    { "state": "Illinois", "total_complaints": 287288 },
+    { "state": "North Carolina", "total_complaints": 237751 },
+    { "state": "Pennsylvania", "total_complaints": 226394 },
+    { "state": "New Jersey", "total_complaints": 199727 },
+    { "state": "Maryland", "total_complaints": 164618 }
+  ],
+  
+  "special_populations": {
+    "servicemembers": {
+      "description": "Servicemembers, veterans, and military families",
+      "total_complaints": 136300,
+      "pct_of_all_complaints": 2.1,
+      "product_mix": "Mirrors general population"
+    },
+    "older_consumers": {
+      "description": "Age 62 or older (self-identified)",
+      "total_complaints": 654200,
+      "pct_of_all_complaints": 10,
+      "notes": [
+        "Slightly more likely to complain about mortgages and checking/savings",
+        "Slightly less likely to complain about credit reporting vs under-62"
+      ]
+    },
+    "us_territories": {
+      "total_complaints": 28800,
+      "pct_of_all_complaints": 0.4,
+      "includes": ["Puerto Rico", "US Virgin Islands", "Guam", "American Samoa", "Northern Mariana Islands"],
+      "product_mix": "Mirrors national"
+    }
+  },
+  
+  "key_insight": "Georgia leads per capita, but Texas and Florida lead in raw volume. Southeast states dominate per capita rankings."
+}

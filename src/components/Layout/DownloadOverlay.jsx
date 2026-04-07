@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import { DownloadContext } from '../../App';
-import PrintReport from '../../pages/PrintReport';
+import PrintReport from '../../pages/fraud/PrintReport';
 
 export default function DownloadOverlay() {
   const { downloading, onDone } = useContext(DownloadContext);

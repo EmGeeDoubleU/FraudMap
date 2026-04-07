@@ -1,9 +1,9 @@
-import { useData } from '../hooks/useData';
-import PageContainer from '../components/Layout/PageContainer';
-import StatCard from '../components/Blocks/StatCard';
-import ScrollReveal from '../components/common/ScrollReveal';
-import NextSection from '../components/common/NextSection';
-import { formatCurrency, formatMultiplier } from '../utils/formatters';
+import { useData } from '../../hooks/useData';
+import PageContainer from '../../components/Layout/PageContainer';
+import StatCard from '../../components/Blocks/StatCard';
+import ScrollReveal from '../../components/common/ScrollReveal';
+import NextSection from '../../components/common/NextSection';
+import { formatCurrency, formatMultiplier } from '../../utils/formatters';
 
 export default function ExecutiveSummary() {
   const { data: derived } = useData('derived_metrics.json');
@@ -110,7 +110,7 @@ export default function ExecutiveSummary() {
           </div>
         </ScrollReveal>
 
-        <NextSection label="How It Happens" to="/how-fraud-happens" />
+        <NextSection label="How It Happens" to="/fraud/how-fraud-happens" />
       </PageContainer>
     </>
   );

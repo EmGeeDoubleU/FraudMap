@@ -1,0 +1,58 @@
+{
+  "source": "Web search results - CFPB enforcement and regulatory signals",
+  
+  "cfpb_enforcement_actions": {
+    "zelle_lawsuit": {
+      "date": "December 2024",
+      "defendants": ["Early Warning Services", "JPMorgan Chase", "Bank of America", "Wells Fargo"],
+      "allegation": "Allowing fraud to fester on Zelle",
+      "source": "CFPB press release"
+    },
+    "cash_app_order": {
+      "date": "January 2025",
+      "defendant": "Block (Cash App operator)",
+      "penalty_total": 175000000,
+      "consumer_refunds": 120000000,
+      "civil_penalty": 55000000,
+      "violations": [
+        "Weak security protocols",
+        "Incomplete fraud investigations",
+        "Directed users to ask banks to reverse transactions, then denied those reversals",
+        "Suppressed users from seeking help to reduce costs"
+      ],
+      "source": "CFPB press release, January 16, 2025"
+    }
+  },
+  
+  "legislative_pressure": {
+    "senate_letter": {
+      "signatories": ["Senator Reed", "Senator Brown", "Senator Warren"],
+      "request": "Urge CFPB to engage in notice-and-comment rulemaking regarding what counts as an authorized or unauthorized transfer under Regulation E",
+      "context": "Consumer payment apps have exposed gaps in existing rules"
+    },
+    "digital_wallet_supervision_rule": {
+      "date": "December 10, 2024",
+      "status": "Overturned by Congress via CRA (March-April 2025)",
+      "would_have_covered": ["Google Pay", "Apple Pay", "Samsung Pay", "Venmo", "PayPal", "Cash App", "Facebook Pay"],
+      "market_share": "98% of nonbank general-use digital payment market"
+    }
+  },
+  
+  "current_legal_framework": {
+    "reg_e_authorized_transactions": {
+      "description": "EFTA does not require banks to reimburse for APP fraud since payments are technically authorized - even if obtained through deception",
+      "source": "Federal Reserve Bank of Atlanta, September 2024"
+    },
+    "bank_defense": "Banks argue consumers are responsible for ensuring legitimacy of recipients",
+    "consumer_advocate_position": "Financial institutions should take more responsibility given sophisticated nature of modern scams"
+  },
+  
+  "uk_comparison": {
+    "policy": "Mandatory reimbursement for APP fraud victims",
+    "limit": "Up to £415,000 (proposed reduction to £85,000)",
+    "effective": "October 2024 under Financial Services Markets Act 2023",
+    "relevance": "US lawmakers may look to UK model"
+  },
+  
+  "key_insight": "The 'authorized transaction' defense is under regulatory and legislative pressure. CFPB has sued Zelle and fined Cash App $175M. Senators are pushing for Reg E rulemaking."
+}

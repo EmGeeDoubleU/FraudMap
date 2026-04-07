@@ -1,13 +1,13 @@
 import { useMemo } from 'react';
-import { useData } from '../hooks/useData';
-import PageContainer from '../components/Layout/PageContainer';
-import InsightHeadline from '../components/Blocks/InsightHeadline';
-import Callout from '../components/Blocks/Callout';
-import ExpertCommentary from '../components/Blocks/ExpertCommentary';
-import ScrollReveal from '../components/common/ScrollReveal';
-import HorizontalBar from '../components/Charts/HorizontalBar';
-import NextSection from '../components/common/NextSection';
-import { formatCurrency, formatNumber, formatPercent } from '../utils/formatters';
+import { useData } from '../../hooks/useData';
+import PageContainer from '../../components/Layout/PageContainer';
+import InsightHeadline from '../../components/Blocks/InsightHeadline';
+import Callout from '../../components/Blocks/Callout';
+import ExpertCommentary from '../../components/Blocks/ExpertCommentary';
+import ScrollReveal from '../../components/common/ScrollReveal';
+import HorizontalBar from '../../components/Charts/HorizontalBar';
+import NextSection from '../../components/common/NextSection';
+import { formatCurrency, formatNumber, formatPercent } from '../../utils/formatters';
 
 export default function WhereMoneyGoes() {
   const { data: payment } = useData('loss_payment.json');
@@ -137,7 +137,7 @@ export default function WhereMoneyGoes() {
           </div>
         </ScrollReveal>
 
-        <NextSection label="Who Gets Hurt" to="/who-gets-hurt" />
+        <NextSection label="Who Gets Hurt" to="/fraud/who-gets-hurt" />
       </div>
     </PageContainer>
   );

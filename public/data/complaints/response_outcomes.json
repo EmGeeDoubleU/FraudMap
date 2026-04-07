@@ -1,0 +1,93 @@
+{
+  "source": "CFPB Consumer Response Annual Report 2025, Table 1, Page 15",
+  
+  "response_categories": {
+    "closed_with_monetary_relief": "Company provided objective, measurable, verifiable monetary relief",
+    "closed_with_non_monetary_relief": "Company provided other objective, verifiable relief (stopped calls, corrected info, restored access)",
+    "closed_with_explanation": "No relief but provided written explanation",
+    "administrative_response": "Company returned complaint (fraud, litigation, unauthorized third party, duplicate, wrong company)"
+  },
+  
+  "overall_responses": {
+    "closed_with_explanation_pct": 53,
+    "closed_with_non_monetary_relief_pct": 37,
+    "closed_with_monetary_relief_pct": 0.5,
+    "administrative_response_pct": 9,
+    "company_reviewing_pct": 0.1,
+    "untimely_pct": 0.1
+  },
+  
+  "by_product": [
+    {
+      "product": "Credit or consumer reporting",
+      "monetary_pct": 0.02,
+      "non_monetary_pct": 40,
+      "explanation_pct": 51,
+      "admin_pct": 10,
+      "untimely_pct": 0.1
+    },
+    {
+      "product": "Debt collection",
+      "monetary_pct": 0.1,
+      "non_monetary_pct": 23,
+      "explanation_pct": 66,
+      "admin_pct": 7,
+      "untimely_pct": 3
+    },
+    {
+      "product": "Credit card",
+      "monetary_pct": 12,
+      "non_monetary_pct": 19,
+      "explanation_pct": 63,
+      "admin_pct": 5,
+      "untimely_pct": 0.4
+    },
+    {
+      "product": "Checking or savings",
+      "monetary_pct": 10,
+      "non_monetary_pct": 5,
+      "explanation_pct": 83,
+      "admin_pct": 1,
+      "untimely_pct": 0.7
+    },
+    {
+      "product": "Money transfer, virtual currency",
+      "monetary_pct": 2,
+      "non_monetary_pct": 2,
+      "explanation_pct": 94,
+      "admin_pct": 0.5,
+      "untimely_pct": 1
+    },
+    {
+      "product": "Mortgage",
+      "monetary_pct": 2,
+      "non_monetary_pct": 3,
+      "explanation_pct": 91,
+      "admin_pct": 3,
+      "untimely_pct": 1
+    },
+    {
+      "product": "Prepaid card",
+      "monetary_pct": 14,
+      "non_monetary_pct": 7,
+      "explanation_pct": 71,
+      "admin_pct": 3,
+      "untimely_pct": 5
+    },
+    {
+      "product": "Student loan",
+      "monetary_pct": 0.2,
+      "non_monetary_pct": 1,
+      "explanation_pct": 66,
+      "admin_pct": 0.4,
+      "untimely_pct": 31
+    }
+  ],
+  
+  "key_insights": [
+    "40% of credit reporting complaints result in non-monetary relief (corrections)",
+    "94% of money transfer complaints closed with explanation only (denials)",
+    "Credit cards have highest monetary relief rate at 12%",
+    "Student loans have 31% untimely response rate due to SAVE litigation"
+  ]
+}

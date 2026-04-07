@@ -7,7 +7,7 @@ function pathMatches(current, path) {
   return current === path || current.startsWith(`${path}/`);
 }
 
-export default function Header({ sections = [] }) {
+export default function Header({ sections = [], reportKey = 'fraud' }) {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const navigate = useNavigate();
@@ -31,7 +31,7 @@ export default function Header({ sections = [] }) {
   return (
     <>
       <header className={`site-header${scrolled ? ' scrolled' : ''}`}>
-        <a href="https://rulebase.co" className="header-logo" target="_blank" rel="noopener noreferrer">
+        <a href="/" className="header-logo">
           <img src="/rulebase-logo.svg" alt="Rulebase" style={{ height: 24 }} />
         </a>
 
@@ -40,7 +40,7 @@ export default function Header({ sections = [] }) {
             <NavLink
               key={s.path}
               to={s.path}
-              end={s.path === '/'}
+              end={s.path === `/${reportKey}` || s.path === '/fraud'}
               className={({ isActive }) => `pill-nav-item${isActive ? ' active' : ''}`}
             >
               {s.label}

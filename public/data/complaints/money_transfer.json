@@ -1,0 +1,93 @@
+{
+  "source": "CFPB Consumer Response Annual Report 2025, Section 4.5, Pages 33-38",
+  
+  "volume": {
+    "total_complaints": 102900,
+    "pct_of_all_complaints": 2,
+    "sent_to_companies": 85100,
+    "sent_to_companies_pct": 83,
+    "referred_to_other_agencies_pct": 15,
+    "not_actionable_pct": 2
+  },
+  
+  "response_stats": {
+    "timely_response_pct": 99,
+    "consumer_tried_to_resolve_first_pct": 96,
+    "closed_with_explanation_pct": 94,
+    "closed_with_monetary_relief_pct": 2,
+    "closed_with_non_monetary_relief_pct": 2,
+    "administrative_response_pct": 0.5
+  },
+  
+  "by_product_type": [
+    { "type": "Domestic (US) money transfer", "rank": 1, "most_complaints": true },
+    { "type": "Mobile or digital wallet", "rank": 2 },
+    { "type": "Virtual currency", "rank": 3 },
+    { "type": "International money transfer", "rank": 4 },
+    { "type": "Money order, traveler's check", "rank": 5 },
+    { "type": "Check cashing", "rank": 6 }
+  ],
+  
+  "top_issues": [
+    { "issue": "Other transaction problem", "rank": 1 },
+    { "issue": "Fraud or scam", "rank": 2 },
+    { "issue": "Unauthorized transactions", "rank": 3 },
+    { "issue": "Wrong amount charged or received", "rank": 4 },
+    { "issue": "Money was not available when promised", "rank": 5 }
+  ],
+  
+  "growth_vs_prior_2yr_avg": {
+    "domestic_money_transfer_pct": 1317,
+    "mobile_digital_wallet_pct": 202,
+    "virtual_currency_pct": 122,
+    "other_transaction_problem_issue_pct": 2029
+  },
+  
+  "spike_note": "Spike in early 2025 following announcement of several CFPB enforcement matters",
+  
+  "common_complaint_themes": [
+    "Impersonation scams",
+    "Fake investment scams", 
+    "Fraudulent sales scams",
+    "Account takeovers",
+    "Weak security and lack of verification",
+    "Company inaction to recover stolen funds"
+  ],
+  
+  "company_response_patterns": {
+    "denial_rate": "94% closed with explanation only",
+    "common_denials": [
+      "Cited terms of service",
+      "Cited user negligence",
+      "Suggested contacting law enforcement",
+      "Suggested contacting bank",
+      "Claimed unable to reverse transfers",
+      "Claimed unable to recover funds"
+    ],
+    "authorized_transaction_defense": {
+      "description": "Companies deny claims citing transaction was 'authorized'",
+      "cited_factors": [
+        "Account number used",
+        "Account PIN used",
+        "Text confirmations received",
+        "Consumer actively participated in transaction"
+      ]
+    }
+  },
+  
+  "access_problems": [
+    "Delays in transfers, refunds, dispute resolutions",
+    "Account freezes, holds, closures",
+    "Poor communication, unclear reasons for holds",
+    "Financial hardship from inaccessible funds"
+  ],
+  
+  "regulatory_context": {
+    "cfpb_sued_zelle": "December 2024 - CFPB sued Early Warning Services, JPMorgan Chase, Bank of America, Wells Fargo",
+    "cfpb_cash_app_order": "January 2025 - Ordered Block (Cash App) to pay $175M ($120M refunds + $55M penalty)",
+    "senate_pressure": "Senators urging CFPB rulemaking on what counts as authorized vs unauthorized under Reg E",
+    "current_law": "EFTA does not require banks to reimburse for APP fraud since payments are technically authorized"
+  },
+  
+  "key_insight": "94% of money transfer complaints closed with explanation only. Banks are denying scam claims as 'authorized' - but regulators are pushing back."
+}

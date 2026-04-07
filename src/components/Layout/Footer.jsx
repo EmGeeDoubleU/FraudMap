@@ -1,11 +1,20 @@
 import { Link } from 'react-router-dom';
 
-export default function Footer() {
+const SOURCES = {
+  fraud: 'Data Source: FTC Consumer Sentinel Network 2024',
+  complaints: 'Data Source: CFPB Consumer Response Annual Report 2025',
+};
+
+export default function Footer({ reportKey = 'fraud' }) {
+  const methodologyPath = reportKey === 'complaints'
+    ? '/complaints/methodology'
+    : '/fraud/methodology';
+
   return (
     <footer className="site-footer">
       <div className="footer-inner">
         <span className="footer-source">
-          Data Source: FTC Consumer Sentinel Network 2024
+          {SOURCES[reportKey] || SOURCES.fraud}
         </span>
         <span className="footer-brand">
           Built by{' '}
@@ -13,7 +22,7 @@ export default function Footer() {
             Rulebase
           </a>
           {' | '}
-          <Link to="/methodology">Methodology</Link>
+          <Link to={methodologyPath}>Methodology</Link>
         </span>
       </div>
     </footer>

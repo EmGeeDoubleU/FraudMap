@@ -1,0 +1,116 @@
+{
+  "report_title": "State of Consumer Complaints 2025",
+  "subtitle": "A Compliance Burden Report",
+  "prepared_by": "Rulebase",
+  
+  "primary_source": {
+    "title": "CFPB Consumer Response Annual Report 2025",
+    "url": "https://files.consumerfinance.gov/f/documents/cfpb_2025-cr-annual-report_2026-03.pdf",
+    "published": "March 2026",
+    "data_period": "January 1 - December 31, 2025"
+  },
+  
+  "framing": {
+    "thesis": "The complaint crisis has three faces: volume explosion, scam-driven disputes, and furnisher liability. All three land on compliance teams.",
+    "audience": "Compliance, risk, and ops leaders at banks, credit unions, fintechs, BaaS platforms",
+    "tone": "Tension, not stats. Headlines that make compliance officers forward to their boss."
+  },
+  
+  "structure": {
+    "act_1": {
+      "title": "The Flood",
+      "subtitle": "Volume Story",
+      "data_file": "overview.json",
+      "supporting_files": ["geography.json", "system_gaming.json"],
+      "headline": "Complaints doubled. Headcount didn't.",
+      "key_stats": [
+        "6.6M complaints in 2025",
+        "Doubled from 3.2M in 2024",
+        "88% are credit reporting",
+        "3,654% increase since 2019",
+        "AI agents and credit repair orgs flooding system"
+      ]
+    },
+    "act_2": {
+      "title": "The Denials",
+      "subtitle": "Scam Liability Story",
+      "data_files": ["money_transfer.json", "checking_savings.json"],
+      "supporting_files": ["regulatory_context.json"],
+      "headline": "94% of money transfer claims denied. Regulators are watching.",
+      "key_stats": [
+        "Money transfer complaints up 1,317%",
+        "Checking/savings up 69%",
+        "94% closed with explanation only",
+        "Banks citing 'authorized' via PIN, text confirmation",
+        "CFPB sued Zelle, fined Cash App $175M"
+      ]
+    },
+    "act_3": {
+      "title": "The Corrections",
+      "subtitle": "Furnisher Liability Story",
+      "data_files": ["credit_reporting.json", "response_outcomes.json"],
+      "supporting_files": ["credit_card.json"],
+      "headline": "40% of credit reporting complaints require corrections. That's not consumer error. That's your data.",
+      "key_stats": [
+        "40% result in non-monetary relief (corrections)",
+        "Incorrect information complaints up 249%",
+        "Consumers denied jobs and apartments due to errors",
+        "77% of ALL complaints are about Equifax, Experian, or TransUnion"
+      ]
+    }
+  },
+  
+  "data_files": [
+    {
+      "file": "overview.json",
+      "description": "Total complaints, year-over-year trends, product breakdown"
+    },
+    {
+      "file": "response_outcomes.json",
+      "description": "How companies responded - monetary, non-monetary, explanation, admin"
+    },
+    {
+      "file": "credit_reporting.json",
+      "description": "Credit reporting complaints - 88% of all complaints"
+    },
+    {
+      "file": "money_transfer.json",
+      "description": "Money transfer complaints - scam liability story"
+    },
+    {
+      "file": "checking_savings.json",
+      "description": "Checking/savings complaints - fraud claims and denials"
+    },
+    {
+      "file": "credit_card.json",
+      "description": "Credit card complaints - supporting stats"
+    },
+    {
+      "file": "geography.json",
+      "description": "State rankings and special populations"
+    },
+    {
+      "file": "system_gaming.json",
+      "description": "AI agents, credit repair orgs, complaint flooding"
+    },
+    {
+      "file": "regulatory_context.json",
+      "description": "CFPB enforcement actions, Reg E pressure, legislative signals"
+    }
+  ],
+  
+  "sections_cut": [
+    { "section": "4.6 Mortgage", "reason": "Low volume, different ICP, servicing-heavy" },
+    { "section": "4.2 Debt collection", "reason": "Mostly third-party collectors, not banks" },
+    { "section": "4.8 Student loan", "reason": "SAVE litigation noise, not bank compliance" },
+    { "section": "4.9-4.14", "reason": "Niche products, low volume" }
+  ],
+  
+  "headline_options": [
+    "Complaints doubled. Headcount didn't.",
+    "94% of money transfer claims denied. Regulators are watching.",
+    "40% of credit reporting complaints require corrections. That's not consumer error. That's your data.",
+    "6.6 million complaints. One CRA flagged 470,000 as suspected fraud.",
+    "The 'authorized' defense is running out of time."
+  ]
+}

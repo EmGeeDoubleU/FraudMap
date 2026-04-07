@@ -1,7 +1,7 @@
 import { useContext } from 'react';
-import PageContainer from '../components/Layout/PageContainer';
-import ScrollReveal from '../components/common/ScrollReveal';
-import { DownloadContext } from '../App';
+import PageContainer from '../../components/Layout/PageContainer';
+import ScrollReveal from '../../components/common/ScrollReveal';
+import { DownloadContext } from '../../App';
 
 export default function Methodology() {
   const download = useContext(DownloadContext);

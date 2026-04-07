@@ -1,18 +1,18 @@
 import { useEffect, useState, useMemo, useRef, useCallback } from 'react';
-import { useData } from '../hooks/useData';
-import StatCard from '../components/Blocks/StatCard';
-import InsightHeadline from '../components/Blocks/InsightHeadline';
-import Callout from '../components/Blocks/Callout';
-import ExpertCommentary from '../components/Blocks/ExpertCommentary';
-import GeoInsightCard from '../components/Blocks/GeoInsightCard';
-import HorizontalBar from '../components/Charts/HorizontalBar';
-import ReportTreemap from '../components/Charts/ReportTreemap';
-import DivergingBar from '../components/Charts/DivergingBar';
-import SimpleBar from '../components/Charts/SimpleBar';
-import ReportAreaChart from '../components/Charts/ReportAreaChart';
-import DualMapComparison from '../components/Maps/DualMapComparison';
-import generatePDF from '../utils/generatePDF';
-import { formatCurrency, formatPercent, formatNumber, formatMultiplier } from '../utils/formatters';
+import { useData } from '../../hooks/useData';
+import StatCard from '../../components/Blocks/StatCard';
+import InsightHeadline from '../../components/Blocks/InsightHeadline';
+import Callout from '../../components/Blocks/Callout';
+import ExpertCommentary from '../../components/Blocks/ExpertCommentary';
+import GeoInsightCard from '../../components/Blocks/GeoInsightCard';
+import HorizontalBar from '../../components/Charts/HorizontalBar';
+import ReportTreemap from '../../components/Charts/ReportTreemap';
+import DivergingBar from '../../components/Charts/DivergingBar';
+import SimpleBar from '../../components/Charts/SimpleBar';
+import ReportAreaChart from '../../components/Charts/ReportAreaChart';
+import DualMapComparison from '../../components/Maps/DualMapComparison';
+import generatePDF from '../../utils/generatePDF';
+import { formatCurrency, formatPercent, formatNumber, formatMultiplier } from '../../utils/formatters';
 
 export function useReportDownload() {
   const [downloading, setDownloading] = useState(false);
